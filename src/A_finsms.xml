@@ -723,7 +723,6 @@
 <e> <lg> <l pos="A">kaksisäikeinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">kueiʹtšaiggsâž</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kaksitavuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">kueʹhtt-tääv</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kaksivuotias</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_SÄʹMMLAŽ" pos="A">kueiʹtekksaž</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kala</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_" pos="A">kuõpsskueʹll</t> <t Contlex="A_" pos="A">mäʹrddkueʹll</t> <t Contlex="A_" pos="A">uʹrvvkueʹll</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kalaisa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A-ATTR_" pos="A">kueʹlles</t> <t Contlex="A_" pos="A">kuâllai</t> <t Contlex="A_" pos="A">kuâllas</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kalakaara</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="A_" pos="A">kueʹllkääʹrr</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kalaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="A_ČÂÂʹLMTEʹM" pos="A">kueʹlteʹm</t> <t Contlex="A-ATTR_" pos="A">kueʹlteʹmes</t> </tg> </mg> </e>

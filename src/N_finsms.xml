@@ -3831,9 +3831,8 @@
 <e> <lg> <l pos="N">kaksitoista ihmistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_" pos="N">kuâtmlååʹes</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kaksivuotias</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_SÄʹMMLAŽ" pos="N">kuõiʹtekksaž</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kaksonen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PÅÅTTAǨ" pos="N">juuʹmiǩ</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">kala</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ZOO">FISH</sem> <sem class="FOOD">NATURE</sem> <sem class="FOOD">GROCERY</sem> <sem class="M_FOOD_DISH"/> </semantics> <tg xml:lang="sms"> <t Contlex="N_KUEʹLL" pos="N">kueʹll</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">kala</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <tCtn> <t Contlex="N_KUEʹLL" pos="N">kåʹšǩǩkueʹll</t> <re>kuivattu</re> </tCtn> </tg> </mg> </e>
-<e> <lg> <l pos="N">kala</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_PÅÅTTAǨ" pos="N">tuäraǩ</t> <t Contlex="N_OOBRÂC" pos="N">koškkâm</t> <t Contlex="N_OOBRÂC" pos="N">kõskkâm</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">kala</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ZOO">FISH</sem> <sem class="FOOD">NATURE</sem> <sem class="FOOD">GROCERY</sem> <sem class="M_FOOD_DISH"/> </semantics> <tg xml:lang="sms"> <t Contlex="N_KUEʹLL" pos="N">kueʹll</t> </tg> <xg><x>kuivattu kala</x><xt>kåʹšǩǩkueʹll</xt></xg><xg><x>kuivanut kala</x><xt>koškkâm</xt></xg><xg><x>huononmakuinen kala</x><xt>mäʹrddkueʹll</xt></xg><xg><x>kala lehdenlähtöaikaan</x><xt>uʹrvvkueʹll</xt></xg></mg> </e>
+<e> <lg> <l pos="N">uroskala</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t pos="N">kuõpsskueʹll</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kala-ahkio</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> <sem class="WORK">TRAVEL</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_MAINSTUMMUŠ" pos="N">kueʹllǩeʹrres</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kala-aitta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_SÄIʹMM" pos="N">kueʹlläiʹtt</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kala-apaja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_PÄIʹǨǨ" pos="N">kueʹllšeeʹllempäiʹǩǩ</t> <t Contlex="N_PÂÂʹJJ" pos="N">kueʹllšeeʹllemsââʹjj</t> </tg> </mg> </e>
