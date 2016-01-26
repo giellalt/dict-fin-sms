@@ -4119,12 +4119,8 @@
 <e> <lg> <l pos="N">karasteleminen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_TÄÄVTÕS" pos="N">rääkkmõš</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karavaani</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PLAAN" pos="N">karavaan</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kardinaali</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PLAAN" pos="N">kardinaal</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karhu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_SÄʹMMLAŽ" pos="N">kaammǥaž</t> <tCtn> <t Contlex="N_KOONTÂR" pos="N">kaampâr</t> <re>lasten kielessä</re> </tCtn> </tg> </mg> </e>
-<e> <lg> <l pos="N">karhu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_MUEʹRJJ" pos="N">kueʹbǯǯ</t> <t Contlex="N_SÄʹMMLAŽ" pos="N">kammǥaž</t><t Contlex="N_MUÕRÂŽ" pos="N">kuõbǯâž</t> <tCtn> <t Contlex="N_" pos="N">kuõbǯǯ</t> <re/> </tCtn> </tg> </mg> </e>
-<e> <lg> <l pos="N">karhu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_" pos="N">kâʹptt</t> <t Contlex="N_" pos="N">kõrrkaʹtti</t><t Contlex="N_KUÂLAŽ" pos="N">puum-ääkkaž</t> <t Contlex="N_KUÂLAŽ" pos="N">täälaž</t><t Contlex="N_JÄUʹRR" pos="N">vuâsppååʹdnäuʹdd</t> <t Contlex="N_PÕRTT" pos="N">âssastorkk</t> <t Contlex="N_AIHAM" pos="N">äʹjjham</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karhu (sadussa)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_AIHAM" pos="N">aiham</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">karhu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_SÄʹMMLAŽ" pos="N">kaammǥaž</t> <tCtn> <t Contlex="N_KOONTÂR" pos="N">kaampâr</t> <re>lasten kielessä</re> </tCtn> <t Contlex="N_MUEʹRJJ" pos="N">kueʹbǯǯ</t> <t Contlex="N_SÄʹMMLAŽ" pos="N">kammǥaž</t><t Contlex="N_MUÕRÂŽ" pos="N">kuõbǯâž</t> <tCtn> <t Contlex="N_" pos="N">kuõbǯǯ</t> <re/> </tCtn> </tg> </mg>  <mg> <tg xml:lang="sms"><t Contlex="N_" pos="N">kâʹptt</t> <t Contlex="N_" pos="N">kõrrkaʹtti</t><t Contlex="N_KUÂLAŽ" pos="N">puum-ääkkaž</t> <t Contlex="N_KUÂLAŽ" pos="N">täälaž</t><t Contlex="N_JÄUʹRR" pos="N">vuâsppååʹdnäuʹdd</t> <t Contlex="N_PÕRTT" pos="N">âssastorkk</t> <t Contlex="N_AIHAM" pos="N">äʹjjham</t> </tg> </mg> <mg> <tg xml:lang="sms"> <tCtn> <t Contlex="N_AIHAM" pos="N">aiham</t><re>sadussa</re></tCtn> </tg> </mg> </e>
 <e> <lg> <l pos="N">karhukoira</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PIÂNNAI" pos="N">kuõbǯǯpiânnai</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karhun lempinimi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_KOONTÂR" pos="N">kaampâr</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karhunloukku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_ǨEÂLǤAL" pos="N">kuõbǯǯpeärtam</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karhunpentu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_KUÂLAŽ" pos="N">peärnaž</t> <t Contlex="N_JEÄʹRMM" pos="N">peäʹrnn</t><t Contlex="N_KUÂLAŽ" pos="N">kuõbǯǯpeärnaž</t> <t Contlex="N_JEÄʹRMM" pos="N">vuäʹmmpeäʹrnn</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karhunpesä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_KUẸʹTT" pos="N">kuõbǯkueʹtt</t> <t Contlex="N_KUẸʹTT" pos="N">täälkueʹtt</t> </tg> </mg> </e>
@@ -4134,8 +4130,7 @@
 <e> <lg> <l pos="N">karhunrita</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_ǨEÂLǤAL" pos="N">kuõbǯpeärtam</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karhunsammal</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="BOT"/> </semantics> <tg xml:lang="sms"> <t Contlex="N_" pos="N">sââuʹŋel</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karhuruoho</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_SUEIʹNN" pos="N">kuõbǯǯsueiʹnn</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">kari</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_PEÄLDD" pos="N">kuârgg</t> <tCtn> <t Contlex="N_PEÄLDD" pos="N">kuârgg</t> <re>järvessä</re> </tCtn> </tg> </mg> </e>
-<e> <lg> <l pos="N">kari</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PIISSUŽ" pos="N">kuõrǥuž</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">kari</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <tCtn> <t Contlex="N_PEÄLDD" pos="N">kuârgg</t> <re>järvessä</re> </tCtn> <t Contlex="N_PIISSUŽ" pos="N">kuõrǥuž</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karies</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_ǨIÕJJ" pos="N">pääʹnnsiõjj</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karikukko</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ZOO">BIRD</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_SÄʹMMLAŽ" pos="N">cokkraž</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kariseminen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_MAINSTUMMUŠ" pos="N">kuålggummuš</t> </tg> </mg> </e>
@@ -4158,8 +4153,7 @@
 <e> <lg> <l pos="N">karkaiseminen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_MAINSTUMMUŠ" pos="N">saarjdummuš</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karkauspäivä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PEIʹVV" pos="N">võskâspeiʹvv</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karkausvuosi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_EEʹǨǨ" pos="N">võskâseeʹǩǩ</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karkea pohjalumi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_OOBRÂC" pos="N">suâŋač</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karkea pohjalumi</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ENVIR">WEATHER</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_MUÕTT" pos="N">šuõmârmuõtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">karkea pohjalumi</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ENVIR">WEATHER</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_MUÕTT" pos="N">šuõmârmuõtt</t> <t Contlex="N_OOBRÂC" pos="N">suâŋač</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karkeasuola</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_KÄʹLBB" pos="N">čuõmârsäʹltt</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karkelo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_MUÕRR" pos="N">iigrâs-siõrr</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karkki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_" pos="N">njääʹljes</t> </tg> </mg> </e>
@@ -4170,8 +4164,7 @@
 <e> <lg> <l pos="N">karku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_TÄÄVTÕS" pos="N">puåttrõs</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karkulainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_" pos="N">pååđroovõs</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karkuri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_" pos="N">pååđaireâppõs</t> <t Contlex="N_TUÕĐŠTEEI" pos="N">čõʹǩǩeei</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karpalo</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="FOOD">NATURE</sem> <sem class="BOT">BERRY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_TOLL" pos="N">reppjoŋŋ</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karpalo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_MUEʹRJJ" pos="N">jeäʹǧǧlåʹddmueʹrjj</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">karpalo</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="FOOD">NATURE</sem> <sem class="BOT">BERRY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_TOLL" pos="N">reppjoŋŋ</t> <t Contlex="N_MUEʹRJJ" pos="N">jeäʹǧǧlåʹddmueʹrjj</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karppi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PÕRTT" pos="N">karpp</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karriääri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_MILJONÄÄʹR" pos="N">karriääʹr</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karsija</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_TOBDDI" pos="N">karssi</t> </tg> </mg> </e>
@@ -4191,11 +4184,9 @@
 <e> <lg> <l pos="N">karttalehti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PÕRTT" pos="N">karttlõstt</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karttapallo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PẸSS" pos="N">karttpäll</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karttu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_MUÕRR" pos="N">piâlddmuõrr</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karttuuni, ohut puuvillakangas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_SPÄʹSSEB" pos="N">seeʹtec</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">karttuuni</l> <stg> <st/> </stg> </lg> <mg><defNative> ohut puuvillakangas</defNative> <tg xml:lang="sms"> <t Contlex="N_SPÄʹSSEB" pos="N">seeʹtec</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <tCtn> <t Contlex="N_MUÕRR" pos="N">siõpp</t> <re>ihmisen</re> </tCtn> </tg> </mg> </e>
-<e> <lg> <l pos="N">karva</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ZOO">MAMMAL</sem> <sem class="WORK">ECONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_SÕÕUS" pos="N">sõõus</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karva</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="BODY">PART</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_ČUÕŠKK" pos="N">vuõptt</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_SǨIÂŊKK" pos="N">kuålgg</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">karva</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ZOO">MAMMAL</sem> <sem class="BODY">PART</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_SÕÕUS" pos="N">sõõus</t> <t Contlex="N_ČUÕŠKK" pos="N">vuõptt</t> <t Contlex="N_SǨIÂŊKK" pos="N">kuålgg</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karvakengän takapohja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_KUÂLAŽ" pos="N">kääddvuâlaž</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karvakengänneuloja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_JEÄʹNˈN" pos="N">kaammičeäʹpp</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karvakenkä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_PÅÅTTAǨ" pos="N">kååʹddeǩ</t> <t Contlex="N_TÄÄVTÕS" pos="N">laautõs</t> <t Contlex="N_JUʹVJJ" pos="N">tuʹvǩǩ</t> </tg> </mg> </e>
@@ -4207,7 +4198,6 @@
 <e> <lg> <l pos="N">karvanlähtö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_KÄʹLBB" pos="N">påʹrǧǧ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karvapallo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PẸSS" pos="N">sõõusšnåpp</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karvarousku</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="BOT">FUNGUS</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_TUÕDDÂR" pos="N">sõõusmieʹlǩǩkuõbbâr</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karvarousku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_TUÕDDÂR" pos="N">sõõusmieʹlǩǩ-kuõbbâr</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karvattomaksi tuleminen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_TÄÄVTÕS" pos="N">šeʹšnnmõš</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karvatukko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PÅÅTTAǨ" pos="N">sõõustuuʹppiǩ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">karvatuppo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_PẸSS" pos="N">sõõusšnåpp</t> </tg> </mg> </e>
@@ -4228,8 +4218,7 @@
 <e> <lg> <l pos="N">kassi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_AUTT" pos="N">laukk</t> <t Contlex="N_SIÂKˈK" pos="N">siâkk</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kassilohi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_LUÕSS" pos="N">äiddluõss</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kastaja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_TOBDDI" pos="N">ristti</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">kastajaiset</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <tCtn> <t Contlex="N_OOBRÂC" pos="N">risttâm</t> <re>mon.</re> </tCtn> </tg> </mg> </e>
-<e> <lg> <l pos="N">kastajaiset</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_TÄÄVTÕS" pos="N">risttmõš</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">kastajaiset</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <tCtn> <t Contlex="N_OOBRÂC" pos="N">risttâm</t> <re>mon.</re> </tCtn> <t Contlex="N_TÄÄVTÕS" pos="N">risttmõš</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kastamattomuus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_MUÕRR" pos="N">riistʼteʹmesvuõtt</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kastaminen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_MAINSTUMMUŠ" pos="N">kasttummuš</t> <t Contlex="N_TÄÄVTÕS" pos="N">puânnjmõš</t> <t Contlex="N_TÄÄVTÕS" pos="N">risttmõš</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kastautuminen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_TÄÄVTÕS" pos="N">tooidčõõttmõš</t> </tg> </mg> </e>
