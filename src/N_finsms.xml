@@ -9843,8 +9843,7 @@
 <e> <lg> <l pos="N">olija</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_" pos="N">åårrai</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">olinpaikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_PÂÂʹJJ" pos="N">jälstemsââʹjj</t> <t Contlex="N_PÂÂʹJJ" pos="N">åårramsââʹjj</t> <t Contlex="N_PÂÂʹJJ" pos="N">kuäʹrjjsââʹjj</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">olio</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_SÄʹMMLAŽ" pos="N">jällsaž</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">olka</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="BODY">PART</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_HÕʹPPI" pos="N">aʹrddi</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">olka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="N_JEÄʹRMM" pos="N">vuäʹlǧǧ</t> <t Contlex="N_KÄʹLBB" pos="N">väʹlmm</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">olka</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="BODY">PART</sem> </semantics> <tg xml:lang="sms"> <t Contlex="N_JEÄʹRMM" pos="N">vuäʹlǧǧ</t> <t Contlex="N_KÄʹLBB" pos="N">väʹlmm</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">olkahihna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_KÄʹLBB" pos="N">vuäʹlǧǧläʹbǯǯ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">olkaimet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_BIOLOGIA" pos="N">poteâška</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">olkaimet, henkselit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="N_" pos="N">podeäška</t> </tg> </mg> </e>
