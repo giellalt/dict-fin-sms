@@ -20,9 +20,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="NUM_" pos="Num">kääuʹc</t> <re/>
-       </tCtn>
+       <t Contlex="NUM_" pos="Num">kääuʹc</t>
      </tg>
    </mg>
 </e>
@@ -107,21 +105,8 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="NUM_" pos="Num">kuõʹhtt</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Num">kaksi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="NUM_" pos="">muäʹdd</t>
+       <t Contlex="NUM_" pos="Num">kuõʹhtt</t>
+       <t Contlex="NUM_" pos="Num">muäʹdd</t>
      </tg>
    </mg>
 </e>
@@ -205,7 +190,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="NUM_" pos="">kuälmadlåkka</t>
+       <t Contlex="NUM_" pos="Num">kuälmadlåkka</t>
      </tg>
    </mg>
 </e>
@@ -256,7 +241,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="NUM_" pos="">koummčueʹđ</t>
+       <t Contlex="NUM_" pos="Num">koummčueʹđ</t>
      </tg>
    </mg>
 </e>
@@ -281,7 +266,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="NUM_" pos="">koummdohat</t>
+       <t Contlex="NUM_" pos="Num">koummdohat</t>
      </tg>
    </mg>
 </e>
@@ -366,23 +351,8 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="NUM_LO" pos="Num">kuttmlo</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Num">kuusitoista</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="NUM_LO" pos="Num">kutumblo</t> <re/>
-       </tCtn>
+       <t Contlex="NUM_LO" pos="Num">kuttmlo</t>
+       <t Contlex="NUM_LO" pos="Num">kutumblo</t>
      </tg>
    </mg>
 </e>
@@ -410,6 +380,18 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="NUM_" pos="Num">lååimeʹt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">miljaardi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="NUM_ALGG" pos="Num">miljardd</t>
      </tg>
    </mg>
 </e>
@@ -454,7 +436,7 @@
        <sem class="SENSE">QUANTITY</sem>
      </semantics>
      <tg xml:lang="sms">
-       <t Contlex="NUM_" pos="Num">mäŋgg</t>
+       <t Contlex="NUM_AELDD" pos="Num">mäŋgg</t>
      </tg>
    </mg>
 </e>
@@ -469,7 +451,7 @@
        <sem class="SENSE">QUANTITY</sem>
      </semantics>
      <tg xml:lang="sms">
-       <t Contlex="NUM_" pos="Num">mäŋgg</t>
+       <t Contlex="NUM_AELDD" pos="Num">mäŋgg</t>
      </tg>
    </mg>
 </e>
@@ -496,7 +478,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="NUM_NELLJ" pos="">nellj</t>
+       <t Contlex="NUM_NELLJ" pos="Num">nellj</t>
      </tg>
    </mg>
 </e>
@@ -538,7 +520,19 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="NUM_" pos="">nenjnâmlååǥǥad</t>
+       <t Contlex="DET_" pos="Det">nenjnâmlååǥǥad</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">neljätoista</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t pos="">nelljmlo</t>
      </tg>
    </mg>
 </e>
@@ -581,7 +575,7 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="NUM_LO" pos="Num">nenjmlo</t>
-       <t Contlex="NUM_LO" pos="">nenjnâmlo</t>
+       <t Contlex="NUM_LO" pos="Num">nenjnâmlo</t>
      </tg>
    </mg>
 </e>
@@ -593,7 +587,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="NUM_PAPP" pos="">noll</t>
+       <t Contlex="NUM_PAPP" pos="Num">noll</t>
      </tg>
    </mg>
 </e>
@@ -681,7 +675,7 @@
        <sem class="SENSE">QUANTITY</sem>
      </semantics>
      <tg xml:lang="sms">
-       <t Contlex="NUM_" pos="Num">mäŋgg</t>
+       <t Contlex="NUM_AELDD" pos="Num">mäŋgg</t>
      </tg>
    </mg>
 </e>
@@ -733,7 +727,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="NUM_" pos="">vittdohat</t>
+       <t Contlex="NUM_" pos="Num">vittdohat</t>
      </tg>
    </mg>
 </e>
@@ -760,9 +754,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="NUM_" pos="Num">åʹhcc</t> <re/>
-       </tCtn>
+       <t Contlex="NUM_" pos="Num">åʹhcc</t>
      </tg>
    </mg>
 </e>
@@ -775,7 +767,7 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="NUM_LO" pos="Num">åʹhcclo</t>
-       <t Contlex="NUM_" pos="">åʹhcclå</t>
+       <t Contlex="NUM_" pos="Num">åʹhcclå</t>
      </tg>
    </mg>
 </e>

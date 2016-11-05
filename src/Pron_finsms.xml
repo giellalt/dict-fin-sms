@@ -286,8 +286,8 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON-REFL-SG3-LOC_" pos="Pron">jijstes</t>
        <t Contlex="PRON-REFL-PL3-LOC_" pos="Pron">jijsteez</t>
+       <t Contlex="PRON-REFL-SG3-LOC_" pos="Pron">jijstes</t>
      </tg>
    </mg>
 </e>
@@ -311,8 +311,8 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON-REFL_" pos="Pron">jiõččân</t>
        <t Contlex="PRON-REFL_" pos="Pron">jiõččan</t>
+       <t Contlex="PRON-REFL_" pos="Pron">jiõččân</t>
      </tg>
    </mg>
 </e>
@@ -764,8 +764,8 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON-REFL_" pos="Pron">jiõččân</t>
        <t Contlex="PRON-REFL_" pos="Pron">jiõččan</t>
+       <t Contlex="PRON-REFL_" pos="Pron">jiõččân</t>
        <t Contlex="PRON-PERS_" pos="Pron">muu</t>
      </tg>
    </mg>
@@ -886,7 +886,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">nämä (tässä)</l>
+     <l pos="Pron">nämä </l>
      <stg> <st/>
      </stg>
    </lg>
@@ -904,8 +904,8 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON-REFL_" pos="Pron">jiõččân</t>
        <t Contlex="PRON-REFL_" pos="Pron">jiõččan</t>
+       <t Contlex="PRON-REFL_" pos="Pron">jiõččân</t>
      </tg>
    </mg>
 </e>
@@ -1151,7 +1151,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">tämä (tässä)</l>
+     <l pos="Pron">tämä </l>
      <stg> <st/>
      </stg>
    </lg>

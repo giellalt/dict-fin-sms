@@ -19,20 +19,7 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="PCLE_" pos="Pcle">-a</t>
-       <tCtn>
-       <t Contlex="PCLE_" pos="Pcle">deʹbe</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-han</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
+       <t Contlex="PCLE_" pos="Pcle">deʹbe</t>
        <t Contlex="PCLE_" pos="Pcle">ju</t>
        <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
        <t Contlex="PCLE_" pos="Pcle">tâma</t>
@@ -76,6 +63,18 @@
      </stg>
    </lg>
    <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PCLE_" pos="Pcle">-a</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">-hän</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
      <semantics>
        <sem class="SENSE">EMOTION</sem>
      </semantics>
@@ -107,7 +106,6 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-a</t>
        <t Contlex="PCLE_" pos="Pcle">deʹbe</t>
        <t Contlex="PCLE_" pos="Pcle">ju</t>
        <t Contlex="PCLE_" pos="Pcle">teʹbe</t>

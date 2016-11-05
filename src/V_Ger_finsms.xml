@@ -12,7 +12,7 @@
      </sourcenote> </lics>
 <e>
    <lg>
-     <l pos="">eläessään</l>
+     <l pos="Ger">eläessään</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -24,7 +24,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">hiihtäen</l>
+     <l pos="Ger">hiihtäen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -36,19 +36,20 @@
 </e>
 <e>
    <lg>
-     <l pos="">jakaantumaton</l>
+     <l pos="A">jakaantumaton</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
        <t pos="Ger">juâkkjeǩânai</t>
+       <t pos="Ger">jueʹjjǩânai</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="">jakaantumaton, jakamaton</l>
+     <l pos="A">jakamaton</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -60,7 +61,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">juosten</l>
+     <l pos="Ger">juosten</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -72,7 +73,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">kastamatta</l>
+     <l pos="Ger">kastamatta</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -84,7 +85,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">kävellen</l>
+     <l pos="Ger">kävellen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -96,7 +97,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">lentäen</l>
+     <l pos="Ger">lentäen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -108,7 +109,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">näkemätön</l>
+     <l pos="A">näkemätön</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -120,7 +121,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">näkymätön</l>
+     <l pos="A">näkymätön</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -132,7 +133,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">ristimättä</l>
+     <l pos="Ger">ristimättä</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -144,7 +145,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">ristimätön</l>
+     <l pos="A">ristimätön</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -156,7 +157,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">sulamaton</l>
+     <l pos="A">sulamaton</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -168,7 +169,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">sulamatta</l>
+     <l pos="Ger">sulamatta</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -180,7 +181,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">syntymättä</l>
+     <l pos="Ger">syntymättä</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -192,7 +193,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">syntymätön</l>
+     <l pos="A">syntymätön</l>
      <stg> <st/>
      </stg>
    </lg>

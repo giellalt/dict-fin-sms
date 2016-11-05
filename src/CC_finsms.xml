@@ -137,11 +137,8 @@
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem class="SENSE">COGNITION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="CC_" pos="CC">a</t>
+       <t Contlex="CC_" pos="CC">ba</t>
      </tg>
    </mg>
 </e>
@@ -152,8 +149,11 @@
      </stg>
    </lg>
    <mg>
+     <semantics>
+       <sem class="SENSE">COGNITION</sem>
+     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="CC_" pos="">ba</t>
+       <t Contlex="CC_" pos="CC">a</t>
      </tg>
    </mg>
 </e>
@@ -180,9 +180,23 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CC_" pos="CC">leša</t> <re/>
-       </tCtn>
+       <t Contlex="CC_" pos="CC">leâža</t>
+       <t Contlex="CC_" pos="CC">leša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">mutta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <semantics>
+       <sem class="SENSE">COGNITION</sem>
+     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="CC_" pos="CC">peʹce</t>
      </tg>
    </mg>
 </e>
@@ -209,24 +223,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CC_" pos="CC">seša</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CC">mutta, vaan; paitsi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">COGNITION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="CC_" pos="CC">peʹce</t>
+       <t Contlex="CC_" pos="CC">seša</t>
      </tg>
    </mg>
 </e>
@@ -281,6 +278,21 @@
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="CC_" pos="CC">a</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">paitsi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <semantics>
+       <sem class="SENSE">COGNITION</sem>
+     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="CC_" pos="CC">peʹce</t>
      </tg>
    </mg>
 </e>
@@ -396,11 +408,8 @@
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem class="SENSE">COGNITION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="CC_" pos="CC">a</t>
+       <t Contlex="CC_" pos="CC">ba</t>
      </tg>
    </mg>
 </e>
@@ -411,8 +420,11 @@
      </stg>
    </lg>
    <mg>
+     <semantics>
+       <sem class="SENSE">COGNITION</sem>
+     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="CC_" pos="">ba</t>
+       <t Contlex="CC_" pos="CC">a</t>
      </tg>
    </mg>
 </e>
@@ -465,6 +477,21 @@
      </stg>
    </lg>
    <mg>
+     <semantics>
+       <sem class="SENSE">COGNITION</sem>
+     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="CC_" pos="CC">peʹce</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">vaan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
      <tg xml:lang="sms">
        <t Contlex="CC_" pos="CC">pâi</t>
      </tg>
@@ -493,9 +520,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CC_" pos="CC">seša</t> <re/>
-       </tCtn>
+       <t Contlex="CC_" pos="CC">seša</t>
      </tg>
    </mg>
 </e>

@@ -24,7 +24,19 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">anna, antaa</l>
+     <l pos="Interj">anna</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="INTERJ_" pos="Interj">äʹn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">antaa</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -72,7 +84,19 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">hyvää päivää!, terve!</l>
+     <l pos="Interj">hui (salaman päivittelyhuudahdus)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="INTERJ_" pos="Interj">sveât</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hyvää päivää!</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -96,7 +120,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">joo, kyllä</l>
+     <l pos="Interj">joo</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -115,12 +139,25 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="INTERJ_" pos="Interj">davai</t>
+       <t Contlex="INTERJ_" pos="Interj">davai</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">katsos, kas, näes</l>
+     <l pos="Interj">kas</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="INTERJ_" pos="Interj">vuânak</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">katsos</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -150,6 +187,21 @@
    </lg>
    <mg>
      <semantics>
+       <sem class="SENSE">PERCEPTION</sem>
+     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="INTERJ_" pos="Interj">kâʹl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kyllä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <semantics>
        <sem class="SENSE">EMOTION</sem>
      </semantics>
      <tg xml:lang="sms">
@@ -164,17 +216,14 @@
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem class="SENSE">PERCEPTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="INTERJ_" pos="Interj">kâʹl</t>
+       <t Contlex="INTERJ_" pos="Intrj">joo</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">luojan kiitos (huudahdus kun onnestaa)</l>
+     <l pos="Interj">luojan kiitos </l>
      <stg> <st/>
      </stg>
    </lg>
@@ -186,7 +235,19 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">niin, noin; noin, lähes, suunnilleen</l>
+     <l pos="Interj">lähes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="INTERJ_" pos="Interj">nuʹtt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">niin</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -210,25 +271,27 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">noin, sillä tavoin</l>
+     <l pos="Interj">noin</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="INTERJ_" pos="Interj">nuʹt-a</t>
+       <t Contlex="INTERJ_" pos="Interj">nuʹtt</t>
+       <t Contlex="INTERJ_" pos="Interj">nuʹtt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">noin, suunnilleen</l>
+     <l pos="Interj">näes</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="INTERJ_" pos="Interj">nuʹt-a</t>
+       <t Contlex="INTERJ_" pos="Interj">vuânak</t>
      </tg>
    </mg>
 </e>
@@ -300,7 +363,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">sillä lailla, sillä tavalla</l>
+     <l pos="Interj">sillä lailla</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -312,13 +375,50 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">siunatkoon, hui (salaman päivittelyhuudahdus)</l>
+     <l pos="Interj">sillä tavalla</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="INTERJ_" pos="Interj">nuʹt-a</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">sillä tavoin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="INTERJ_" pos="Interj">nuʹt-a</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">siunatkoon</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="INTERJ_" pos="Interj">sveât</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">suunnilleen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="INTERJ_" pos="Interj">nuʹt-a</t>
+       <t Contlex="INTERJ_" pos="Interj">nuʹtt</t>
      </tg>
    </mg>
 </e>
@@ -334,6 +434,18 @@
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="INTERJ_" pos="Interj">tiõrv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">terve!</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="INTERJ_" pos="Interj">tiõrv!</t>
      </tg>
    </mg>
 </e>

@@ -168,27 +168,13 @@
 </e>
 <e>
    <lg>
-     <l pos="CS">joshan</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="CS_" pos="">davai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="CS">jotta</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CS_" pos="CS">õõi</t> <re/>
-       </tCtn>
+       <t Contlex="CS_" pos="CS">õõi</t>
      </tg>
    </mg>
 </e>
@@ -215,9 +201,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CS_" pos="CS">ǥõõi</t> <re/>
-       </tCtn>
+       <t Contlex="CS_" pos="CS">ǥõõi</t>
      </tg>
    </mg>
 </e>
@@ -230,6 +214,18 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="CS_" pos="CS">kojo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">koska</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="CS_" pos="CS">kuäʹss</t>
      </tg>
    </mg>
 </e>
@@ -257,49 +253,9 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="CS_" pos="CS">kojo</t>
-       <t Contlex="CS_" pos="">kuäʹss</t>
-       <tCtn>
-       <t Contlex="CS_" pos="CS">teäʹl</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">koska</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CS_" pos="CS">teʹl</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">koska</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CS_" pos="CS">tâʹl</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">koska</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
+       <t Contlex="CS_" pos="CS">teäʹl</t>
+       <t Contlex="CS_" pos="CS">teʹl</t>
+       <t Contlex="CS_" pos="CS">tâʹl</t>
        <t Contlex="CS_" pos="CS">tõnt</t>
      </tg>
    </mg>
@@ -330,20 +286,7 @@
        <t Contlex="CS_" pos="CS">diǥu</t>
        <t Contlex="CS_" pos="CS">ku</t>
        <t Contlex="CS_" pos="CS">mâʹhtt</t>
-       <tCtn>
-       <t Contlex="CS_" pos="CS">mâʹta</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">kuin</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
+       <t Contlex="CS_" pos="CS">mâʹta</t>
        <t Contlex="CS_" pos="CS">mäʹhtt</t>
        <t Contlex="CS_" pos="CS">ǥu</t>
      </tg>
@@ -488,18 +431,6 @@
 </e>
 <e>
    <lg>
-     <l pos="CC">mutta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="CC_" pos="CC">leâža</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="CS">niin kauan kuin</l>
      <stg> <st/>
      </stg>
@@ -572,34 +503,8 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CS_" pos="CS">teäʹl</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">sillä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CS_" pos="CS">teʹl</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">sillä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
+       <t Contlex="CS_" pos="CS">teäʹl</t>
+       <t Contlex="CS_" pos="CS">teʹl</t>
        <t Contlex="CS_" pos="CS">tõnt</t>
      </tg>
    </mg>
@@ -682,23 +587,8 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="CS_" pos="CS">håʹt-i</t>
-       <tCtn>
-       <t Contlex="CS_" pos="CS">leâša</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">vaikka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="CS_" pos="CS">leša</t> <re/>
-       </tCtn>
+       <t Contlex="CS_" pos="CS">leâša</t>
+       <t Contlex="CS_" pos="CS">leša</t>
      </tg>
    </mg>
 </e>
@@ -722,7 +612,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="CS_" pos="">håʹt mâka</t>
+       <t Contlex="CS_" pos="CS">håʹt mâka</t>
      </tg>
    </mg>
 </e>

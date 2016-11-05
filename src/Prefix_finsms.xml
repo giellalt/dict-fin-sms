@@ -90,7 +90,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">epä-</l>
+     <l pos="Prefix">epä-</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -174,6 +174,18 @@
 </e>
 <e>
    <lg>
+     <l pos="N">housu-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PREFIX/A_" pos="Prefix">puhss-</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="A">ikuinen</l>
      <stg> <st/>
      </stg>
@@ -192,10 +204,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
        <t Contlex="PREFIX/A_" pos="Prefix">pååđ-</t>
-       <re>vapaa</re>
-       </tCtn>
      </tg>
    </mg>
 </e>
@@ -249,7 +258,19 @@
 </e>
 <e>
    <lg>
-     <l pos="A">kiero (puusta)</l>
+     <l pos="N">kevät</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PREFIX/A_" pos="Prefix">ǩiiđâš-</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kiero </l>
      <stg> <st/>
      </stg>
    </lg>
@@ -351,10 +372,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
        <t Contlex="PREFIX/A_" pos="Prefix">pann-</t>
-       <re>pieni</re>
-       </tCtn>
      </tg>
    </mg>
 </e>

@@ -79,7 +79,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Det">eräs, muuan; joku, jokunen</l>
+     <l pos="Det">eräs</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -91,7 +91,43 @@
 </e>
 <e>
    <lg>
-     <l pos="Det">joka, jokainen</l>
+     <l pos="Det">heidän oma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET-REFL_" pos="Det">jiiʹjjez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">hänen oma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET-REFL_" pos="Det">jiiʹjjes</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">joka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET_" pos="Det">jueʹǩǩ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">jokainen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -118,6 +154,18 @@
 </e>
 <e>
    <lg>
+     <l pos="Det">joku</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET_" pos="Det">måttam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Det">jokunen</l>
      <stg> <st/>
      </stg>
@@ -126,6 +174,18 @@
      <semantics>
        <sem class="SENSE">PERCEPTION</sem>
      </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="DET_" pos="Det">måttam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">jokunen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
      <tg xml:lang="sms">
        <t Contlex="DET_" pos="Det">måttam</t>
      </tg>
@@ -188,35 +248,9 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="DET_" pos="Det">kuäbbaž-a</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">kumpikin</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <tCtn>
-       <t Contlex="DET_" pos="Det">kuõhttu</t> <re/>
-       </tCtn>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">kumpikin, molemmat</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="DET_" pos="Det">kuhttu</t>
+       <t Contlex="DET_" pos="Det">kuäbbaž-a</t>
+       <t Contlex="DET_" pos="Det">kuõhttu</t>
      </tg>
    </mg>
 </e>
@@ -246,17 +280,13 @@
 </e>
 <e>
    <lg>
-     <l pos="Det">millainen</l>
+     <l pos="Det">meidän oma</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem class="HUMAN">PEOPLE</sem>
-       <sem class="SENSE">PERCEPTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="DET_AANAR" pos="Det">måkam</t>
+       <t Contlex="DET-REFL_" pos="Det">jiiʹjjen</t>
      </tg>
    </mg>
 </e>
@@ -269,6 +299,22 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="DET_" pos="Det">muʹvddem</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">millainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <semantics>
+       <sem class="HUMAN">PEOPLE</sem>
+       <sem class="SENSE">PERCEPTION</sem>
+     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="DET_AANAR" pos="Det">måkam</t>
      </tg>
    </mg>
 </e>
@@ -286,6 +332,18 @@
 </e>
 <e>
    <lg>
+     <l pos="Det">minun oma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET-REFL_" pos="Det">jiijjân</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Det">moinen</l>
      <stg> <st/>
      </stg>
@@ -296,6 +354,18 @@
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="DET_AANAR" pos="Det">nåkkam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">molemmat</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET_" pos="Det">kuhttu</t>
      </tg>
    </mg>
 </e>
@@ -356,6 +426,30 @@
 </e>
 <e>
    <lg>
+     <l pos="Det">muuan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET_" pos="Det">måttam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">muutama</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET_" pos="Det">muäʹdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Det">neljäs</l>
      <stg> <st/>
      </stg>
@@ -368,7 +462,19 @@
 </e>
 <e>
    <lg>
-     <l pos="Det">pari, noin kaksi, muutama</l>
+     <l pos="Det">noin kaksi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET_" pos="Det">muäʹdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">pari</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -510,6 +616,30 @@
 </e>
 <e>
    <lg>
+     <l pos="Det">sinun oma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET-REFL_" pos="Det">jiijjâd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">teidän oma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="DET-REFL_" pos="Det">jiiʹjjed</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Det">toinen</l>
      <stg> <st/>
      </stg>
@@ -602,7 +732,7 @@
        <sem class="SENSE">COGNITION</sem>
      </semantics>
      <tg xml:lang="sms">
-       <t Contlex="DET-SHORTDE_" pos="Det">tät</t>
+       <t Contlex="DET-SHORTDEM_" pos="Det">tät</t>
      </tg>
    </mg>
 </e>
