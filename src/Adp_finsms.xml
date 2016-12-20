@@ -2705,8 +2705,12 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="ADP_" pos="Adp">pâiʹl</t>
-       <t Contlex="ADP_" pos="Po">pâʹjjel</t>
+       <t Contlex="PR_" pos="Pr">pâʹjjel</t>
      </tg>
+     <xg>
+       <x>heidän on tarkoitus mennä rajan yli</x>
+       <xt xml:lang="sms">seeʹst lij miõll mõõnnâd pâʹjjel raaj</xt>
+     </xg>
    </mg>
 </e>
 <e>

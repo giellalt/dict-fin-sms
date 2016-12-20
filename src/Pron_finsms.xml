@@ -27,6 +27,10 @@
      <tg xml:lang="sms">
        <t Contlex="PRON-PERS-PL3_" pos="Pron">sij</t>
      </tg>
+     <xg>
+       <x>heidän ei pidä</x>
+       <xt xml:lang="sms">sij jie õõlǥ</xt>
+     </xg>
    </mg>
 </e>
 <e>
@@ -110,7 +114,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itsekseen</l>
+     <l pos="Pron">itsekseen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -123,7 +127,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itseksemme</l>
+     <l pos="Pron">itseksemme</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -135,7 +139,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itsekseni</l>
+     <l pos="Pron">itsekseni</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -147,7 +151,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itseksenne</l>
+     <l pos="Pron">itseksenne</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -159,7 +163,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itseksesi</l>
+     <l pos="Pron">itseksesi</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -171,7 +175,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itselleen</l>
+     <l pos="Pron">itselleen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -184,7 +188,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itsellemme</l>
+     <l pos="Pron">itsellemme</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -196,7 +200,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itselleni</l>
+     <l pos="Pron">itselleni</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -208,7 +212,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itsellenne</l>
+     <l pos="Pron">itsellenne</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -220,7 +224,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itsellesi</l>
+     <l pos="Pron">itsellesi</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -232,7 +236,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itseltämme</l>
+     <l pos="Pron">itseltämme</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -244,7 +248,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itseltäni</l>
+     <l pos="Pron">itseltäni</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -256,7 +260,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itseltänne</l>
+     <l pos="Pron">itseltänne</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -268,7 +272,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itseltäsi</l>
+     <l pos="Pron">itseltäsi</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -280,7 +284,7 @@
 </e>
 <e>
    <lg>
-     <l pos="">itseltään</l>
+     <l pos="Pron">itseltään</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -983,67 +987,6 @@
 </e>
 <e>
    <lg>
-     <l pos="">päälleen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolâs</t>
-       <t Contlex="PRON_" pos="Pron">oolâz</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="">päällemme</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolâm</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">päälleni</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolam</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="">päällenne</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolâd</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">päällesi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolad</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Pron">se</l>
      <stg> <st/>
      </stg>
@@ -1136,18 +1079,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">taakseen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PRON-SPAT-SG3-ILL_" pos="Pron">mâʹŋŋlasas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Pron">te</l>
      <stg> <st/>
      </stg>
@@ -1199,74 +1130,107 @@
 </e>
 <e>
    <lg>
-     <l pos="">ylleen</l>
+     <l pos="Pron">he kaksi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolâs</t>
-       <t Contlex="PRON_" pos="Pron">oolâz</t>
+       <t Contlex="PRON_" pos="Pron">suäna</t>
+       <t Contlex="PRON_" pos="Pron">såna</t>
+       <t Contlex="PRON_" pos="Pron">sååna</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="">yllemme</l>
+     <l pos="Pron">itsekseen</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolâm</t>
+       <t Contlex="PRON_" pos="Pron">jiõččaidldees</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pron">ylleni</l>
+     <l pos="Pron">itseksensä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolam</t>
+       <t Contlex="PRON_" pos="Pron">jiõččineez</t>
+       <t Contlex="PRON_" pos="Pron">jiõččines</t>
+       <t Contlex="PRON_" pos="Pron">jičineez</t>
+       <t Contlex="PRON_" pos="Pron">jičines</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="">yllenne</l>
+     <l pos="Pron">itsensä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolâd</t>
+       <t Contlex="PRON_" pos="Pron">jiijjâs</t>
+       <t Contlex="PRON_" pos="Pron">jiijjâz</t>
+       <t Contlex="PRON_" pos="Pron">jiiʹjjes</t>
+       <t Contlex="PRON_" pos="Pron">jiiʹjjez</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pron">yllesi</l>
+     <l pos="Pron">itsestään</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON_" pos="Pron">oolad</t>
+       <t Contlex="PRON_" pos="Pron">jiõččaildes</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pron">ympärille|ni,-si,-nsä,-mme,-nne, -nsä</l>
+     <l pos="Adv">heidän ei pidä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PRON-SPAT-SG1-ILL_" pos="Pron">pirrsan</t>
+       <t Contlex="ADV_" pos="Adv">sij jie õõlǥ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">minun omani</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Pron">jiiččan</t>
+       <t Contlex="ADV_" pos="Pron">jiõččan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">omani</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Pron">jiiččan</t>
+       <t Contlex="ADV_" pos="Pron">jiõččan</t>
      </tg>
    </mg>
 </e>
