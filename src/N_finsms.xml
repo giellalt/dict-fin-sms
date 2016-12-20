@@ -675,18 +675,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">RN:o</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_" pos="N">RN:r</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">Raamattu</l>
      <stg><st/>
      </stg>
@@ -802,18 +790,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="N_PAIQKHKH" pos="N">ruõššäiʹǧǧ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">YK:n Kansainvälisen työjärjestön laatima itsenäisten maiden alkuperäis- ja heimokansoja koskeva yleissopimus</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_SAJOS" pos="N">ILO-suåppmõš</t>
      </tg>
    </mg>
 </e>
@@ -70850,7 +70826,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">koristekuvio: kaari</l>
+     <l pos="N">kaari koristekuviona</l>
      <stg><st/>
      </stg>
    </lg>
@@ -90053,7 +90029,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">leikki: verkko</l>
+     <l pos="N" re="leikki">verkko</l>
      <stg><st/>
      </stg>
    </lg>
@@ -114480,18 +114456,6 @@
 </e>
 <e>
    <lg>
-     <l pos="">n.-čuäʹrvv: naiti</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t pos="N">njäiʹdd-</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">naakija</l>
      <stg><st/>
      </stg>
@@ -135993,7 +135957,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">peski: kellohelmainen peski</l>
+     <l pos="N">kellohelmainen peski</l>
      <stg><st/>
      </stg>
    </lg>
@@ -175979,7 +175943,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">siõbll myös: soselumi</l>
+     <l pos="N">soselumi</l>
      <stg><st/>
      </stg>
    </lg>

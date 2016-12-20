@@ -491,7 +491,19 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">kenen; jonka</l>
+     <l pos="Pron">jonka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PRON_" pos="Pron">koon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kenen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -533,7 +545,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">ketkä; jotka</l>
+     <l pos="Pron">ketkä</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -545,7 +557,31 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">koko; kokonaan</l>
+     <l pos="Pron">jotka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PRON_" pos="Pron">kook</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">koko</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PRON_PUK" pos="Pron">puk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kokonaan</l>
      <stg> <st/>
      </stg>
    </lg>

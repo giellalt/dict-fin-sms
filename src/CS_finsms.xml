@@ -377,7 +377,31 @@
 </e>
 <e>
    <lg>
-     <l pos="CS">kun; kuin; jos</l>
+     <l pos="CS">kun</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="CS_" pos="CS">ko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">kuin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="CS_" pos="CS">ko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">jos</l>
      <stg> <st/>
      </stg>
    </lg>

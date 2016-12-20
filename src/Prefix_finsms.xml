@@ -426,7 +426,19 @@
 </e>
 <e>
    <lg>
-     <l pos="A">pysty; jyrkkä</l>
+     <l pos="A">jyrkkä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PREFIX/A_" pos="Prefix">ceägg-</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">pysty</l>
      <stg> <st/>
      </stg>
    </lg>
