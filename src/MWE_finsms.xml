@@ -4154,4 +4154,348 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="Adv">kanssa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">vuiʹm esim. tovereiden k. taaurõõžživuiʹm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kantaako vene teidät kaikki?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">kåblneped-a puk võnnsa?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">karhu käänsi kylkeään Marian päivänä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">kuõbǯǯ läʹznnpeeiʹv piirâs jåårǥli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">karhu on kontion varsinainen nimi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">kuõbǯǯ lij tääla pueʹrmõs nõmm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">karhulla on 9 miehen voima</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">kuõbǯǯâst lij ååuʹc oummu viõkk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kas tässä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">taʹltte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kattoon kirjoitettu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">laaǥǥâst lij ǩeʹrjjtum</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kello läheni kahta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">čiâss vaaʹʒʒi ââlda kueiʹt ääiʹj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kello on yli kahden</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">pâʹjjel kueiʹtest</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mihin matka?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">koozz vuõʹlǧǧiǩ?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mihin suuntaan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">koonn årra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mikä hätänä?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">mii jieʹtten? mii šõõddi?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mikä on vikana?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">mii lij vââʹǩǩen?</t>
+       <t Contlex="ADV_" pos="Adv">mii lij väddan?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mikä tahansa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">håʹt mii</t>
+       <t Contlex="ADV_" pos="Adv">mii täättas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">minne matka?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">kokkas-a vuõʹlǧǧiǩ?</t>
+       <t Contlex="ADV_" pos="Adv">kookkas-a vuõʹlǧǧiǩ?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mistä olet kotoisin?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">koon åʹrnn leäk?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mistä päin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">koon åʹrnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">miten työsi sujuu?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">mäʹhtt tuʹst tuâjj jåått?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mitä ihminen joka päivä laskee?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">mâiʹd ooumâž juõʹǩǩ peeiʹv luâštt?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mitä kaikkea olenkaan nähnyt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">mâiʹd juʹn leäm vuäinnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mitä kautta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">koon pääiʹǩ</t>
+       <t Contlex="ADV_" pos="Adv">kooǥǥ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mitä kuuluu?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">kâkkva jeälšak?</t>
+       <t Contlex="ADV_" pos="Adv">mâiʹd teâđak?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mitä mistäkin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">koʹst koʹst-a</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mitä tahdot palkaksi?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">mõõnn täättak päʹlǩǩen?</t>
+       <t Contlex="ADV_" pos="Adv">mõõnn vääʹldak päʹlǩǩen?:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">montako huonetta on talossa?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">kââllin lõõnnjin lij põrtt?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">talvella lakki päässä kesällä lakitta?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">tälvva keäʹpprin ǩeässa keäʹppertää?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">tapahtukoon Sinun tahtosi maan päällä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">leʹčči Tuu väʹldd määʹdd âʹlnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vanhako olet?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">jiânnâi-a eeʹǩǩed tuʹst lie?</t>
+     </tg>
+   </mg>
+</e>
+
+
 </r>

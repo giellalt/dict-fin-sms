@@ -48,13 +48,13 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">hei!</l>
+     <l pos="Interj">hei</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="INTERJ_" pos="Interj">tiõrv!</t>
+       <t Contlex="INTERJ_" pos="Interj">tiõrv</t>
      </tg>
    </mg>
 </e>
@@ -84,7 +84,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">hui (salaman päivittelyhuudahdus)</l>
+     <l pos="Interj" re="salaman päivittelyhuudahdus">hui</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -96,13 +96,13 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">hyvää päivää!</l>
+     <l pos="Interj">hyvää päivää</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="INTERJ_" pos="Interj">tiõrv!</t>
+       <t Contlex="INTERJ_" pos="Interj">tiõrv</t>
      </tg>
    </mg>
 </e>
@@ -439,13 +439,13 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">terve!</l>
+     <l pos="Interj">terve</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="INTERJ_" pos="Interj">tiõrv!</t>
+       <t Contlex="INTERJ_" pos="Interj">tiõrv</t>
      </tg>
    </mg>
 </e>
@@ -505,7 +505,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">voi surkeus!</l>
+     <l pos="Interj">voi surkeus</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -517,13 +517,13 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">voi!</l>
+     <l pos="Interj">voi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="INTERJ_" pos="Interj">voi!</t>
+       <t Contlex="INTERJ_" pos="Interj">voi</t>
      </tg>
    </mg>
 </e>
