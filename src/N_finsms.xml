@@ -954,20 +954,6 @@
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_" pos="N">eeʹđääldõž</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">aamu</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="TIME"/>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_JEAQKHKHKHAAZH" pos="N">tueʹlääž</t>
      </tg>
    </mg>
@@ -1168,17 +1154,6 @@
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_AANAR" pos="N">käʹrrev</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">aapasuo</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_JEAQNNN" pos="N">ääʹppjeäʹǧǧ</t>
      </tg>
    </mg>
@@ -1718,28 +1693,17 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_MAINSTUMMUSH" pos="N">kuʹrččǩeʹrres</t>
-       <t Contlex="N_MAINSTUMMUSH" pos="N">lokkǩeʹrres</t>
-       <t Contlex="N_MAINSTUMMUSH" pos="N">räiddǩeʹrres</t>
-       <t Contlex="N_MAINSTUMMUSH" pos="N">čuâvtõsǩeʹrres</t>
-       <t Contlex="N_MEERSAZH" pos="N">ǩerrsaž</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ahkio</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="SPACE">MOTION</sem>
        <sem class="WORK">TRAVEL</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_MAINSTUMMUSH" pos="N">ǩeʹrres</t>
+       <t Contlex="N_MAINSTUMMUSH" pos="N">kuʹrččǩeʹrres</t>
+       <t Contlex="N_MAINSTUMMUSH" pos="N">lokkǩeʹrres</t>
+       <t Contlex="N_MAINSTUMMUSH" pos="N">räiddǩeʹrres</t>
+       <t Contlex="N_MAINSTUMMUSH" pos="N">čuâvtõsǩeʹrres</t>
+       <t Contlex="N_MEERSAZH" pos="N">ǩerrsaž</t>
      </tg>
    </mg>
 </e>
@@ -2131,24 +2095,13 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_VOONYS" pos="N">kõõrâs</t>
-       <t Contlex="N_MIOHTT" pos="N">siõhss</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ahven</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="ZOO">FISH</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_" pos="N">vuâsk</t>
+       <t Contlex="N_VOONYS" pos="N">kõõrâs</t>
+       <t Contlex="N_MIOHTT" pos="N">siõhss</t>
      </tg>
    </mg>
 </e>
@@ -44646,55 +44599,14 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_KUALAZH" pos="N">jeäggaž</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">jänkä</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="TOPONOMY" metky="true"/>
        <sem class="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_JEAQNNN" pos="N">jeäʹǧǧ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">jänkä</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="TOPONOMY" metky="true"/>
-       <sem class="ENVIR">TOPONOMY</sem>
-     </semantics>
-     <tg xml:lang="sms">
+       <t Contlex="N_KUALAZH" pos="N">jeäggaž</t>
        <t Contlex="N_AANAR" pos="N">käʹrrev</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">jänkä</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="TOPONOMY" metky="true"/>
-       <sem class="ENVIR">TOPONOMY</sem>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_AACCIKH" pos="N">veättaǩ</t>
      </tg>
    </mg>
@@ -105710,52 +105622,19 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_ALGG" pos="N">kõskk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">matka</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="SPACE">MOTION</sem>
-       <sem class="WORK">TRAVEL</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_KAQLBB" pos="N">mäʹtǩǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">matka</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
        <sem class="SPACE">RELATION</sem>
        <sem class="WORK">TRAVEL</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_KAQLBB" pos="N">mäʹtǩǩ</t>
+       <t Contlex="N_PEIGG" pos="N">reiss</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">matka</l>
-     <stg><st/>
-     </stg>
-   </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="N_PEIGG" pos="N">reiss</t>
+       <t Contlex="N_ALGG" pos="N">kõskk</t>
      </tg>
    </mg>
 </e>
@@ -108880,67 +108759,17 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_OOUMAZH" pos="N">ooumaž</t>
-       <t Contlex="N_KUALAZH" pos="N">seeibaž</t>
-       <t Contlex="N_" pos="N">åålm</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">mies</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="HUMAN">FAMILY</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_" pos="N">åålmai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">mies</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="HUMAN">FAMILY</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_OAOAUM" pos="N">ååum</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">mies</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
        <sem class="M_MALE"/>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_OAOAUM" pos="N">ååum</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">mies</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_" pos="N">ååumai</t>
+       <t Contlex="N_" pos="N">åålmai</t>
+       <t Contlex="N_OOUMAZH" pos="N">ooumaž</t>
+       <t Contlex="N_KUALAZH" pos="N">seeibaž</t>
+       <t Contlex="N_" pos="N">åålm</t>
      </tg>
    </mg>
 </e>
@@ -119442,49 +119271,8 @@
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_PIEAQSS" pos="N">lieʹǩǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">notko</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="TOPONOMY" metky="true"/>
-       <sem class="ENVIR">TOPONOMY</sem>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_JEAQRMM" pos="N">njuäʹcǩǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">notko</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="TOPONOMY" metky="true"/>
-       <sem class="ENVIR">TOPONOMY</sem>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_MUEQRJJ" pos="N">nueʹcǩǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">notko</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_CHAAQCC" pos="N">pååʹǩǩ</t>
        <t Contlex="N_AUTT" pos="N">soukk</t>
        <t Contlex="N_" pos="N">suâppač</t>
@@ -146521,55 +146309,14 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_MEERSAZH" pos="N">njuhččpiccsaž</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">pulmunen</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="BIRD" metky="true"/>
        <sem class="ZOO">BIRD</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_" pos="N">njuʹhččpittsaž</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">pulmunen</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="BIRD" metky="true"/>
-       <sem class="ZOO">BIRD</sem>
-     </semantics>
-     <tg xml:lang="sms">
+       <t Contlex="N_MEERSAZH" pos="N">njuhččpiccsaž</t>
        <t Contlex="N_" pos="N">njuʹhččpõttsaž</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">pulmunen</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="BIRD" metky="true"/>
-       <sem class="ZOO">BIRD</sem>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_" pos="N">pittsaž</t>
      </tg>
    </mg>
@@ -166429,36 +166176,13 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_SUYL" pos="N">pärccsuâl</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">saari</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="TOPONOMY" metky="true"/>
        <sem class="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_SUYL" pos="N">suâl</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">saari</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_SUYL" pos="N">suâl</t>
+       <t Contlex="N_SUYL" pos="N">pärccsuâl</t>
        <t Contlex="N_" pos="N">suâllʼjaž</t>
      </tg>
    </mg>
@@ -178097,19 +177821,6 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_KAADHNEKH" pos="N">prizoovneǩ</t>
-       <t Contlex="N_KAQLBB" pos="N">räʹncc</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sotamies</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="HUMAN">PEOPLE</sem>
        <sem class="WORK">ECONOMY</sem>
@@ -178117,6 +177828,8 @@
        <sem class="M_MALE"/>
      </semantics>
      <tg xml:lang="sms">
+       <t Contlex="N_KAADHNEKH" pos="N">prizoovneǩ</t>
+       <t Contlex="N_KAQLBB" pos="N">räʹncc</t>
        <t Contlex="N_AANAR" pos="N">sääldat</t>
      </tg>
    </mg>
@@ -180282,64 +179995,12 @@
        <sem class="ENVIR">WEATHER</sem>
      </semantics>
      <tg xml:lang="sms">
+       <t Contlex="N_MUEQRJJ" pos="N">sueʹlnn</t>
        <t Contlex="N_ALGG" pos="N">rustt</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sumu</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
+       <t Contlex="N_SAJOS" pos="N">suâlnõk</t>
+       <t Contlex="N_AELDD" pos="N">sueʹlnnhâurr</t>
        <t Contlex="N_VOONYS" pos="N">ruumâs</t>
        <t Contlex="N_SAJOS" pos="N">seämõk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sumu</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="WEATHER" metky="true"/>
-       <sem class="ENVIR">WEATHER</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_MUEQRJJ" pos="N">sueʹlnn</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sumu</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_AELDD" pos="N">sueʹlnnhâurr</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sumu</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="WEATHER" metky="true"/>
-       <sem class="ENVIR">WEATHER</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_SAJOS" pos="N">suâlnõk</t>
      </tg>
    </mg>
 </e>
@@ -180399,46 +180060,9 @@
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_AANAR" pos="N">käʹrrev</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">suo</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_JEAQNNN" pos="N">leeđõkjeäʹǧǧ</t>
        <t Contlex="N_AANAR" pos="N">njormmkäʹrrev</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">suo</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="TOPONOMY" metky="true"/>
-       <sem class="ENVIR">TOPONOMY</sem>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_AACCIKH" pos="N">veättaǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">suo</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_JEAQNNN" pos="N">ääʹppjeäʹǧǧ</t>
        <t Contlex="N_JEAQNNN" pos="N">čääʹccjeäʹǧǧ</t>
        <t Contlex="N_KOONTYR" pos="N">šaaidâr</t>
@@ -194092,66 +193716,19 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_CHUYGXGXAS" pos="N">auttčuâǥǥas</t>
-       <t Contlex="N_CHUYGXGXAS" pos="N">privatčuâǥǥas</t>
-       <t Contlex="N_CHUYGXGXAS" pos="N">viâhhčuâǥǥas</t>
-       <t Contlex="N_CHUYGXGXAS" pos="N">vuâđđčuâǥǥas</t>
-       <t Contlex="N_CHUYGXGXAS" pos="N">väʹlddčuâǥǥas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tie</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="ENVIR">SETTLEMENT</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_CHUYGXGXAS" pos="N">čuâǥǥas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tie</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_CHUYGXGXAS" pos="N">šââllčuâǥǥas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tie</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="WORK">TRAVEL</sem>
        <sem class="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="sms">
+       <t Contlex="N_CHUYGXGXAS" pos="N">čuâǥǥas</t>
+       <t Contlex="N_CHUYGXGXAS" pos="N">auttčuâǥǥas</t>
+       <t Contlex="N_CHUYGXGXAS" pos="N">privatčuâǥǥas</t>
+       <t Contlex="N_CHUYGXGXAS" pos="N">viâhhčuâǥǥas</t>
+       <t Contlex="N_CHUYGXGXAS" pos="N">vuâđđčuâǥǥas</t>
+       <t Contlex="N_CHUYGXGXAS" pos="N">väʹlddčuâǥǥas</t>
+       <t Contlex="N_CHUYGXGXAS" pos="N">šââllčuâǥǥas</t>
        <t Contlex="N_PEAELDD" pos="N">ǩeäinn</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tie</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_PEAELDD" pos="N">ǩeäʹppsõstrafikkǩeäinn</t>
      </tg>
    </mg>
@@ -203812,85 +203389,19 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_RUOCCC" pos="N">jiõŋŋväʹlddempiõgg</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tuuli</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
+       <sem class="WEATHER" metky="true"/>
        <sem class="SPACE">MOTION</sem>
        <sem class="ENVIR">WEATHER</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_RUOCCC" pos="N">piõgg</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tuuli</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="WEATHER" metky="true"/>
-       <sem class="ENVIR">WEATHER</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_ALGG" pos="N">rustt</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tuuli</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="WEATHER" metky="true"/>
-       <sem class="ENVIR">WEATHER</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_SAJOS" pos="N">sââvõk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tuuli</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="WEATHER" metky="true"/>
-       <sem class="ENVIR">WEATHER</sem>
-     </semantics>
-     <tg xml:lang="sms">
+       <t Contlex="N_RUOCCC" pos="N">jiõŋŋväʹlddempiõgg</t>
        <t Contlex="N_SIJDD" pos="N">vijmm</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tuuli</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_" pos="N">vâčč</t>
        <t Contlex="N_RUOCCC" pos="N">ǩieʹsspiõgg</t>
+       <t Contlex="N_SAJOS" pos="N">sââvõk</t>
+       <t Contlex="N_ALGG" pos="N">rustt</t>
      </tg>
    </mg>
 </e>
@@ -204001,24 +203512,13 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_SAAQMM" pos="N">piõggspääʹll</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tuulispää</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="WEATHER" metky="true"/>
        <sem class="ENVIR">WEATHER</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_" pos="N">reevai</t>
+       <t Contlex="N_SAAQMM" pos="N">piõggspääʹll</t>
      </tg>
    </mg>
 </e>
@@ -204973,52 +204473,16 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_PESS" pos="N">håmm</t>
-       <t Contlex="N_MUORYZH" pos="N">liikkâž</t>
-       <t Contlex="N_PAPP" pos="N">likk</t>
-       <t Contlex="N_ARGUMEQNTT" pos="N">projeʹktt</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">työ</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="WORK">ECONOMY</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_TEYLKK" pos="N">reâugg</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">työ</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
+       <t Contlex="N_PESS" pos="N">håmm</t>
+       <t Contlex="N_MUORYZH" pos="N">liikkâž</t>
+       <t Contlex="N_PAPP" pos="N">likk</t>
+       <t Contlex="N_ARGUMEQNTT" pos="N">projeʹktt</t>
        <t Contlex="N_SAJOS" pos="N">säʹttõk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">työ</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="WORK">ECONOMY</sem>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_TUYJJ" pos="N">tuâjj</t>
      </tg>
    </mg>
@@ -206583,53 +206047,40 @@
      </stg>
    </lg>
    <mg>
+     <semantics>
+       <sem class="HUMAN">FAMILY</sem>
+       <sem class="M_FEMALE"/>
+     </semantics>
+     <defNative>sedän tai enon vaimo</defNative>
      <tg xml:lang="sms">
        <t Contlex="N_AQVV" pos="N">eʹmm</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">täti</l>
-     <stg><st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="HUMAN">FAMILY</sem>
        <sem class="M_FEMALE"/>
      </semantics>
+     <defNative>äidin vanhempi sisar</defNative>
      <tg xml:lang="sms">
        <t Contlex="N_JEAQRMM" pos="N">kuäʹsǩǩ</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">täti</l>
-     <stg><st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="HUMAN">FAMILY</sem>
        <sem class="M_FEMALE"/>
      </semantics>
+     <defNative>äidin nuorempi sisar</defNative>
      <tg xml:lang="sms">
        <t Contlex="N_KUEQLL" pos="N">mueʹđđ</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">täti</l>
-     <stg><st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="M_FEMALE"/>
      </semantics>
+     <defNative>isän sisar</defNative>
      <tg xml:lang="sms">
        <t Contlex="N_MIEQLLL" pos="N">sieʹss</t>
      </tg>
@@ -211261,69 +210712,17 @@
      <semantics>
        <sem class="TOPONOMY" metky="true"/>
        <sem class="ENVIR">TOPONOMY</sem>
+       <sem class="WORK">TRAVEL</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_" pos="N">kueʹʒʒ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vaara</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="TOPONOMY" metky="true"/>
-       <sem class="ENVIR">TOPONOMY</sem>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_SAAQMM" pos="N">kuõssvääʹrr</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vaara</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_SAAQMM" pos="N">sueʹǩǩvääʹrr</t>
        <t Contlex="N_KOONTYR" pos="N">tuuibâl</t>
        <t Contlex="N_PAARR" pos="N">vaarr</t>
        <t Contlex="N_" pos="N">vââid</t>
        <t Contlex="N_KUALAZH" pos="N">vääraž</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vaara</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="TOPONOMY" metky="true"/>
-       <sem class="ENVIR">TOPONOMY</sem>
-       <sem class="WORK">TRAVEL</sem>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_SAAQMM" pos="N">vääʹrr</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vaara</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_TOLL" pos="N">võđđ</t>
        <t Contlex="N_SAAQMM" pos="N">åʹrddvääʹrr</t>
        <t Contlex="N_KUQRCHCH" pos="N">čuʹlpp</t>
@@ -216236,51 +215635,15 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_MUEQRJJ" pos="N">käärnõzmueʹrjj</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">variksenmarja</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="BOT">BERRY</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_MUEQRJJ" pos="N">čaʹppesmueʹrjj</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">variksenmarja</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_SAJOS" pos="N">čuõʹmmjõs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">variksenmarja</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="FOOD">NATURE</sem>
        <sem class="BOT">BERRY</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_SAJOS" pos="N">čuõʹmmjõš</t>
+       <t Contlex="N_SAJOS" pos="N">čuõʹmmjõs</t>
+       <t Contlex="N_MUEQRJJ" pos="N">čaʹppesmueʹrjj</t>
+       <t Contlex="N_MUEQRJJ" pos="N">käärnõzmueʹrjj</t>
      </tg>
    </mg>
 </e>
@@ -232288,51 +231651,14 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_" pos="N">käʒʒ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ystävä</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="M_PEOPLE"/>
        <sem class="M_FemaleMale"/>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_ATOM" pos="N">naʹzvan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ystävä</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
+       <t Contlex="N_" pos="N">käʒʒ</t>
        <t Contlex="N_" pos="N">pââʹssvillj</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ystävä</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="M_PEOPLE"/>
-       <sem class="M_FemaleMale"/>
-     </semantics>
-     <tg xml:lang="sms">
        <t Contlex="N_SAJOS" pos="N">taaurõš</t>
      </tg>
    </mg>
