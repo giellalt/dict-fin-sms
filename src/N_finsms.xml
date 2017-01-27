@@ -171315,17 +171315,14 @@
      </stg>
    </lg>
    <mg>
+     <semantics>
+       <sem class="HUMAN"/>
+       <sem class="M_MALE"/>
+     </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_PIEAQSS" pos="N">jieʹǩǩ</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">setä</l>
-     <stg><st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="HUMAN"/>
