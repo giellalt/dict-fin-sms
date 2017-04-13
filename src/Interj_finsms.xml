@@ -139,7 +139,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="INTERJ_" pos="Interj">davai</t>
-       <t Contlex="INTERJ_" pos="Interj">davai</t>
      </tg>
    </mg>
 </e>
@@ -256,6 +255,14 @@
        <t Contlex="INTERJ_" pos="Interj">nuʹtt</t>
      </tg>
    </mg>
+   <mg>
+     <semantics>
+       <sem class="SENSE">COGNITION</sem>
+     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="Interj_" pos="Interj">de</t>
+     </tg>
+   </mg>
 </e>
 <e>
    <lg>
@@ -278,7 +285,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="INTERJ_" pos="Interj">nuʹt-a</t>
-       <t Contlex="INTERJ_" pos="Interj">nuʹtt</t>
        <t Contlex="INTERJ_" pos="Interj">nuʹtt</t>
      </tg>
    </mg>

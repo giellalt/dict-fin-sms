@@ -169,28 +169,9 @@
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="CC_" pos="CC">leâša</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CC">mutta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="CC_" pos="CC">leâža</t>
        <t Contlex="CC_" pos="CC">leša</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CC">mutta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="SENSE">COGNITION</sem>
@@ -199,46 +180,13 @@
        <t Contlex="CC_" pos="CC">peʹce</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CC">mutta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="SENSE">COGNITION</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="CC_" pos="CC">seâša</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CC">mutta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="CC_" pos="CC">seša</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">niin</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">COGNITION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="CC_" pos="CC">de</t>
      </tg>
    </mg>
 </e>
