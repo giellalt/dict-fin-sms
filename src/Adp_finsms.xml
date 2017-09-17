@@ -2905,4 +2905,42 @@
      </tg>
    </mg>
 </e>
+  <e>
+   <lg>
+     <l pos="Adp">lähelle</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adp">luuzz</t>
+       <t Contlex="ADV_" pos="Adp">luzz</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="Adp">lähtien</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adp">rääʹjest</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="Adp">viereen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adp">luuzz</t>
+       <t Contlex="ADV_" pos="Adp">luzz</t>
+     </tg>
+   </mg>
+</e>
 </r>

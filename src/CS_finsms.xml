@@ -228,44 +228,23 @@
        <t Contlex="CS_" pos="CS">kuäʹss</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">koska</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="SENSE">COGNITION</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="CS_" pos="CS">ko</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">koska</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="CS_" pos="CS">kojo</t>
        <t Contlex="CS_" pos="CS">teäʹl</t>
        <t Contlex="CS_" pos="CS">teʹl</t>
        <t Contlex="CS_" pos="CS">tâʹl</t>
-       <t Contlex="CS_" pos="CS">tõnt</t>
+       <t Contlex="ADV_" pos="CS">kujo</t>
+       <t Contlex="ADV_" pos="CS">tâʹl</t>
+       <t Contlex="ADV_" pos="CS">ujo</t>
+       <t Contlex="ADV_" pos="CS">ǥu</t>
+       <t Contlex="ADV_" pos="CS">ǥujo</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">koska</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="SENSE">COGNITION</sem>

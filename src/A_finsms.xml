@@ -42057,4 +42057,69 @@
      </tg>
    </mg>
 </e>
+  <e>
+   <lg>
+     <l pos="A">lähempi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">âʹlddlab</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="A">pelkkä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">pâi</t>
+       <t Contlex="ADV_" pos="Adv">tååʹlǩ</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="A">suora</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV-STATE_" pos="Adv">ǩeärggad</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="A">tarkoituksenmukainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">mieʹrrmieʹldd</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="A">tyytyväinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <semantics>
+       <sem class="HUMAN"/>
+       <sem class="SENSE"/>
+     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">miõlstes</t>
+     </tg>
+   </mg>
+</e>
 </r>
