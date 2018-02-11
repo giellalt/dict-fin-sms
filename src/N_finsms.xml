@@ -264,19 +264,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">toimikunnan tai valiokunnan ryhmän jäsen</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_KAADHNEKH" pos="N">komiteaneǩ</t>
-     </tg>
-   </mg>
-</e>
-
-<e>
-   <lg>
      <l pos="N">A-kieli</l>
      <stg><st/>
      </stg>
@@ -560,18 +547,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="N_SAJOS" pos="N">Nuõrttsäämas-vuõlttõs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Kreikan kirjaimiston toinen aakkonen</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_BIOLOGIA" pos="N">beeta</t>
      </tg>
    </mg>
 </e>
@@ -106125,18 +106100,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">menneiden tapahtumien tutkimus</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_BIOLOGIA" pos="N">historia</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">menneisyys</l>
      <stg><st/>
      </stg>
@@ -106990,18 +106953,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">metallinen tai muovinen nesteen säilytysastia</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_AANAR" pos="N">kaniʹstter</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">metallinhionta</l>
      <stg><st/>
      </stg>
@@ -107333,22 +107284,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="N_KUALAZH" pos="N">meäʹcceeunaž</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">metsäisen maan vastakohta</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="TOPONOMY" metky="true"/>
-       <sem class="ENVIR">TOPONOMY</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="N_" pos="N">rahtti</t>
      </tg>
    </mg>
 </e>
@@ -108005,17 +107940,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="N_" pos="N">keäʹppertienn</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">miehen lakin takaturkis</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="N_VAEQLL" pos="N">keäʹppertåʹǩǩ</t>
      </tg>
    </mg>
@@ -109500,18 +109424,6 @@
 <e>
    <lg>
      <l pos="N">mora</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_KUEAQTT" pos="N">mueʹrr</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">mora, jäätynyt lumen pinta</l>
      <stg><st/>
      </stg>
    </lg>
@@ -113610,18 +113522,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">määräraha eri saamelaisten kulttuurialojen tukemiseen</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_JEAQNNN" pos="N">sääʹmkultturmieʹrrteäʹǧǧ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">määräys</l>
      <stg><st/>
      </stg>
@@ -116458,18 +116358,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="N_" pos="N">sovet</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">neuvosto, jonka tarkoituksena on jakaa oikeaa tietoa nuorille esim. saamelaisista</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_SAJOS" pos="N">nuõrisuåvtõs</t>
      </tg>
    </mg>
 </e>
@@ -119896,18 +119784,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="N_TUYJJ" pos="N">nuõrituâjj</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">nuorten elämää ja elinolosuhteita tukeva laki</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_CHAAQCC" pos="N">nuõrilääʹǩǩ</t>
      </tg>
    </mg>
 </e>
@@ -208774,18 +208650,6 @@
      <tg xml:lang="sms">
        <t Contlex="N_SAJOS" pos="N">jeänbõs</t>
        <t Contlex="N_SAJOS" pos="N">jäänbõs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">useissa oppilaitoksissa käytössä oleva opettajan virkanimike</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="N_TOLL" pos="N">lehtorr</t>
      </tg>
    </mg>
 </e>

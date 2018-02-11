@@ -20900,24 +20900,16 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="V_KAQRJSTED" pos="V">käʹrjsted</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">kävellä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
-       <sem class="WORK">ECONOMY</sem>
        <sem class="SPACE">MOTION</sem>
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="IV_KAQDDED" pos="V">väʹʒʒed</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="V_KAQRJSTED" pos="V">käʹrjsted</t>
      </tg>
    </mg>
 </e>
@@ -22236,21 +22228,6 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="V_REAEKKAD" pos="V">cuäkkad</t>
-       <t Contlex="V_HEARRAD" pos="V">cuäŋŋad</t>
-       <t Contlex="V_TEEQMEED" pos="V">hääʹlbeed</t>
-       <t Contlex="V_VOQLLJED" pos="V">laʹddjed</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">laskea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="WORK">SCHOOL</sem>
        <sem class="SENSE">QUANTITY</sem>
@@ -22259,26 +22236,20 @@
        <t Contlex="V_TEEQMEED" pos="V">laʹsǩǩeed</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">laskea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="V_REAEKKAD" pos="V">cuäkkad</t>
+       <t Contlex="V_HEARRAD" pos="V">cuäŋŋad</t>
+       <t Contlex="V_TEEQMEED" pos="V">hääʹlbeed</t>
+       <t Contlex="V_VOQLLJED" pos="V">laʹddjed</t>
+     </tg>
+   </mg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V_KHIORGGNED" pos="V">lookkled</t>
        <t Contlex="V_CEQPCCED" pos="V">lookklâʹstted</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">laskea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="SENSE">QUANTITY</sem>
@@ -22288,41 +22259,11 @@
        <t Contlex="V_VIIKKYD" pos="V">lookkâd</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">laskea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V_KHEEQRJTED" pos="V">lueʹšttled</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">laskea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">QUANTITY</sem>
-       <sem class="WORK">SCHOOL</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="V_" pos="V">luuhâd</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">laskea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V_MEINNAD" pos="V">njeiddad</t>
@@ -22330,13 +22271,6 @@
        <t Contlex="V_KUOSKKYD" pos="V">puåtkkâd</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">laskea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="SENSE">QUANTITY</sem>
@@ -22346,13 +22280,6 @@
        <t Contlex="V_CEQPCCED" pos="V">rekknâʹstted</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">laskea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V_CEAKKKAD" pos="V">suâppad</t>
@@ -22364,7 +22291,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">laskea (laskuja</l>
+     <l pos="V">laskea laskuja</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -22400,13 +22327,6 @@
        <t Contlex="V_VUEQRDDED" pos="V">lueʹštted</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">laskea irti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V_AALGXTED" pos="V">piâzzted</t>
@@ -27143,21 +27063,6 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="V_AIBBYD" pos="V">doiddâd</t>
-       <t Contlex="V_JOAQTTED" pos="V">jååʹtted</t>
-       <t Contlex="V_MAINSTED" pos="V">kõumsted</t>
-       <t Contlex="V_KULSTED" pos="V">mõnsted</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">mennä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="SPACE">MOTION</sem>
      </semantics>
@@ -27165,13 +27070,14 @@
        <t Contlex="V_POOLLYD" pos="V">mõõnnâd</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">mennä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="V_AIBBYD" pos="V">doiddâd</t>
+       <t Contlex="V_JOAQTTED" pos="V">jååʹtted</t>
+       <t Contlex="V_MAINSTED" pos="V">kõumsted</t>
+       <t Contlex="V_KULSTED" pos="V">mõnsted</t>
+     </tg>
+   </mg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="IV_DOOIDYD" pos="V">uuidâd</t>
