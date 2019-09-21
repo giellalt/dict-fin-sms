@@ -19095,18 +19095,6 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="sms">
-       <t Contlex="V_SILTTEED" pos="V">jaameed</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">kuolla</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
      <semantics>
        <sem class="HUMAN">FAMILY</sem>
        <sem class="BODY">HEALTH</sem>
@@ -19116,13 +19104,11 @@
        <t Contlex="V_JOAQTTED" pos="V">jääʹmmed</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">kuolla</l>
-     <stg> <st/>
-     </stg>
-   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="V_SILTTEED" pos="V">jaameed</t>
+     </tg>
+   </mg>
    <mg>
      <semantics>
        <sem class="BODY">HEALTH</sem>
@@ -19131,13 +19117,6 @@
        <t Contlex="V_CEQPCCED" pos="V">kâʹlmmed</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">kuolla</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V_CEQPCCED" pos="V">kâʹlmmed</t>
@@ -19147,7 +19126,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">kuolla (porosta</l>
+     <l pos="V">kuolla (porosta)</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -19180,13 +19159,6 @@
        <t Contlex="V_KUAEIVVAD" pos="V">kuäivvad</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">kuopia</l>
-     <stg> <st/>
-     </stg>
-   </lg>
    <mg>
      <semantics>
        <sem class="WORK">ECONOMY</sem>
