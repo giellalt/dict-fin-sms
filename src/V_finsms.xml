@@ -26913,6 +26913,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
+       <t Contlex="V_LAUKKOOLLYD" pos="V">mõõntõõvvâd</t>
        <t Contlex="V_SOLLEED" pos="V">pråppeed</t>
      </tg>
    </mg>
@@ -26938,7 +26939,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="TV_AALGXTED" pos="V">mõõnted</t>
-       <t Contlex="V_AALGXTED" pos="V">mõõnted</t>
        <t Contlex="V_VUEJTED" pos="V">vuârsked</t>
      </tg>
    </mg>
@@ -52136,8 +52136,8 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="V_AALGXTED" pos="V">hiâvted</t>
-       <t Contlex="V_LEPPAD" pos="V">pråppad</t>
+       <t Contlex="VT_AALGXTED" pos="V">hiâvted</t>
+       <t Contlex="VT_LEPPAD" pos="V">pråppad</t>
        <t Contlex="V_" pos="V">uhoded</t>
      </tg>
    </mg>
