@@ -86022,7 +86022,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">laki</l>
+     <l hid="Hom1" pos="N">laki</l>
      <stg><st/>
      </stg>
    </lg>
@@ -86032,20 +86032,20 @@
      </semantics>
      <tg xml:lang="sms">
        <t Contlex="N_SAAKK" pos="N">laakk</t>
+       <t Contlex="N_SIIVALM" pos="N">mõõrâst</t>
+       <t Contlex="N_VAEQLL" pos="N">čåʹǩǩ</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">laki</l>
+     <l hid="Hom2" pos="N">laki</l>
      <stg><st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="N_CHAAQCC" pos="N">lääʹǩǩ</t>
-       <t Contlex="N_SIIVALM" pos="N">mõõrâst</t>
-       <t Contlex="N_VAEQLL" pos="N">čåʹǩǩ</t>
      </tg>
    </mg>
 </e>
