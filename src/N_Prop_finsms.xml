@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r id="finsms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/giella-core/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
- You are free to copy, distribute and adapt the work, as long as you always give
- proper attribution using the attribution text below.
- For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
- Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
- This is NOT a fully styled and published dictionary.
- As such it can and will contain unfinished entries, unpublished entries, 
- entries with objectionable translations, etc. If you find any errors 
- or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+<?xml version="1.0" encoding="UTF-8"?> <r id="finsms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en"> This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always give proper attribution using the attribution text below. For the full license text, see the link above. </lic> <ref> Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>. </ref>
+     <sourcenote> THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
      </sourcenote> </lics>
-
 <e>
    <lg>
-     <l pos="N">Aamutähti</l>
+     <l pos="N" type="Prop">Aamutähti</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -25,7 +15,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Aatami</l>
+     <l pos="N" type="Prop">Aatami</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -37,111 +27,157 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Agata</l>
+     <l pos="N" type="Prop">Afrikka</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Oggvi</t>
+       <t Contlex="PROP_PAPP" pos="N">Afrikk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Agata</l>
+     <l pos="N" type="Prop">Agata</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Åggvi</t>
+       <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Åggvi</t>
+       <t Contlex="PROP_SEM/FEM_TOOBDYLM" pos="N">Ååggašǩ</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Agata</l>
+     <l pos="N" type="Prop">Ahvenjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Ååggašǩ</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuâskjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Aku Ankka</l>
+     <l pos="N" type="Prop">Ahvenselkä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Väʹsǩǩ Vuõnjâč</t>
+       <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Vuâskčiõʹlj</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Akuliina</l>
+     <l pos="N" type="Prop">Ailijoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Åkklen</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Ailijokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Aleksandra</l>
+     <l pos="N" type="Prop">Ailijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_SINIDA" pos="N">Sandra</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Ailijäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Aleksanteri</l>
+     <l pos="N" type="Prop">Akkalankylä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Åʹlsaandr</t>
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Äʹǩǩelsijdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aku Ankka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Väʹsǩǩ Vuõnjâč</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Akujärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Akujäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Alaska</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Alaskk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Alattio</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TRUUBA" pos="N">Alta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aleksanteri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_" pos="N">Åʹlsander</t>
+       <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Oʹlssi</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Aleksi</l>
+     <l pos="N" type="Prop">Aleksi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Oʹlssi</t>
      </tg>
@@ -149,98 +185,107 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Alkunen</l>
+     <l pos="N" type="Prop">Alkunen</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Aalǥâž</t>
+       <t Contlex="PROP_SEM/MAL_MUORYZH" pos="N">Aalǥâž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Anastasia, Naska, Nasti</l>
+     <l pos="N" type="Prop">Alpit</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AELDD" pos="N">Näskk</t>
+       <t Contlex="PROP_TOP_KAQLBB-PL" pos="N">Aaʹlp</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Anni</l>
+     <l pos="N" type="Prop">Amerikka</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Äännaž</t>
+       <t Contlex="PROP_PAPP" pos="N">Amerikk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Anni</l>
+     <l pos="N" type="Prop">Angeli</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_VAEQLL" pos="N">Äʹnn</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Aŋŋel</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Annika</l>
+     <l pos="N" type="Prop">Anni</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Äännaž</t>
+       <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Äännaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Annikki</l>
+     <l pos="N" type="Prop">Annika</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Äännaž</t>
+       <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Äännaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Antero</l>
+     <l pos="N" type="Prop">Annikki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Äännaž</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Anniniemi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Äʹnn-njargg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Antero</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Oʹnddri</t>
      </tg>
@@ -248,141 +293,91 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Anton</l>
+     <l pos="N" type="Prop">Anton</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ååntašǩ</t>
+       <t Contlex="PROP_SEM/MAL_TOOBDYLM" pos="N">Ååntašǩ</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Anton</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ååntašǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Anton, Antti</l>
+     <l pos="N" type="Prop">Antti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Âåntašǩ</t>
+       <t Contlex="PROP_SEM/MAL_TOOBDYLM" pos="N">Ååntašǩ</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Antti</l>
+     <l pos="N" type="Prop">Arefa</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KRIQLCC" pos="N">Aʹntt</t>
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ååntašǩ</t>
+       <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Åʹrofi</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Antti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ååntašǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Arefa</l>
+     <l pos="N" type="Prop">Arkangeli</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Åʹrofi</t>
+       <t Contlex="PROP_TOP_KANEL" pos="N">Aarhaŋŋel</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Arhippa</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ääʹrhep</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Arseeni</l>
+     <l pos="N" type="Prop">Arkkusaari</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Aaršen</t>
+       <t Contlex="PROP_TOP_SUYL" pos="N">Čuʹǩǩsuâl</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Artto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Oʹrttem</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Atanasios</l>
+     <l pos="N" type="Prop">Arseni</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Åhnâs</t>
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ååhnas</t>
+       <t Contlex="PROP_SEM/MAL_SYSTEEQM" pos="N">Arseeʹn</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Auksentios</l>
+     <l pos="N" type="Prop">Atlantti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Atlantt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Auksentios</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -394,7 +389,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Aune</l>
+     <l pos="N" type="Prop">Aune</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -406,184 +401,56 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Barbara</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Värvvan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Benjam</l>
+     <l pos="N" type="Prop">Avlijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Beʹnʼjam</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Ääuʹljäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Benjam</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_OAQLGA" pos="N">Vääna</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Boris</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Bååʹres</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Celcius</l>
+     <l pos="N" type="Prop">Baffininlahti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Celcia</t>
+       <t Contlex="PROP_TOP_UHSS" pos="N">Baffinluhtt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Darja</l>
+     <l pos="N" type="Prop">Darja</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Däʹrjj</t>
+       <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Täʹrjj</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Darja, Tarja</l>
+     <l pos="N" type="Prop">Eemeli</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Täʹrjj</t>
+       <t Contlex="PROP_SEM/MAL_ATOM" pos="N">Oʹmlʼjan</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Dmitri</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Meeʹdrai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Domna</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Dåʹmnn</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Dorothea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Dåårfi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ELY-keskus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SAJOS" pos="N">JTP-kõõskõs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Eemeli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_ATOM" pos="N">Omʹlʼjan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Efraim</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Eeʹhrem</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Eliaan päivä</l>
+     <l pos="N" type="Prop">Eliaan päivä</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -595,89 +462,43 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Elias</l>
+     <l pos="N" type="Prop">Elias</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Eelljaž</t>
-       <t Contlex="PROP_SEM/MAL_" pos="N">Eʹllj</t>
+       <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Eelljaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Elina</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Eeʹled</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Elina</l>
+     <l pos="N" type="Prop">Elina</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Eʹlnnaž</t>
+       <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Eʹllnaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Elli</l>
+     <l pos="N" type="Prop">Englanti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_PEQLLJ" pos="N">Eʹll</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Eŋgglõsjânnam</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Erkki</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ääʹrhep</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Esko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KOALVAK" pos="N">Eessak</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Esko</l>
+     <l pos="N" type="Prop">Esko</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -689,145 +510,91 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Eudokimos</l>
+     <l pos="N" type="Prop">Espanja</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Ooudaž</t>
+       <t Contlex="PROP_TOP_BUKVA" pos="N">Espanja</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Eufrosyne</l>
+     <l pos="N" type="Prop">Etelä-Amerikka</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Jååffaž</t>
+       <t Contlex="PROP_TOP_PAPP" pos="N">Saujj-Amerikk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Eugenia</l>
+     <l pos="N" type="Prop">Etelänapa</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Ååjjaž</t>
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Saujjnääʹpp</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Eustatios</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Jästtfi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Eustokios</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ååstaǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Eustokios</l>
+     <l pos="N" type="Prop">Eugenia</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AACCIKH" pos="N">Ååʹstaǩ</t>
+       <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Ååjjaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Fedora</l>
+     <l pos="N" type="Prop">Euroopan Unioni</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Fedora</t>
+       <t Contlex="PROP_TOP_ATOM" pos="N">Euroopp Union</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Fedosia</l>
+     <l pos="N" type="Prop">Eurooppa</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Feäddsi</t>
+       <t Contlex="PROP_TOP_PAPP" pos="N">Europp</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Feodor</l>
+     <l pos="N" type="Prop">Eustokios</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Huâttar</t>
+       <t Contlex="PROP_SEM/MAL_AACCIKH" pos="N">Ååstaǩ</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Feodora</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Feâdar</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Feodoroff</l>
+     <l pos="N" type="Prop">Feodoroff</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -839,133 +606,211 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Feoktista</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Feekkat</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Fetsi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Feäddsi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Gavril</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Kaurrâʹl</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Gerasimos</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Järrsi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Giellagáldu</l>
+     <l pos="" type="Prop">Gavril</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_PRSPRC-VXYY-I" pos="N">Ǩiõllkaʹlddi</t>
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Kaurrâl</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Glikeria</l>
+     <l pos="N" type="Prop">Glikeria</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Lukkri</t>
+       <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Lukkri</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Halli</l>
+     <l pos="N" type="Prop">Golgata</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Ränn</t>
+       <t Contlex="PROP_TOP_BIOLOGIA" pos="N">Golgata</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Helena</l>
+     <l pos="N" type="Prop">Grönlanti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Eeʹled</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Ruânnjânnam</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Hermanni</l>
+     <l pos="N" type="Prop">Hakokoski</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Järmman</t>
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Reämalkuõškk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Hilarion</l>
+     <l pos="N" type="Prop">Halli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_LOAQDD" pos="N">Räʹnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hammasjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Pääʹnnjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hammastunturi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TUODDYR" pos="N">Pääʹnntuõddâr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Harrijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Suäʹvveljäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hautasaari</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SUYL" pos="N">Äuʹddsuâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Heinäsaaret</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_" pos="N">Äinisuõllu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hevoskoski</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Heävaškuõškk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hevossaari</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SUYL" pos="N">Heävaš-suâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hietajoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Vuõddâsjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hietaoja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TUYJJ" pos="N">Vuõddâsvuäjj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hihnajärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Läʹbǯǯjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hiipinä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KAADHNEKH" pos="N">Umppdeǩ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hilarion</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -977,64 +822,67 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Honganvetäjä</l>
+     <l pos="N" type="Prop">Hirvaskylä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Pieʹccnjiʹʒʒi</t>
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Sââʹrves-sijdd</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Huotari</l>
+     <l pos="N" type="Prop">Honganvetäjä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Huâttar</t>
+       <t Contlex="PROP_SEM/MAL_PRSPRC-VCC-I" pos="N">Pieʹccnjiʹʒʒi</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Iida</l>
+     <l pos="N" type="Prop">Huippuvuoret</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_SINIDA" pos="N">Jeʹvida</t>
+       <t Contlex="PROP_TOP_ALGG-PL" pos="N">Svaalbaard</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Iisakki</l>
+     <l pos="N" type="Prop">Huutojärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KOALVAK" pos="N">Eessak</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Čuârvvjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Iisakki</l>
+     <l pos="N" type="Prop">Höyhenjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Pâʹjj-jäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Iisakki</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1046,175 +894,248 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Iivana</l>
+     <l pos="N" type="Prop">Iisakkijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Evvan</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Iisakjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Ilja</l>
+     <l pos="N" type="Prop">Ilja</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Eelljaž</t>
-       <t Contlex="PROP_SEM/MAL_" pos="N">Eʹllj</t>
+       <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Eelljaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Ilkka</l>
+     <l pos="N" type="Prop">Imandra</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Iʹllep</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Âʹvver</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Illeppi</l>
+     <l pos="N" type="Prop">Imandrajärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_OAQLGA" pos="N">Feeʹla</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Âʹvverjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Illeppi</l>
+     <l pos="N" type="Prop">Inarinjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Iʹllep</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Aanarjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Irene</l>
+     <l pos="N" type="Prop">Intia</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_IILYSKH" pos="N">Iirešǩ</t>
+       <t Contlex="PROP_TOP_TRUUBA" pos="N">Intia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Irina</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/FEM_IILYSKH" pos="N">Iirâšǩ</t>
        <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Irškaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Irina</l>
+     <l pos="N" type="Prop">Irlanti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_IILYSKH" pos="N">Iirešǩ</t>
-       <t Contlex="PROP_SEM/FEM_IILYSKH" pos="N">Iirâšǩ</t>
+       <t Contlex="PROP_TOP_ALGG" pos="N">Irlantt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Irma</l>
+     <l pos="N" type="Prop">Islanti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_IILYSKH" pos="N">Iirâšǩ</t>
+       <t Contlex="PROP_TOP_ALGG" pos="N">Islantt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Isidor</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_SOAOABBAR" pos="N">Seeddar</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Iutsa</l>
+     <l pos="N" type="Prop">Iso-Britannia</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Iucca</t>
+       <t Contlex="PROP_TOP_BIOLOGIA" pos="N">Jõnn-Britannia</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Jaakko</l>
+     <l pos="N" type="Prop">Iso Harrijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Jääkk</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Jõnn Suäʹvveljäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Jakkima</l>
+     <l pos="N" type="Prop">Isokivijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Jäʹǩǩem</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Jõnnǩeäʹdǧǧjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Jeesus</l>
+     <l pos="N" type="Prop">Isolompolo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_LUUBBYL" pos="N">Jõnnluubbâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Israel</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KANEL" pos="N">Israel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Italia</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_BIOLOGIA" pos="N">Italia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Itämeri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PUOAVV" pos="N">Nuõrttmiârr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Itävalta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KAQLBB" pos="N">Nuõrttväʹldd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jaakko</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_PYYGG" pos="N">Jääkk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Japani</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PLAAN" pos="N">Japaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jaurujoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Jäuʹrrjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jeesus</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1226,77 +1147,31 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Jefim</l>
+     <l pos="N" type="Prop">Joensuu</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Jeeʹfem</t>
-       <t Contlex="PROP_SEM/MAL_JIQLSSI" pos="N">Juuʹhmi</t>
+       <t Contlex="PROP_TOP_KAQLBB" pos="N">Jooǥǥnjäʹlmm</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Jelisei</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_JIQLSSI" pos="N">Jiʹlssi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Jesaja</l>
+     <l pos="N" type="Prop">Jokangajoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Eesai</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Jovkkjokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Jevida</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_SINIDA" pos="N">Jeʹvida</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Job</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Eejjav</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Jooseppi</l>
+     <l pos="N" type="Prop">Jooseppi</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1308,34 +1183,43 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Jouni</l>
+     <l pos="N" type="Prop">Joulutunturi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_MEERSAZH" pos="N">Eeunkaž</t>
+       <t Contlex="PROP_TOP_TUODDYR" pos="N">Jooultuõddâr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Juhani</l>
+     <l pos="N" type="Prop">Joutsenjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Evvan</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Njuhččjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Juhani</l>
+     <l pos="N" type="Prop">Joutsenniva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Njuhččnjââʹvv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juhani</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1347,19 +1231,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Julia, Uljaana</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Uʹlljan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Jumala</l>
+     <l pos="N" type="Prop">Jumala</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1367,117 +1239,244 @@
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_" pos="N">Bååžž</t>
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Eʹmmel</t>
-       <t Contlex="PROP_" pos="N">Vuâsppåʹd</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Jumalansynnyttäjä</l>
+     <l pos="N" type="Prop">Jumalansynnyttäjä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_" pos="N">Vuâsppååʹdšõddeei</t>
-       <t Contlex="PROP_" pos="N">Vuâsppååʹdšõddeeja</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Jussi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Evvan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Justiina</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Uʹstten</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Juuhmi</l>
+     <l pos="N" type="Prop">Juomusniemi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_JIQLSSI" pos="N">Juuʹhmi</t>
+       <t Contlex="PROP_TOP_ALGG" pos="N">Juuŋâsnjargg</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kaapo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Kaurrâʹl</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Kaarina</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Kaaʹdren</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Kadesilmä</l>
+     <l pos="N" type="Prop">Juonnijoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_KUALAZH" pos="N">Kaʹʒʒemčââlmaž</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Juõnnjokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kaisa</l>
+     <l pos="N" type="Prop">Juurakkoniemi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Suõʹbddinjargg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jyrkkäkoski</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Ceäggkuõškk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jäkäläpää</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Jeeʹelvueiʹvv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jäkäläsaari</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SUYL" pos="N">Jeeʹelsuâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jänisjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Njuäʹmmeljäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jäniskaira</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_" pos="N">Njuäʹmmelskäiʹdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jäniskoski</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Njuäʹmmelkuõškk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jänisniemi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Njuäʹmmelnjargg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jänispää</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Njuäʹmmelvueiʹvv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jänispäänhäntä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PIEAQSS" pos="N">Njuäʹmmelvueiʹvvǩieʹčč</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jääjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Jiõŋŋjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jäämeri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PUOAVV" pos="N">Jiõŋŋmiârr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaamanen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Kaamâs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaarttilopmpolo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_LUUBBYL" pos="N">Kaaʹrdluubbâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kadesilmä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_KUYLAZH" pos="N">Kaʹʒʒemčââlmaž</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kahluusalmi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JEAQRMM" pos="N">Kaalčuäʹlmm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaisa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_HOQPPI" pos="N">Kaiʹssi</t>
      </tg>
@@ -1485,7 +1484,79 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Kansanterveyslaitos</l>
+     <l pos="N" type="Prop">Kalastajasaarento</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Ǩiʹǩǩernjargg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kalatonjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kuddteʹmesjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kallojoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Källjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kallojärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Källjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kallokoski</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Källkuõškk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kallopää</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Källvueiʹvv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kansanterveyslaitos</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1497,103 +1568,164 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Kari</l>
+     <l pos="N" type="Prop">Karasjoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ǩiurrâl</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Karasjokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kari</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ǩiuʹrrel</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Karppa, Polikarp</l>
+     <l pos="N" type="Prop">Karekkijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KAQLBB" pos="N">Käʹrpp</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Karekkjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Katri</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Kaaʹdren</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Katri</l>
+     <l pos="N" type="Prop">Kari</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Käättaž</t>
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Ǩiurrâl</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Katriina</l>
+     <l pos="N" type="Prop">Karigasniemi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Kaaʹdren</t>
+       <t Contlex="PROP_TOP_ALGG" pos="N">Karigasnjargg</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kauko</l>
+     <l pos="N" type="Prop">Kaskamojärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Kaurrâʹl</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kõskkmajäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Keskinen</l>
+     <l pos="N" type="Prop">Kaskamotunturi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Kõskkmavueiʹvv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Katriinajärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kaaʹdrenjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kauko</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Kaurrâl</t>
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Kauʹrrel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaulatunturi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUYLAZH" pos="N">Čeäppatvuäivaž</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kemi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_" pos="N">Ǩeeʹmm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kemijoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Ǩeeʹmmjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kemijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Ǩeeʹmmjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kervanto</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Ceʹrvv-vuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Keskinen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1605,109 +1737,176 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Kesäradio</l>
+     <l pos="N" type="Prop">kettu</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_RADIO" pos="N">Ǩieʹssaradio</t>
+       <t Contlex="PROP_SEM/MAL_KAAQLLES" pos="N">Rieʹmjjkääʹlles</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kielikaltio</l>
+     <l pos="N" type="Prop">Kettujoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SAJOS" pos="N">Ǩiõʹllkaʹlddi-haʹŋǩǩõs</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Rieʹmjj-jokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kirsti</l>
+     <l pos="N" type="Prop">Keväjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Kreeʹstež</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Keväjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kirsti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Kreʹstten</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Kiureli</l>
+     <l pos="N" type="Prop">Kiertämöjoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ǩiurrâl</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Ǩiârddâmjokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kiureli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Ǩiuʹrrel</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Klaudia</l>
+     <l pos="N" type="Prop">Kiina</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_OAQLGA" pos="N">Klääša</t>
+       <t Contlex="PROP_TOP_TRUUBA" pos="N">Ǩiina</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kolttakulttuuri yli rajojen -hanke</l>
+     <l pos="N" type="Prop">Kirakkajärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="N_SAJOS" pos="N">Nuõrttsääʹmkulttur pâʹjjel raaji -haʹŋǩǩõs</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kirakkajäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kolttakulttuurisäätiö</l>
+     <l pos="N" type="Prop">Kirkkoniemi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Ǩeârkknjargg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kittilä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Ǩiʹttel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiureli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Ǩiurrâl</t>
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Ǩiuʹrrel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiviselkä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Ǩeäʹdǧǧčiõʹlj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kjelmøya</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SUYL" pos="N">Taalmisuâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koivuvaara</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Sueʹǩǩvääʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kolosjoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Koolâsjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kolosjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Koolâsjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kolttakulttuurisäätiö</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1719,70 +1918,187 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Kondratos</l>
+     <l pos="N" type="Prop">Kolttaköngäs</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_SAJOS" pos="N">Kondrõs</t>
+       <t Contlex="PROP_TOP_CHEEUQRES" pos="N">Ǩeeuʹŋes</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Konrad</l>
+     <l pos="N" type="Prop">Konnospää</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Kondrat</t>
+       <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Konnsažvueiʹvv</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kosti</l>
+     <l pos="N" type="Prop">Koppelo</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Koʹstten</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Kuäʹppel</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kotimaisten kielten tutkimuskeskus</l>
+     <l pos="N" type="Prop">Kornettijoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="N_SAJOS" pos="N">Dommjânnmlaž ǩiõli tuʹtǩǩeemkõõskõs</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Kooʹrneǩjokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kristiina</l>
+     <l pos="N" type="Prop">Kornettijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Kreʹstten</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kooʹrneǩjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kristus</l>
+     <l pos="N" type="Prop">Kornettivaara</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Kooʹrneǩvääʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Korppipahta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TAQHTT" pos="N">Käärnõspäʹhtt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kortejärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuåššjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Korvatunturi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TUODDYR" pos="N">Peʹlljtuõddâr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koskikaltiojoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Kuõškk-kaʹlddijokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koskikaltiojärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kuõškk-kaʹlddijäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kotajoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Kueʹttjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kotalompolo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_LUUBBYL" pos="N">Kueʹttluubbâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kotaselkä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Kueʹttjõrŋŋ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kreikka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Kreikkajânnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kristus</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1794,46 +2110,151 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Krysantios</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Kreessan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Kuisma</l>
+     <l pos="N" type="Prop">Kuiva-Rautajärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_JUEQLGHGH" pos="N">Kueʹsmm</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kåšǩǩ-Ruʹvddjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Kuosma</l>
+     <l pos="N" type="Prop">Kumosarvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_JUEQLGHGH" pos="N">Kueʹsmm</t>
+       <t Contlex="PROP_TOP_JEAQRMM" pos="N">Kååmmčuäʹrvv</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Lari</l>
+     <l pos="N" type="Prop">Kumputunturi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TUODDYR" pos="N">Čuʹlpptuõddâr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuosnajoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Kuosnijokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuttura</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TRUUBA" pos="N">Kuttura</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kutujärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kååđđjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kärventämäjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kuärddjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Käsivarsi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MAADD" pos="N">Ǩiõttmaadd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lakkilahti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_UHSS" pos="N">Keäʹpperluhtt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lammassaari</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SUYL" pos="N">Sauʒʒsuâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lapasarvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_CHUAQRVV" pos="N">Lueʹppčuäʹrvv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lappi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_BUKVA" pos="N">Lappi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lari</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1845,52 +2266,43 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Lasarus</l>
+     <l pos="N" type="Prop">Laukkujärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Lääzar</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Laukkjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Lati</l>
+     <l pos="N" type="Prop">Laukkupää</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_OAQLGA" pos="N">Lääda</t>
+       <t Contlex="PROP_TOP_KUYLAZH" pos="N">Laukkvuäivaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Lauri</l>
+     <l pos="N" type="Prop">Laulujärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Läärvam</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Laauljäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Lauri</l>
+     <l pos="N" type="Prop">Lauri</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1902,34 +2314,19 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Laurukainen</l>
+     <l pos="N" type="Prop">Laurinvaara</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Laaʹrkaž</t>
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Lääʹreǩvääʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Laurukainen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AACCIKH" pos="N">Lääʹriǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Laurukainen</l>
+     <l pos="N" type="Prop">Laurukainen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1941,36 +2338,55 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Leo</l>
+     <l pos="N" type="Prop">Lauttajärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Leeukaž</t>
-       <t Contlex="PROP_SEM/MAL_SAIQMM" pos="N">Leuʹǩǩ</t>
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Leâukaž</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Puäʹrrevjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Liisa</l>
+     <l pos="N" type="Prop">Leijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Liizz</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Leijäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Linnunrata</l>
+     <l pos="N" type="Prop">Lemmenjoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Lemmenjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Leo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Leâukaž</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Linnunrata</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1982,19 +2398,31 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Lukaria</l>
+     <l pos="N" type="Prop">Lujapuolijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Lukkri</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Nâânpieʹlljäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Luoja</l>
+     <l pos="N" type="Prop">Lukaria</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Lukkri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Luoja</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -2006,53 +2434,143 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Luukas</l>
+     <l pos="N" type="Prop">Luolajärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Luʹǩǩ</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Luolajäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Makarios</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Mäkkri</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Marena, Marjaana</l>
+     <l pos="N" type="Prop">Lutto</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Maaʹren</t>
+       <t Contlex="PROP_TOP_PESS" pos="N">Lått</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Maria</l>
+     <l pos="N" type="Prop">Luttojoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Låttjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Luujärven kylä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Luujäuʹrrsijdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lähi-Itä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_" pos="N">Âʹldd-Nuõrti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maaselkä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JEAQRMM" pos="N">Maaseäʹlǧǧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maatsasjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Maaʒʒsâžjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maattivuono</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Maaddvuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maitokoski</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Maiddeǩ-kuõškk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Makarios</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Mäkkri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Manner-Suomi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Maadd-Lääʹddjânnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maria</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Mäʹrjj</t>
      </tg>
@@ -2060,34 +2578,32 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Marja</l>
+     <l pos="N" type="Prop">Marinajärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Määrjaž</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Maʹrnnjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Marja</l>
+     <l pos="N" type="Prop">Marja</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Määrjaž</t>
        <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Mäʹrjj</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Markku</l>
+     <l pos="N" type="Prop">Markku</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -2099,34 +2615,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Markus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_PLAAN" pos="N">Maark</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Martta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Määrf</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Martti</l>
+     <l pos="N" type="Prop">Martti</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -2138,64 +2627,19 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Matias</l>
+     <l pos="N" type="Prop">Massansaari</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Maaʹtfi</t>
+       <t Contlex="PROP_TOP_SUYL" pos="N">Määšš-suâl</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Matleena</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Maađrân</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Matrona</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Maadron</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Matrona</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Maađrân</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Matteus</l>
+     <l pos="N" type="Prop">Matteus</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -2207,296 +2651,484 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Matti</l>
+     <l pos="N" type="Prop">Matti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Maaʹtfi</t>
+       <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Maaʹtfi</t>
+       <t Contlex="PROP_SEM/MAL_DIQLL" pos="N">Maʹtt</t>
        <t Contlex="PROP_SEM/MAL_PESS" pos="N">Mäšš</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Mauri</l>
+     <l pos="N" type="Prop">Mauri</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Mäkkri</t>
+       <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Mäkkri</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Metodios</l>
+     <l pos="N" type="Prop">Meissijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Neeffai</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Meiʹssjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Mikko</l>
+     <l pos="N" type="Prop">Menesjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Menesjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Menikka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SAJOS" pos="N">Meʹnekõs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Metsojärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Čuhččjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mikko</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Miikkât</t>
        <t Contlex="PROP_SEM/MAL_PESS" pos="N">Mekk</t>
-       <t Contlex="PROP_SEM/MAL_" pos="N">Miikkât</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Mikko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Miikkåt</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Mitri</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Meeʹdrai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Mooses</l>
+     <l pos="N" type="Prop">Mooses</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_" pos="N">Mooʹssai</t>
+       <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Mooʹssi</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Mosku</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_ALGG" pos="N">Moskk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Männynvetäjä </l>
+     <l pos="N" type="Prop">Muotkavuono</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Piäʹccnjiʹʒʒi</t>
+       <t Contlex="PROP_TOP_MUORR" pos="N">Mueʹtǩǩvuõnn</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Mörkö</l>
+     <l pos="N" type="Prop">Mustikkavaara</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_ALGG" pos="N">Mjurgg</t>
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Sââʹrrvääʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Nakke Nakuttaja</l>
+     <l pos="N" type="Prop">Mutajärvenselkä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Čuäkk Čuäkkteei</t>
+       <t Contlex="PROP_TOP_ALGG" pos="N">Mååʹđđjääuʹrjõrŋŋ</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Nasti</l>
+     <l pos="N" type="Prop">Mutajärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Nääskaž</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Mååʹđđjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Natalia</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Nättli</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Nikolai</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Miklai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Nuuskamuikkunen</l>
+     <l pos="N" type="Prop">Mutamaa</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Nuusk Riâvsaž</t>
+       <t Contlex="PROP_TOP_PESS" pos="N">Mååʹđđmädd</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Ofemia</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Oʹǩǩmi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Ohnas</l>
+     <l pos="N" type="Prop">Myössäjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Åʹhnâs</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Myössäjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Oili</l>
+     <l pos="" type="Prop">Männynvetäjä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Ååjjaž</t>
+       <t Contlex="PROP_SEM/MAL_PRSPRC-VCC-I" pos="N">Pieʹccnjiʹʒʒi</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Olga</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Ååggašǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Olga</l>
+     <l pos="N" type="Prop">Nakke Nakuttaja</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_OAQLGA" pos="N">Ååʹlga</t>
+       <t Contlex="PROP_SEM/MAL_PRSPRC-VWCCC-AI" pos="N">Čuäkk Čuäkkai</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Olli</l>
+     <l pos="N" type="Prop">Nanguvuono</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Åållaž</t>
-       <t Contlex="PROP_SEM/MAL_VAEQLL" pos="N">Åʹll</t>
+       <t Contlex="PROP_TOP_MUORR" pos="N">Näŋŋvuõnn</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Onteri</l>
+     <l pos="N" type="Prop">Nannamjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Njannâmjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nasti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Nääskaž</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nautsi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TAQHTT" pos="N">Njäʹhčč</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nautsijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Njäʹhččjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Neitikoski</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Nijddkuõškk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Neitiniemi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Nijddnjargg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nellimjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Njeäʹllemjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Niemijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Njarggjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nilijoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Njõlljokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nilijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Njõlljäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nilituvat</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG-PL" pos="N">Njõllpõõrt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nivankylä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Njââʹvvsijdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Norja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PAARR" pos="N">Taarr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nuorgam</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Nuorgam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nuortijoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Njuõʹttjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nuortijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Njuõʹttjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nurmensätti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_HOQPPI-PL" pos="N">Jieʹrni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nälkäjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Neäʹlǧǧjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Näskämäjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Neäʹsǩǩemjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Näätämönkylä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Njauddâmsijdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Oili</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Ååjjaž</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Olli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Åållaž</t>
+       <t Contlex="PROP_SEM/MAL_LOAQDD" pos="N">Åʹll</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Onteri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Oʹnddri</t>
      </tg>
@@ -2504,31 +3136,31 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Onteri</l>
+     <l pos="N" type="Prop">Onttopuujärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Åʹndri</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuåmârjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Opetushallitus</l>
+     <l pos="N" type="Prop">Opukasjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SAJOS" pos="N">Mättʼtõshalltõs</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Opukasjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Orasko Väkevä</l>
+     <l pos="N" type="Prop">Orasko Väkevä</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -2540,76 +3172,103 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Orion</l>
+     <l pos="N" type="Prop">Ortavaara</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Ruõššjuuʹse</t>
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Åʹrddvääʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Oskari</l>
+     <l pos="N" type="Prop">Outakoski</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Ååskaž</t>
-       <t Contlex="PROP_SEM/MAL_KAQLBB" pos="N">Åʹsǩǩ</t>
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Outakuõškk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Otava</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">MYTHOLOGY</sem>
-       <sem type="ENVIR">ELEMENT</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Juuʹse</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Oudas</l>
+     <l pos="N" type="Prop">Paatsivuono</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Ooudaž</t>
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Ååđaž</t>
+       <t Contlex="PROP_TOP_MUORR" pos="N">Paččvuõnn</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Paavo</l>
+     <l pos="N" type="Prop">Paatsjoenkylä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Paavvâl</t>
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Paččjasijdd</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Paliskuntain yhdistys</l>
+     <l pos="N" type="Prop">Paatsjoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Paččjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paavo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Paaʹvvel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pakanajoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Pakanajokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paksuvuono</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Pakšvuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paliskuntain yhdistys</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -2621,106 +3280,163 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Paraske</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Päärask</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Paraske</l>
+     <l pos="N" type="Prop">Palkimasaari</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Päärasǩ</t>
+       <t Contlex="PROP_TOP_SUYL" pos="N">Palggsuâl</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Pasi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KAQLBB" pos="N">Väʹsǩǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Paula</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Päälaǥ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Pauli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Paavvâl</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Pekka</l>
+     <l pos="N" type="Prop">Palkissaari</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Piâtt</t>
+       <t Contlex="PROP_TOP_SUYL" pos="N">Paalǥâs-suâl</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Pelagia</l>
+     <l pos="N" type="Prop">Palovaara</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Päälaǥ</t>
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Puâllamvääʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Petteri</l>
+     <l pos="N" type="Prop">Paraske</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/FEM_TOOBDYLM" pos="N">Päärasǩ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Parkkina</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Baʹrǩǩen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Partakko</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SAJOS" pos="N">Päärtõk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pautujärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Pauddjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Perämeri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PUOAVV" pos="N">Puåššmiârr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Perä-Pohjola</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_" pos="N">Puåšš-Tââʹvv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Petsamo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Peäccam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Petsamonkylä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Peäccamsijdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Petsamotunturi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TUODDYR" pos="N">Peäccamtuõddâr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Petsamovuono</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Peäccamvuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Petteri</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -2732,181 +3448,549 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Pietari</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Peeddar</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Pikku-Elina</l>
+     <l pos="N" type="Prop">Peurahaara</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Eʹlnnaž</t>
+       <t Contlex="PROP_TOP_KUEQLL" pos="N">Kåʹddsueʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Pimen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Piiʹmen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Pohjantähti</l>
+     <l pos="N" type="Prop">Pieruvuoma</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Ââʹlmčuõldd</t>
+       <t Contlex="PROP_TOP_KUEQLL" pos="N">Puõckkvueʹmm</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Prokopi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Pråkkpi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Prokopi</l>
+     <l pos="N" type="Prop">Pietsijoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Prååkkaž</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Pieʹccjokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">RAY</l>
+     <l pos="N" type="Prop">Pietsijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SAJOS" pos="N">Teäʹǧǧautomattõhttõs</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Pieʹccjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Raamattu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">RELIGION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_BIOLOGIA" pos="N">Biblija</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Raamattu</l>
+     <l pos="N" type="Prop">Pietsivaara</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_KHEQRJJ" pos="N">Evaŋǧeʹliumǩeʹrjj</t>
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Pieʹccvääʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Raha-automaattiyhdistys</l>
+     <l pos="N" type="Prop">Pikku-Elina</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Teäʹǧǧautomattõhttõs</t>
+       <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Eʹllnaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Raimo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Eeʹhrem</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Raudanvääntäjä </l>
+     <l pos="N" type="Prop">Pikku-Petsamo</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Ruʹvddpoonnji</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Uʹcc-Peäccam</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Riiko</l>
+     <l pos="N" type="Prop">Pilttajärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Reeiǥ</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Piiltâǩjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Ristihuuli</l>
+     <l pos="N" type="Prop">Pitkäjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Kuʹǩesjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pohjanlahti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_" pos="N">Vuâđđluhtt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pohjanmeri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_" pos="N">Vuâđđmiârr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pohjantähti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_CHUOSHKK" pos="N">Ââʹlmčuõldd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pohjois-Amerikka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PAPP" pos="N">Tâʹvv-Amerikk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pohjoismaat</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Tâʹvvjânnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pohjoisnapa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Tâʹvvnääʹpp</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pohjois-Suomi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Tâʹvv-Lääʹddjânnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pohjola</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Tâʹvvjânnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Poikasjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Ââlǥažjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ponoi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUEQSSS" pos="N">Pueʹnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ponoijoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Pueʹnnjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Porijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Porijäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">poro</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_MEERSAZH" pos="N">Čaaʹppkaž</t>
+       <t Contlex="PROP_SAJOS" pos="N">Čuõivõk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Portugali</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ATOM" pos="N">Portugal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Potklakylä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Potkklasijdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pulmanki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KOALVAK" pos="N">Polmak</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pulmankijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Polmakjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pummanginvuono</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Peelljaivuõnn</t>
+       <t Contlex="PROP_TOP_MUORR" pos="N">Pommaivuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pummankivuono</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Peelljavuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Purjeniemi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Poorjâsnjargg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Purkatunturi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MEERSAZH" pos="N">Porjjtaž</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pyhätunturi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TUODDYR" pos="N">Pââʹsstuõddâr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pyöreälompolo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_LUUBBYL" pos="N">Tuõlbbluubbâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pyöreäsuvanto</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_" pos="N">Tuõlbbsââv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pääkallonpaikka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PAIQKHKH" pos="N">Vueiʹvvkäällpäiʹǩǩ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Raja-Jooseppi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Raajj-Jooʹsep</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rajakoski</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Raajjkuõškk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rajapää</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Raajjvueiʹvv</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ranska</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Franskkjânnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rautajärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Ruʹvddjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rautavaara</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Ruʹvddvääʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rautavaaranlahti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_UHSS" pos="N">Ruʹvddvääʹrrluhtt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rautavuono</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Ruʹvddvuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rautujärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Räuddjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rautuselkä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Räuddčiõʹlj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Reisivuono</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Reissvuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ristihuuli</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -2918,110 +4002,187 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Ristiina</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Kreʹstten</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Roman</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Råmman</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Saamelaisarkisto</l>
+     <l pos="N" type="Prop">Ristisalmi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_JARPLAAN" pos="N">Sääʹmarkiiv</t>
+       <t Contlex="PROP_TOP_JEAQRMM" pos="N">Risttčuäʹlmm</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PROP">Saamelaisarkisto</l>
+     <l pos="N" type="Prop">Romania</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_JARPLAAN" pos="PROP">Sääʹmarkiiv</t>
+       <t Contlex="PROP_TOP_TRUUBA" pos="N">Romania</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Saamelaismuseo</l>
+     <l pos="N" type="Prop">Routasenkuru</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_RADIO" pos="N">Sääʹm-museo</t>
+       <t Contlex="PROP_TOP_PAPP" pos="N">Ruʹvddkurr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Saamenradio</l>
+     <l pos="N" type="Prop">Rovaniemi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_RADIO" pos="N">Sääʹmradio</t>
+       <t Contlex="PROP_TOP_ALGG" pos="N">Ruäʹvnjargg</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Saara</l>
+     <l pos="N" type="Prop">Rovaselkä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Sämm</t>
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Säämmaž</t>
+       <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Rueʹvvčiõʹlj</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Sajos</l>
+     <l pos="N" type="Prop">Rovelahti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SAJOS" pos="N">Sajos</t>
+       <t Contlex="PROP_TOP_UHSS" pos="N">Kueʹššluhtt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Sakari</l>
+     <l pos="N" type="Prop">Rovijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Rueʹvvjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rovioja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TUYJJ" pos="N">Rueʹvv-vuäjj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">ruuhka-Suomi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">tâppõs-Lääʹddjânnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Räkkijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Rekkjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Saalamo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Saallâm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Saarijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Suâljäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Saarikoski</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Suâlkuõškk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Saariselkä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Suâlčiõʹlj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sahara</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TRUUBA" pos="N">Sahara</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sakari</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -3033,20 +4194,56 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Salli</l>
+     <l pos="N" type="Prop">Saksa</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Såållaž</t>
-       <t Contlex="PROP_SEM/FEM_DIQLL" pos="N">Såʹll</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Tuiskkjânnam</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Saksslajânnam</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Samson</l>
+     <l pos="N" type="Prop">Salmi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JEAQRMM" pos="N">Čuäʹlmm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Salmijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Čuäʹlmmjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sammuttijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Sammutjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Samson</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -3058,113 +4255,119 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Samuli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_LUUBBYL" pos="N">Saammâl</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Sandra</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_SINIDA" pos="N">Sandra</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Saveli</l>
+     <l pos="N" type="Prop">Satapetäjäniemi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Säävaž</t>
+       <t Contlex="PROP_TOP_ALGG" pos="N">Čueʹttpieʹccnjargg</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Senja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_JIQLSSI" pos="N">Oʹhssni</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Sergei</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_JIQLSSI" pos="N">Siʹrǧǧi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Seulaset</l>
+     <l pos="N" type="Prop">Saunaranta</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Nijddkäärja</t>
+       <t Contlex="PROP_TOP_" pos="N">Säuʹnnredd</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Siina</l>
+     <l pos="N" type="Prop">Savukoski</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_OAQLGA" pos="N">Ziina</t>
+       <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Suõvvkuõškk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Simo</l>
+     <l pos="N" type="Prop">Selkäjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Seäʹlǧǧjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Senja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Oʹhssni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sergei</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Siʹrǧǧi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Siikajärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Šapššjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Silisjoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Silisjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Silisvaara</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Silisvääʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Simo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Semman</t>
      </tg>
@@ -3172,7 +4375,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Sinikka</l>
+     <l pos="N" type="Prop">Sinikka</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -3184,88 +4387,261 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Sofia</l>
+     <l pos="N" type="Prop">Siperia</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Såff</t>
+       <t Contlex="PROP_TOP_TRUUBA" pos="N">Siʹbirja</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Sofia</l>
+     <l pos="N" type="Prop">Skandinavia</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Sååffaž</t>
-       <t Contlex="PROP_SEM/FEM_" pos="N">Såʹff</t>
+       <t Contlex="PROP_TOP_TRUUBA" pos="N">Skandinavia</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Stepan</l>
+     <l pos="N" type="Prop">Skogerøya</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Teäppan</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Saallâm</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Stepanida</l>
+     <l pos="N" type="Prop">Sodankylä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Teäppnet</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Suäʹđjel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sofia</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_LOAQDD" pos="N">Såʹff</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Solmusjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Solmusjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">sota</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_AELDD" pos="N">täʹlvv-väinn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sotajoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Väinnjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stepanida</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_" pos="N">Teäppneʹd</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Suomen Pankki</l>
+     <l pos="N" type="Prop">Sundeejärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_ALGG" pos="N">Lääʹdd Baŋkk</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Sundijäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suolisjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Čueʹlsjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suolisvuono</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Čueʹlsvuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suomenlahti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_UHSS" pos="N">Lääʹddluhtt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suomen Pankki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
        <t Contlex="PROP_ALGG" pos="N">Lääʹddjânnam Baŋkk</t>
+       <t Contlex="PROP_ALGG" pos="N">Lääʹdd Baŋkk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Syöjättären tytär </l>
+     <l pos="N" type="Prop">Suomi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_NIJDD" pos="N">Aacciǩnijdd</t>
+       <t Contlex="PROP_TOP_LOAQDD" pos="N">Läʹdd</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Syöjätär</l>
+     <l pos="N" type="Prop">Suonikylä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Suõʹnnʼjelsijdd</t>
+       <t Contlex="PROP_TOP_KANEL" pos="N">Suõʹnnʼjel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sveitsi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Sveiʹccjânnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Syvälompolo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_LUUBBYL" pos="N">Čiŋŋlõsluubbâl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Syvä-Siikajärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Čiŋŋlõs-Šapššjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Syysjoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Čõhččjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Syysmaa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PESS" pos="N">Čõhččmädd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Syöjätär</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -3277,253 +4653,211 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Taavi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Daaʹved</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Taneli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Taannâl</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Tanja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Tädjjan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Tapani</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Teäppan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Tapaninpäivä</l>
+     <l pos="N" type="Prop">Taalmainsaari</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_PEIQVV" pos="N">Teäppanpeiʹvv</t>
+       <t Contlex="PROP_TOP_SUYL" pos="N">Taalmisuâl</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Tatjaana</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Tädjjan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Tauno</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Taannâl</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Tekla</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_OAQLGA" pos="N">Feeʹla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Teodor</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Huâttar</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Teppana</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Teäppan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Terentios</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_JIQLSSI" pos="N">Teʹrnti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Tiehallinto</l>
+     <l pos="N" type="Prop">talvikylä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Čuâǥǥasvaaldšem</t>
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Potkklasijdd</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Tihon</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Teehhan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Timo</l>
+     <l pos="N" type="Prop">talvisota</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_PESS" pos="N">Temm</t>
+       <t Contlex="PROP_AELDD" pos="N">täʹlvv-väinn</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Timoteus</l>
+     <l pos="N" type="Prop">Taneli</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Timofi</t>
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Taaʹnnel</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Trifon</l>
+     <l pos="N" type="Prop">Tanja</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Treeffan</t>
+       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Täđjjan</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Trofimos</l>
+     <l pos="N" type="Prop">Tanska</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Trooʹfem</t>
+       <t Contlex="PROP_TOP_ALGG" pos="N">Danskk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Tuhkimus</l>
+     <l pos="N" type="Prop">Tarja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Täʹrjj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tenojoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Teänjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Teppanankotajärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Teäppankueʹttjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tiehallinto</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_KAADHNEKH" pos="N">Čuâǥǥasvaaldšem</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Timoteus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Timofi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Trifona</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Treeffansijdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tsarmijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Čarmmjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tsarmitunturi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_TUODDYR" pos="N">Čarmmtuõddâr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tsiuttajoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Čiuttajokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tsokkisjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Čokkisjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tsurnujärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Čurnnjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="" type="Prop">Tuhkimo</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -3535,7 +4869,19 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Tuomas</l>
+     <l pos="N" type="Prop">Tuhkimus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_PIISSUZH" pos="N">Kunnpeeipuž</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuomas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -3547,34 +4893,115 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Tyyne</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Dåʹmnn</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Tökerö-Pekka</l>
+     <l pos="N" type="Prop">Turja</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Poʹlčč-Peeddar</t>
+       <t Contlex="PROP_TOP_KAQLBB" pos="N">Tâʹrjj</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Uljaana</l>
+     <l pos="N" type="Prop">Turkki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Turkkjânnam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuulijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Piõggjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuuloma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Tuållâm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuulomajoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Tuållâmjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuulomankylä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SIJDD" pos="N">Tuållâmsijdd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tyynimeri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PUOAVV" pos="N">Kueʹlǩesmiârr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tökerö-Pekka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Polčč-Peeddar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Töllevijärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vääʹlesjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uljaana</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -3586,296 +5013,496 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Uljaana, Ulla</l>
+     <l pos="N" type="Prop">Ulla</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Uʹll</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">Ulla</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Uʹlljan</t>
        <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Uʹlljnaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Urpo</l>
+     <l pos="N" type="Prop">Unkari</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Oorfan</t>
+       <t Contlex="PROP_TOP_ATOM" pos="N">Unkar</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Vapahtaja</l>
+     <l pos="N" type="Prop">Utsjoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Spasiteʹl</t>
-       <t Contlex="PROP_SEM/MAL_" pos="N">Spaʹsiteʹl</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Uccjokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Vasili</l>
+     <l pos="N" type="Prop">Uurajoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_" pos="N">Vaaʹssel</t>
+       <t Contlex="PROP_TOP_KUSS" pos="N">Urrjokk</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Vasili</l>
+     <l pos="N" type="Prop">Uurajärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KAQLBB" pos="N">Väʹsǩǩ</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Urrjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Vasilitsa</l>
+     <l pos="N" type="Prop">Uuravuono</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Vaaʹssež</t>
+       <t Contlex="PROP_TOP_MUORR" pos="N">Urrvuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uusi-Seelanti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_ALGG" pos="N">Ođđ-Seelantt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uutuanjoki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUSS" pos="N">Uuddjokk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaasseljärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vaʹsseljäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaasselvaara</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Vaʹsselvääʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vainosjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vainosjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaitolahti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Âiʹddvuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Valasjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vääʹlesjäuʹrr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vapahtaja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_KANEL" pos="N">Spaʹsitel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vapahtajanpahta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KUYLAZH" pos="N">Spasiteʹlpääutaž</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Varanginvuono</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_MUORR" pos="N">Vaʹrjjelvuõnn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Varanki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Vaʹrjjel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vasili</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Vaaʹssel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vasilitsa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_DIQLL" pos="N">Vaʹss</t>
+       <t Contlex="PROP_SEM/FEM_" pos="N">Vaaʹssez</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Vasko</l>
+     <l pos="N" type="Prop">Vaskiharju</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KAQLBB" pos="N">Väʹsǩǩ</t>
+       <t Contlex="PROP_TOP_MUORR" pos="N">Veäʹšǩǩviõrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Vassi</l>
+     <l pos="N" type="Prop">Vassi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_" pos="N">Vaaʹssez</t>
-       <t Contlex="PROP_SEM/FEM_" pos="N">Vaaʹssež</t>
        <t Contlex="PROP_SEM/FEM_DIQLL" pos="N">Vaʹss</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Veera</l>
+     <l pos="N" type="Prop">Verkkoakkanen</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Veâra</t>
+       <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Vieʹrmmääkkaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Veera</l>
+     <l pos="N" type="Prop">Vienanmeri</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_" pos="N">Veära</t>
+       <t Contlex="PROP_TOP_PUOAVV" pos="N">Viõʹlǧǧesmiârr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Verkkoakkanen</l>
+     <l pos="N" type="Prop">Villavaara</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/FEM_KUALAZH" pos="N">Vieʹrmmääkkaž</t>
+       <t Contlex="PROP_TOP_SAAQMM" pos="N">Ollvääʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Viestintävirasto</l>
+     <l pos="N" type="Prop">Virtasalmi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_KOONTYR" pos="N">Saakkummužveʹrǧǧkoontâr</t>
+       <t Contlex="PROP_TOP_JEAQRMM" pos="N">Veʹrddčuäʹlmm</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Vladimir</l>
+     <l pos="N" type="Prop">Vladimir</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_OAQLGA" pos="N">Lääda</t>
+       <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Lääddaž</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Vladimir</l>
+     <l pos="N" type="Prop">Vouvatusjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_KUALAZH" pos="N">Lääddaž</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vââǥǥtemjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">Yrjö</l>
+     <l pos="N" type="Prop">Vuernisjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">PEOPLE</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Jååǥǥar</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vueʹrnsjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">joulu</l>
+     <l pos="N" type="Prop">Vuonnijärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem type="HUMAN">RELIGION</sem>
-       <sem type="HUMAN">FAMILY</sem>
-       <sem type="HUMAN">SOCIAL</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Rosttov</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuõnnjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">jumala </l>
+     <l pos="N" type="Prop">Vuontisjärvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Eʹmmel</t>
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuõddâsjäuʹrr</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">kettu </l>
+     <l pos="N" type="Prop">Vuontislompolo</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_PEIQVV" pos="N">Kuʹǩesseiʹbb</t>
+       <t Contlex="PROP_TOP_LUUBBYL" pos="N">Vuõddâsluubbâl</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">miehennimi</l>
+     <l pos="N" type="Prop">Vuoreija</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_SEM/MAL_ALGG" pos="N">Dimkk</t>
+       <t Contlex="PROP_TOP_AELDD-PL" pos="N">Väärǥ</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PROP">saamelaisparlamentti</l>
+     <l pos="N" type="Prop">Vuoremi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_ALGG" pos="PROP">Sääʹmparlamentt</t>
+       <t Contlex="PROP_TOP_AANAR" pos="N">Vueʹrjem</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">ǩoltta-asiain kannatusyhdistys</l>
+     <l pos="N" type="Prop">Vuotso</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PROP_" pos="N">Sääʹmaaʹšši kueʹddʼtemõutstõs</t>
+       <t Contlex="PROP_TOP_" pos="N">Vuõccu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Välimeri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_PUOAVV" pos="N">Kõskkmiârr</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vätsäri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Väʹččer</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Väylä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_KAQLBB" pos="N">Väʹvll</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ylä-Köngäs</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_" pos="N">Pâʹjj-Ǩeeuʹŋes</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ylä-Lappi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Pâʹjj-Sääʹmjânnam</t>
+       <t Contlex="PROP_TOP_BUKVA" pos="N">Pâʹjj-Lappi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ylä-Tuuloma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_AANAR" pos="N">Pâʹjj-Tuållâm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äälisjärvi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="PROP_TOP_JAUQRR" pos="N">Äälisjäuʹrr</t>
      </tg>
    </mg>
 </e>

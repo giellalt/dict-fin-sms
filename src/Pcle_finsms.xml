@@ -1,387 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r id="finsms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/giella-core/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
- You are free to copy, distribute and adapt the work, as long as you always give
- proper attribution using the attribution text below.
- For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
- Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
- This is NOT a fully styled and published dictionary.
- As such it can and will contain unfinished entries, unpublished entries, 
- entries with objectionable translations, etc. If you find any errors 
- or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+<?xml version="1.0" encoding="UTF-8"?> <r id="finsms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en"> This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always give proper attribution using the attribution text below. For the full license text, see the link above. </lic> <ref> Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>. </ref>
+     <sourcenote> THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
      </sourcenote> </lics>
 <e>
    <lg>
-     <l pos="Pcle">-han</l>
+     <l pos="Pcle">anteeksi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-a</t>
-       <t Contlex="PCLE_" pos="Pcle">deʹbe</t>
-       <t Contlex="PCLE_" pos="Pcle">ju</t>
-       <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
-       <t Contlex="PCLE_" pos="Pcle">tâma</t>
-       <t Contlex="PCLE_" pos="Pcle">âma</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-han, -hän</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-son</t>
-       <t Contlex="PCLE_" pos="Pcle">deʹbet</t>
-       <t Contlex="PCLE_" pos="Pcle">nâčat</t>
-       <t Contlex="PCLE_" pos="Pcle">veʹt</t>
-       <t Contlex="PCLE_" pos="Pcle">õt</t>
-       <t Contlex="PCLE_" pos="Pcle">õtju</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-han,-hän</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">šât</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-hän</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-a</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-hän</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-i</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-hän</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-tâma</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-hän</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">deʹbe</t>
-       <t Contlex="PCLE_" pos="Pcle">ju</t>
-       <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
-       <t Contlex="PCLE_" pos="Pcle">tâma</t>
-       <t Contlex="PCLE_" pos="Pcle">âma</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-ka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-ǥa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kaan</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">ni</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kaan</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">ni</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kin</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-i</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kin</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">še</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-ko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">a</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-ko, -kö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-go</t>
-       <t Contlex="PCLE_" pos="Pcle">-ǥo</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-ga</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-ǥa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kään</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">ni</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kään</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">ni</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-a</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-kö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">a</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-pa</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-pa, -pä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-ba</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-pa,-pä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">tâʹm</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-pä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-i</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-pä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-tâma</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">-pä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">aivan</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-i</t>
+       <t Contlex="V_VOQLLJED" pos="V">proʹsttjed</t>
+       <t Contlex="N_SAJOS" pos="N">proʹsttjõs</t>
+       <t Contlex="V_LAUKKOOLLYD" pos="V">proʹsttjõõttâd</t>
+       <t Contlex="V_" pos="V">vuäǯǯad proʹsttjõõžž</t>
+       <t Contlex="V_KAEQTTED" pos="V">proʹsttjâʹtted</t>
      </tg>
    </mg>
 </e>
@@ -392,53 +24,23 @@
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">ni</t>
+       <t Contlex="" pos="Pcle">ni</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="V">ei</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">ni</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">eikä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
-     <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">ni</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">eikä</l>
+     <l pos="Pcle">ensi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="V_" pos="Pcle">ni</t>
+       <t Contlex="N_HOQPPI" pos="N">puõʹtti</t>
+       <t Contlex="N_HOQPPI" pos="N">pueʹtti</t>
+       <t Contlex="ADV_" pos="Adv">toouʹni</t>
+       <t Contlex="ADV_" pos="Adv">puõʹtti neäʹttlest</t>
      </tg>
    </mg>
 </e>
@@ -450,22 +52,33 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">a</t>
+       <t Contlex="" pos="Pcle">a</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">juuri</l>
+     <l pos="Pcle">eri</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-i</t>
+       <t Contlex="" pos="Det">jeeʹres</t>
+       <t Contlex="ADV_" pos="Adv">jeeʹresårra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">-kaan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="Pcle">ni</t>
+       <t Contlex="ADV_" pos="Adv">ij mõõnnâm ni koozz</t>
      </tg>
    </mg>
 </e>
@@ -477,19 +90,101 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">šât</t>
+       <t Contlex="" pos="">âlmma</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">kun</l>
+     <l pos="Pcle">kenties</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-ǥu</t>
+       <t Contlex="" pos="">moožžât</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">kippis!</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="Pcle">tiõrvân jeälak!</t>
+       <t Contlex="" pos="Pcle">juuʹlest tiõrvân!</t>
+       <t Contlex="" pos="Pcle">tiõrvʼvuõttân!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">-ko</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="Pcle">-a</t>
+       <t Contlex="" pos="Pcle">-ǥo</t>
+       <t Contlex="" pos="Pcle">-go</t>
+       <t Contlex="" pos="Pcle">-o</t>
+       <t Contlex="" pos="Pcle">-ko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">korkealla</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">õllʼjõõzzâst</t>
+       <t Contlex="ADV_" pos="Adv">pâʹjjen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">-kos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="Pcle">kâʹllǥu</t>
+       <t Contlex="" pos="Pcle">-mana</t>
+       <t Contlex="" pos="Pcle">-ǥos</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">kunnes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="CS">poka</t>
+       <t Contlex="" pos="CS">koon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">kunpa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="Interj">davai</t>
      </tg>
    </mg>
 </e>
@@ -501,157 +196,281 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">kâl</t>
+       <t Contlex="" pos="Interj">joo</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">lähes</l>
+     <l pos="Pcle">-kä</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics> <!-- CHECKME How are particles related to emotions? -->
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+       <t Contlex="" pos="Pcle">-ǥa</t>
+       <t Contlex="" pos="Pcle">-ga</t>
+       <t Contlex="" pos="Pcle">-ka</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">melkein</l>
+     <l pos="Pcle">niinkuin</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics> <!-- CHECKME How are particles related to emotions? -->
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+       <t Contlex="" pos="">nuʹtmâna</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">myös</l>
+     <l pos="Pcle">näet</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics>
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">še</t>
+       <t Contlex="" pos="">vuänak</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">niin</l>
+     <l pos="Pcle">näkemiin</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics> <!-- CHECKME How are particles related to emotions? -->
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+       <t Contlex="" pos="">kuõđđu tiõrvân</t>
+       <t Contlex="" pos="Pcle">kuâđđjeʹǩed tiõrvân</t>
+       <t Contlex="" pos="Pcle">pääʹʒʒ tiõrvân</t>
+       <t Contlex="" pos="Pcle">pääʹcced tiõrvân</t>
+       <t Contlex="" pos="Pcle">mõõn tiõrvân</t>
+       <t Contlex="" pos="Pcle">mõõnnâd tiõrvân</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">no sitten</l>
+     <l pos="Pcle">näköjään</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">näde</t>
+       <t Contlex="" pos="">vuqstai</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">noin</l>
+     <l pos="Pcle">oikeastaan</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics> <!-- CHECKME How are particles related to emotions? -->
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+       <t Contlex="" pos="Pcle">šât</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">sitten</l>
+     <l pos="Pcle">ollenkaan</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">šât</t>
+       <t Contlex="ADV_" pos="Adv">vooʹps</t>
+       <t Contlex="ADV_" pos="Adv">ij ni vooʹps</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">suunnilleen</l>
+     <l pos="Pcle">-pa</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <semantics> <!-- CHECKME How are particles related to emotions? -->
-       <sem class="SENSE">EMOTION</sem>
-     </semantics>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+       <t Contlex="" pos="Pcle">-ba</t>
+       <t Contlex="" pos="Pcle">-i</t>
+       <t Contlex="" pos="Pcle">-âs</t>
+       <t Contlex="" pos="Pcle">tâma</t>
+       <t Contlex="" pos="Pcle">teʹbe</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">tahansa</l>
+     <l pos="Pcle">sentään</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">håʹt</t>
+       <t Contlex="" pos="Adv">tõndiõtt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">tosin</l>
+     <l pos="Pcle">silti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">kâl</t>
+       <t Contlex="" pos="">kuuitâg</t>
+       <t Contlex="" pos="Adv">seâža</t>
+       <t Contlex="CC_" pos="CC">leâša</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">vuorostaan</l>
+     <l pos="Pcle">sittenkin</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="PCLE_" pos="Pcle">-ǥõs</t>
+       <t Contlex="" pos="">kuuitâg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">siunatkoon!</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="">sveât!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">tervetuloa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="">puäʹđ tiõrvân</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">tietenkin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">tiõttlõs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">tokko</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="Pcle">kâʹlgu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">tosiaan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="Adv">tuõđi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">vaille</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV_" pos="Adv">väjjaǥ</t>
+       <t Contlex="ADV_" pos="Adv">väjjstõʹǩǩe</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">varhain</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="ADV-TEMP_" pos="Adv">ääiʹjeld</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">vielä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="Adv">veâl</t>
+       <t Contlex="" pos="Adv">vuõʹste</t>
+       <t Contlex="ADV_" pos="Adv">veâl-i</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">viime</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="A_PRSPRC-VVCC-I" pos="A">mõõnni</t>
+       <t Contlex="ADV-TEMP_" pos="Adv">teimma</t>
+       <t Contlex="ADV_" pos="Adv">mõõnni ääiʹj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ylen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="" pos="Adp">pâiʹl</t>
+       <t Contlex="ADV_" pos="Adv">pâjl</t>
+       <t Contlex="ADV_" pos="Adv">samai</t>
+       <t Contlex="V_VUEQHSSED" pos="V">vueʹhssed</t>
      </tg>
    </mg>
 </e>
