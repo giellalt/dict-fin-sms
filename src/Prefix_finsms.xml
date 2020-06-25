@@ -7,7 +7,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="A_JOOSKYS" pos="A">õõlmâs</t>
      </tg>

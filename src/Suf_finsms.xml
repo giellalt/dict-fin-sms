@@ -7,26 +7,99 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">deʹbe</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>kysymyksissä</re>
        <t Contlex="" pos="Pcle">-son</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-han</t>
+     </tg>
+   </mg>
+   <mg relID="3">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-i</t>
+     </tg>
+   </mg>
+   <mg relID="4">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-a</t>
+     </tg>
+   </mg>
+   <mg relID="5">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-ala</t>
+     </tg>
+   </mg>
+   <mg relID="6">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">šât</t>
+     </tg>
+   </mg>
+   <mg relID="7">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">âma</t>
+     </tg>
+   </mg>
+   <mg relID="8">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">tâma</t>
+     </tg>
+   </mg>
+   <mg relID="9">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">teʹbe</t>
+     </tg>
+   </mg>
+   <mg relID="10">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">deʹbet</t>
+     </tg>
+   </mg>
+   <mg relID="11">
+     <tg xml:lang="sms">
        <t Contlex="ADV_" pos="Adv">i</t>
+     </tg>
+   </mg>
+   <mg relID="12">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">ju</t>
+     </tg>
+   </mg>
+   <mg relID="13">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">nâčat</t>
+     </tg>
+   </mg>
+   <mg relID="14">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">veât</t>
+     </tg>
+   </mg>
+   <mg relID="15">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">veʹt</t>
+     </tg>
+   </mg>
+   <mg relID="16">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">ât</t>
+     </tg>
+   </mg>
+   <mg relID="17">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">õt</t>
+     </tg>
+   </mg>
+   <mg relID="18">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">õtju</t>
      </tg>
    </mg>

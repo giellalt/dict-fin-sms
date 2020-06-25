@@ -7,12 +7,33 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>antaa anteeksi</re>
        <t Contlex="V_VOQLLJED" pos="V">proʹsttjed</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>anteeksianto</re>
        <t Contlex="N_SAJOS" pos="N">proʹsttjõs</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
+       <re>pyytää anteeksi</re>
        <t Contlex="V_LAUKKOOLLYD" pos="V">proʹsttjõõttâd</t>
+     </tg>
+   </mg>
+   <mg relID="3">
+     <tg xml:lang="sms">
+       <re>saada anteeksi</re>
        <t Contlex="V_" pos="V">vuäǯǯad proʹsttjõõžž</t>
+     </tg>
+   </mg>
+   <mg relID="4">
+     <tg xml:lang="sms">
+       <re>saada anteeksi</re>
        <t Contlex="V_KAEQTTED" pos="V">proʹsttjâʹtted</t>
      </tg>
    </mg>
@@ -23,7 +44,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">ni</t>
      </tg>
@@ -35,11 +56,25 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="N_HOQPPI" pos="N">puõʹtti</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="N_HOQPPI" pos="N">pueʹtti</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
+       <re>ensi vuoden jälkeisenä vuonna</re>
        <t Contlex="ADV_" pos="Adv">toouʹni</t>
+     </tg>
+   </mg>
+   <mg relID="3">
+     <tg xml:lang="sms">
+       <re>ensi viikolla</re>
        <t Contlex="ADV_" pos="Adv">puõʹtti neäʹttlest</t>
      </tg>
    </mg>
@@ -50,7 +85,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">a</t>
      </tg>
@@ -62,9 +97,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Det">jeeʹres</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>eri suuntaan</re>
        <t Contlex="ADV_" pos="Adv">jeeʹresårra</t>
      </tg>
    </mg>
@@ -75,9 +115,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">ni</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>ei mennyt minnekään</re>
        <t Contlex="ADV_" pos="Adv">ij mõõnnâm ni koozz</t>
      </tg>
    </mg>
@@ -88,7 +133,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="">âlmma</t>
      </tg>
@@ -100,7 +145,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="">moožžât</t>
      </tg>
@@ -112,10 +157,18 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">tiõrvân jeälak!</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">juuʹlest tiõrvân!</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">tiõrvʼvuõttân!</t>
      </tg>
    </mg>
@@ -126,12 +179,28 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-a</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-ǥo</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-go</t>
+     </tg>
+   </mg>
+   <mg relID="3">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-o</t>
+     </tg>
+   </mg>
+   <mg relID="4">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-ko</t>
      </tg>
    </mg>
@@ -142,9 +211,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="ADV_" pos="Adv">õllʼjõõzzâst</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>ylhäällä</re>
        <t Contlex="ADV_" pos="Adv">pâʹjjen</t>
      </tg>
    </mg>
@@ -155,10 +229,18 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">kâʹllǥu</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-mana</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-ǥos</t>
      </tg>
    </mg>
@@ -169,9 +251,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="CS">poka</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="" pos="CS">koon</t>
      </tg>
    </mg>
@@ -182,7 +268,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Interj">davai</t>
      </tg>
@@ -194,7 +280,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Interj">joo</t>
      </tg>
@@ -206,10 +292,18 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-ǥa</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-ga</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-ka</t>
      </tg>
    </mg>
@@ -220,7 +314,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="">nuʹtmâna</t>
      </tg>
@@ -232,7 +326,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="">vuänak</t>
      </tg>
@@ -244,13 +338,39 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>yhdelle, joka jää</re>
        <t Contlex="" pos="">kuõđđu tiõrvân</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>useammalle kuin yhdelle, jotka jäävät</re>
        <t Contlex="" pos="Pcle">kuâđđjeʹǩed tiõrvân</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
+       <re>yhdelle, joka jää</re>
        <t Contlex="" pos="Pcle">pääʹʒʒ tiõrvân</t>
+     </tg>
+   </mg>
+   <mg relID="3">
+     <tg xml:lang="sms">
+       <re>useammalle kuin yhdelle, jotka jäävät</re>
        <t Contlex="" pos="Pcle">pääʹcced tiõrvân</t>
+     </tg>
+   </mg>
+   <mg relID="4">
+     <tg xml:lang="sms">
+       <re>yhdelle lähtijälle</re>
        <t Contlex="" pos="Pcle">mõõn tiõrvân</t>
+     </tg>
+   </mg>
+   <mg relID="5">
+     <tg xml:lang="sms">
+       <re>useammalle kuin yhdelle lähtijälle</re>
        <t Contlex="" pos="Pcle">mõõnnâd tiõrvân</t>
      </tg>
    </mg>
@@ -261,7 +381,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="">vuqstai</t>
      </tg>
@@ -273,7 +393,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">šât</t>
      </tg>
@@ -285,9 +405,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="ADV_" pos="Adv">vooʹps</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>ei ollenkaan</re>
        <t Contlex="ADV_" pos="Adv">ij ni vooʹps</t>
      </tg>
    </mg>
@@ -298,12 +423,28 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-ba</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-i</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">-âs</t>
+     </tg>
+   </mg>
+   <mg relID="3">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">tâma</t>
+     </tg>
+   </mg>
+   <mg relID="4">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">teʹbe</t>
      </tg>
    </mg>
@@ -314,7 +455,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Adv">tõndiõtt</t>
      </tg>
@@ -326,10 +467,18 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="">kuuitâg</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Adv">seâža</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
        <t Contlex="CC_" pos="CC">leâša</t>
      </tg>
    </mg>
@@ -340,7 +489,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="">kuuitâg</t>
      </tg>
@@ -352,8 +501,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>salaman päivittelyhuudahdus</re>
        <t Contlex="" pos="">sveât!</t>
      </tg>
    </mg>
@@ -364,7 +514,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="">puäʹđ tiõrvân</t>
      </tg>
@@ -376,7 +526,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="ADV_" pos="Adv">tiõttlõs</t>
      </tg>
@@ -388,7 +538,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Pcle">kâʹlgu</t>
      </tg>
@@ -400,7 +550,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Adv">tuõđi</t>
      </tg>
@@ -412,9 +562,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="ADV_" pos="Adv">väjjaǥ</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>vähää vaille</re>
        <t Contlex="ADV_" pos="Adv">väjjstõʹǩǩe</t>
      </tg>
    </mg>
@@ -425,7 +580,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="ADV-TEMP_" pos="Adv">ääiʹjeld</t>
      </tg>
@@ -437,10 +592,19 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Adv">veâl</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="" pos="Adv">vuõʹste</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
+       <re>vieläkin</re>
        <t Contlex="ADV_" pos="Adv">veâl-i</t>
      </tg>
    </mg>
@@ -451,10 +615,20 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="A_PRSPRC-VVCC-I" pos="A">mõõnni</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>viime vuonna</re>
        <t Contlex="ADV-TEMP_" pos="Adv">teimma</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
+       <re>viime aikoina</re>
        <t Contlex="ADV_" pos="Adv">mõõnni ääiʹj</t>
      </tg>
    </mg>
@@ -465,11 +639,24 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="" pos="Adp">pâiʹl</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="ADV_" pos="Adv">pâjl</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
        <t Contlex="ADV_" pos="Adv">samai</t>
+     </tg>
+   </mg>
+   <mg relID="3">
+     <tg xml:lang="sms">
+       <re>antaa ylen</re>
        <t Contlex="V_VUEQHSSED" pos="V">vueʹhssed</t>
      </tg>
    </mg>

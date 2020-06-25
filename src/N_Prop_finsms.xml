@@ -7,7 +7,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_KAQLBB" pos="N">Eeʹđestäʹsnn</t>
      </tg>
@@ -19,7 +19,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Aadam</t>
      </tg>
@@ -31,7 +31,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_PAPP" pos="N">Afrikk</t>
      </tg>
@@ -43,9 +43,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Åggvi</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_TOOBDYLM" pos="N">Ååggašǩ</t>
      </tg>
    </mg>
@@ -56,7 +60,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuâskjäuʹrr</t>
      </tg>
@@ -68,7 +72,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Vuâskčiõʹlj</t>
      </tg>
@@ -80,7 +84,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Ailijokk</t>
      </tg>
@@ -92,7 +96,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Ailijäuʹrr</t>
      </tg>
@@ -104,7 +108,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Äʹǩǩelsijdd</t>
      </tg>
@@ -116,7 +120,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Väʹsǩǩ Vuõnjâč</t>
      </tg>
@@ -128,7 +132,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Akujäuʹrr</t>
      </tg>
@@ -140,7 +144,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Alaskk</t>
      </tg>
@@ -152,7 +156,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TRUUBA" pos="N">Alta</t>
      </tg>
@@ -164,9 +168,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_" pos="N">Åʹlsander</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Oʹlssi</t>
      </tg>
    </mg>
@@ -177,7 +185,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Oʹlssi</t>
      </tg>
@@ -189,8 +197,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>sadussa esiintyvä nimi</re>
        <t Contlex="PROP_SEM/MAL_MUORYZH" pos="N">Aalǥâž</t>
      </tg>
    </mg>
@@ -201,7 +210,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KAQLBB-PL" pos="N">Aaʹlp</t>
      </tg>
@@ -213,7 +222,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_PAPP" pos="N">Amerikk</t>
      </tg>
@@ -225,7 +234,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Aŋŋel</t>
      </tg>
@@ -237,7 +246,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Äännaž</t>
      </tg>
@@ -249,7 +258,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Äännaž</t>
      </tg>
@@ -261,7 +270,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Äännaž</t>
      </tg>
@@ -273,7 +282,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Äʹnn-njargg</t>
      </tg>
@@ -285,7 +294,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Oʹnddri</t>
      </tg>
@@ -297,7 +306,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_TOOBDYLM" pos="N">Ååntašǩ</t>
      </tg>
@@ -309,7 +318,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_TOOBDYLM" pos="N">Ååntašǩ</t>
      </tg>
@@ -321,7 +330,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Åʹrofi</t>
      </tg>
@@ -333,7 +342,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KANEL" pos="N">Aarhaŋŋel</t>
      </tg>
@@ -345,7 +354,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Čuʹǩǩsuâl</t>
      </tg>
@@ -357,7 +366,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SYSTEEQM" pos="N">Arseeʹn</t>
      </tg>
@@ -369,7 +378,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Atlantt</t>
      </tg>
@@ -381,8 +390,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>miehennimi</re>
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Oʹhssnti</t>
      </tg>
    </mg>
@@ -393,7 +403,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Aagni</t>
      </tg>
@@ -405,7 +415,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Ääuʹljäuʹrr</t>
      </tg>
@@ -417,7 +427,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_UHSS" pos="N">Baffinluhtt</t>
      </tg>
@@ -429,9 +439,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Däʹrjj</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Täʹrjj</t>
      </tg>
    </mg>
@@ -442,7 +456,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_ATOM" pos="N">Oʹmlʼjan</t>
      </tg>
@@ -454,7 +468,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_PEIQVV" pos="N">Eʹlljpeiʹvv</t>
      </tg>
@@ -466,8 +480,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>demin.</re>
        <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Eelljaž</t>
      </tg>
    </mg>
@@ -478,7 +493,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Eʹllnaž</t>
      </tg>
@@ -490,7 +505,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Eŋgglõsjânnam</t>
      </tg>
@@ -502,7 +517,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_KOALVAK" pos="N">Essak</t>
      </tg>
@@ -514,7 +529,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_BUKVA" pos="N">Espanja</t>
      </tg>
@@ -526,7 +541,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PAPP" pos="N">Saujj-Amerikk</t>
      </tg>
@@ -538,7 +553,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Saujjnääʹpp</t>
      </tg>
@@ -550,7 +565,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Ååjjaž</t>
      </tg>
@@ -562,7 +577,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ATOM" pos="N">Euroopp Union</t>
      </tg>
@@ -574,7 +589,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PAPP" pos="N">Europp</t>
      </tg>
@@ -586,7 +601,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AACCIKH" pos="N">Ååstaǩ</t>
      </tg>
@@ -598,8 +613,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>sukunimi</re>
        <t Contlex="PROP_" pos="N">Feâdrov</t>
      </tg>
    </mg>
@@ -610,8 +626,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>miehennimi</re>
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Kaurrâl</t>
      </tg>
    </mg>
@@ -622,7 +639,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Lukkri</t>
      </tg>
@@ -634,7 +651,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_BIOLOGIA" pos="N">Golgata</t>
      </tg>
@@ -646,7 +663,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Ruânnjânnam</t>
      </tg>
@@ -658,7 +675,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Reämalkuõškk</t>
      </tg>
@@ -670,7 +687,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_LOAQDD" pos="N">Räʹnn</t>
      </tg>
@@ -682,7 +699,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Pääʹnnjäuʹrr</t>
      </tg>
@@ -694,7 +711,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TUODDYR" pos="N">Pääʹnntuõddâr</t>
      </tg>
@@ -706,7 +723,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Suäʹvveljäuʹrr</t>
      </tg>
@@ -718,7 +735,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Äuʹddsuâl</t>
      </tg>
@@ -730,7 +747,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Äinisuõllu</t>
      </tg>
@@ -742,7 +759,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Heävaškuõškk</t>
      </tg>
@@ -754,7 +771,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Heävaš-suâl</t>
      </tg>
@@ -766,7 +783,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Vuõddâsjokk</t>
      </tg>
@@ -778,7 +795,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TUYJJ" pos="N">Vuõddâsvuäjj</t>
      </tg>
@@ -790,7 +807,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Läʹbǯǯjäuʹrr</t>
      </tg>
@@ -802,7 +819,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KAADHNEKH" pos="N">Umppdeǩ</t>
      </tg>
@@ -814,8 +831,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>miehennimi</re>
        <t Contlex="PROP_SEM/MAL_" pos="N">Laaʹrvan</t>
      </tg>
    </mg>
@@ -826,7 +844,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Sââʹrves-sijdd</t>
      </tg>
@@ -838,8 +856,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>sadussa</re>
        <t Contlex="PROP_SEM/MAL_PRSPRC-VCC-I" pos="N">Pieʹccnjiʹʒʒi</t>
      </tg>
    </mg>
@@ -850,7 +869,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG-PL" pos="N">Svaalbaard</t>
      </tg>
@@ -862,7 +881,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Čuârvvjäuʹrr</t>
      </tg>
@@ -874,7 +893,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Pâʹjj-jäuʹrr</t>
      </tg>
@@ -886,7 +905,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_KOALVAK" pos="N">Essak</t>
      </tg>
@@ -898,7 +917,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Iisakjäuʹrr</t>
      </tg>
@@ -910,7 +929,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Eelljaž</t>
      </tg>
@@ -922,7 +941,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Âʹvver</t>
      </tg>
@@ -934,7 +953,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Âʹvverjäuʹrr</t>
      </tg>
@@ -946,7 +965,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Aanarjäuʹrr</t>
      </tg>
@@ -958,7 +977,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TRUUBA" pos="N">Intia</t>
      </tg>
@@ -970,9 +989,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_IILYSKH" pos="N">Iirâšǩ</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>pikku-Irina</re>
        <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Irškaž</t>
      </tg>
    </mg>
@@ -983,7 +1007,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Irlantt</t>
      </tg>
@@ -995,7 +1019,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Islantt</t>
      </tg>
@@ -1007,7 +1031,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_BIOLOGIA" pos="N">Jõnn-Britannia</t>
      </tg>
@@ -1019,7 +1043,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Jõnn Suäʹvveljäuʹrr</t>
      </tg>
@@ -1031,7 +1055,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Jõnnǩeäʹdǧǧjäuʹrr</t>
      </tg>
@@ -1043,7 +1067,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_LUUBBYL" pos="N">Jõnnluubbâl</t>
      </tg>
@@ -1055,7 +1079,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KANEL" pos="N">Israel</t>
      </tg>
@@ -1067,7 +1091,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_BIOLOGIA" pos="N">Italia</t>
      </tg>
@@ -1079,7 +1103,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PUOAVV" pos="N">Nuõrttmiârr</t>
      </tg>
@@ -1091,7 +1115,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KAQLBB" pos="N">Nuõrttväʹldd</t>
      </tg>
@@ -1103,7 +1127,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_PYYGG" pos="N">Jääkk</t>
      </tg>
@@ -1115,7 +1139,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PLAAN" pos="N">Japaan</t>
      </tg>
@@ -1127,7 +1151,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Jäuʹrrjokk</t>
      </tg>
@@ -1139,7 +1163,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAJOS" pos="N">Isõs</t>
      </tg>
@@ -1151,7 +1175,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KAQLBB" pos="N">Jooǥǥnjäʹlmm</t>
      </tg>
@@ -1163,7 +1187,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Jovkkjokk</t>
      </tg>
@@ -1175,7 +1199,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Jooʹsef</t>
      </tg>
@@ -1187,7 +1211,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TUODDYR" pos="N">Jooultuõddâr</t>
      </tg>
@@ -1199,7 +1223,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Njuhččjäuʹrr</t>
      </tg>
@@ -1211,7 +1235,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Njuhččnjââʹvv</t>
      </tg>
@@ -1223,7 +1247,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_MEERSAZH" pos="N">Evvnaž</t>
      </tg>
@@ -1235,9 +1259,15 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>lasten kielellä</re>
        <t Contlex="PROP_SEM/MAL_" pos="N">Bååžž</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>protestanttinen</re>
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Eʹmmel</t>
      </tg>
    </mg>
@@ -1248,7 +1278,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_" pos="N">Vuâsppååʹdšõddeei</t>
      </tg>
@@ -1260,7 +1290,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Juuŋâsnjargg</t>
      </tg>
@@ -1272,7 +1302,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Juõnnjokk</t>
      </tg>
@@ -1284,7 +1314,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Suõʹbddinjargg</t>
      </tg>
@@ -1296,7 +1326,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Ceäggkuõškk</t>
      </tg>
@@ -1308,7 +1338,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Jeeʹelvueiʹvv</t>
      </tg>
@@ -1320,7 +1350,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Jeeʹelsuâl</t>
      </tg>
@@ -1332,7 +1362,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Njuäʹmmeljäuʹrr</t>
      </tg>
@@ -1344,7 +1374,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Njuäʹmmelskäiʹdd</t>
      </tg>
@@ -1356,7 +1386,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Njuäʹmmelkuõškk</t>
      </tg>
@@ -1368,7 +1398,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Njuäʹmmelnjargg</t>
      </tg>
@@ -1380,7 +1410,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Njuäʹmmelvueiʹvv</t>
      </tg>
@@ -1392,7 +1422,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PIEAQSS" pos="N">Njuäʹmmelvueiʹvvǩieʹčč</t>
      </tg>
@@ -1404,7 +1434,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Jiõŋŋjäuʹrr</t>
      </tg>
@@ -1416,7 +1446,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PUOAVV" pos="N">Jiõŋŋmiârr</t>
      </tg>
@@ -1428,7 +1458,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Kaamâs</t>
      </tg>
@@ -1440,7 +1470,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_LUUBBYL" pos="N">Kaaʹrdluubbâl</t>
      </tg>
@@ -1452,7 +1482,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_KUYLAZH" pos="N">Kaʹʒʒemčââlmaž</t>
      </tg>
@@ -1464,7 +1494,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JEAQRMM" pos="N">Kaalčuäʹlmm</t>
      </tg>
@@ -1476,7 +1506,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_HOQPPI" pos="N">Kaiʹssi</t>
      </tg>
@@ -1488,7 +1518,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Ǩiʹǩǩernjargg</t>
      </tg>
@@ -1500,7 +1530,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kuddteʹmesjäuʹrr</t>
      </tg>
@@ -1512,7 +1542,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Källjokk</t>
      </tg>
@@ -1524,7 +1554,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Källjäuʹrr</t>
      </tg>
@@ -1536,7 +1566,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Källkuõškk</t>
      </tg>
@@ -1548,7 +1578,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Källvueiʹvv</t>
      </tg>
@@ -1560,7 +1590,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_" pos="N">Meertiõrvâsvuõttstrooiteʹl</t>
      </tg>
@@ -1572,7 +1602,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Karasjokk</t>
      </tg>
@@ -1584,7 +1614,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Karekkjäuʹrr</t>
      </tg>
@@ -1596,7 +1626,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Ǩiurrâl</t>
      </tg>
@@ -1608,7 +1638,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Karigasnjargg</t>
      </tg>
@@ -1620,7 +1650,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kõskkmajäuʹrr</t>
      </tg>
@@ -1632,7 +1662,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Kõskkmavueiʹvv</t>
      </tg>
@@ -1644,7 +1674,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kaaʹdrenjäuʹrr</t>
      </tg>
@@ -1656,9 +1686,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Kaurrâl</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Kauʹrrel</t>
      </tg>
    </mg>
@@ -1669,7 +1703,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUYLAZH" pos="N">Čeäppatvuäivaž</t>
      </tg>
@@ -1681,7 +1715,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Ǩeeʹmm</t>
      </tg>
@@ -1693,7 +1727,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Ǩeeʹmmjokk</t>
      </tg>
@@ -1705,7 +1739,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Ǩeeʹmmjäuʹrr</t>
      </tg>
@@ -1717,7 +1751,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Ceʹrvv-vuõnn</t>
      </tg>
@@ -1729,8 +1763,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>sadussa esiintyvä nimi</re>
        <t Contlex="PROP_SEM/MAL_" pos="N">Kõõskâž</t>
      </tg>
    </mg>
@@ -1741,8 +1776,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>sadussa</re>
        <t Contlex="PROP_SEM/MAL_KAAQLLES" pos="N">Rieʹmjjkääʹlles</t>
      </tg>
    </mg>
@@ -1753,7 +1789,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Rieʹmjj-jokk</t>
      </tg>
@@ -1765,7 +1801,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Keväjäuʹrr</t>
      </tg>
@@ -1777,7 +1813,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Ǩiârddâmjokk</t>
      </tg>
@@ -1789,7 +1825,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TRUUBA" pos="N">Ǩiina</t>
      </tg>
@@ -1801,7 +1837,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kirakkajäuʹrr</t>
      </tg>
@@ -1813,7 +1849,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Ǩeârkknjargg</t>
      </tg>
@@ -1825,7 +1861,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Ǩiʹttel</t>
      </tg>
@@ -1837,9 +1873,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Ǩiurrâl</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Ǩiuʹrrel</t>
      </tg>
    </mg>
@@ -1850,7 +1890,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Ǩeäʹdǧǧčiõʹlj</t>
      </tg>
@@ -1862,7 +1902,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Taalmisuâl</t>
      </tg>
@@ -1874,7 +1914,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Sueʹǩǩvääʹrr</t>
      </tg>
@@ -1886,7 +1926,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Koolâsjokk</t>
      </tg>
@@ -1898,7 +1938,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Koolâsjäuʹrr</t>
      </tg>
@@ -1910,7 +1950,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_ALGG" pos="N">Nuõrttsääʹmkultturfondd</t>
      </tg>
@@ -1922,7 +1962,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHEEUQRES" pos="N">Ǩeeuʹŋes</t>
      </tg>
@@ -1934,7 +1974,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Konnsažvueiʹvv</t>
      </tg>
@@ -1946,7 +1986,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Kuäʹppel</t>
      </tg>
@@ -1958,7 +1998,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Kooʹrneǩjokk</t>
      </tg>
@@ -1970,7 +2010,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kooʹrneǩjäuʹrr</t>
      </tg>
@@ -1982,7 +2022,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Kooʹrneǩvääʹrr</t>
      </tg>
@@ -1994,7 +2034,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TAQHTT" pos="N">Käärnõspäʹhtt</t>
      </tg>
@@ -2006,7 +2046,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuåššjäuʹrr</t>
      </tg>
@@ -2018,7 +2058,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TUODDYR" pos="N">Peʹlljtuõddâr</t>
      </tg>
@@ -2030,7 +2070,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Kuõškk-kaʹlddijokk</t>
      </tg>
@@ -2042,7 +2082,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kuõškk-kaʹlddijäuʹrr</t>
      </tg>
@@ -2054,7 +2094,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Kueʹttjokk</t>
      </tg>
@@ -2066,7 +2106,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_LUUBBYL" pos="N">Kueʹttluubbâl</t>
      </tg>
@@ -2078,7 +2118,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Kueʹttjõrŋŋ</t>
      </tg>
@@ -2090,7 +2130,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Kreikkajânnam</t>
      </tg>
@@ -2102,7 +2142,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAJOS" pos="N">Kristõs</t>
      </tg>
@@ -2114,7 +2154,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kåšǩǩ-Ruʹvddjäuʹrr</t>
      </tg>
@@ -2126,7 +2166,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JEAQRMM" pos="N">Kååmmčuäʹrvv</t>
      </tg>
@@ -2138,7 +2178,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TUODDYR" pos="N">Čuʹlpptuõddâr</t>
      </tg>
@@ -2150,7 +2190,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Kuosnijokk</t>
      </tg>
@@ -2162,7 +2202,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TRUUBA" pos="N">Kuttura</t>
      </tg>
@@ -2174,7 +2214,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kååđđjäuʹrr</t>
      </tg>
@@ -2186,7 +2226,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kuärddjäuʹrr</t>
      </tg>
@@ -2198,7 +2238,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MAADD" pos="N">Ǩiõttmaadd</t>
      </tg>
@@ -2210,7 +2250,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_UHSS" pos="N">Keäʹpperluhtt</t>
      </tg>
@@ -2222,7 +2262,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Sauʒʒsuâl</t>
      </tg>
@@ -2234,7 +2274,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_CHUAQRVV" pos="N">Lueʹppčuäʹrvv</t>
      </tg>
@@ -2246,7 +2286,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_BUKVA" pos="N">Lappi</t>
      </tg>
@@ -2258,7 +2298,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Läärvan</t>
      </tg>
@@ -2270,7 +2310,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Laukkjäuʹrr</t>
      </tg>
@@ -2282,7 +2322,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUYLAZH" pos="N">Laukkvuäivaž</t>
      </tg>
@@ -2294,7 +2334,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Laauljäuʹrr</t>
      </tg>
@@ -2306,7 +2346,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AACCIKH" pos="N">Lääʹreǩ</t>
      </tg>
@@ -2318,7 +2358,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Lääʹreǩvääʹrr</t>
      </tg>
@@ -2330,7 +2370,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_MEERSAZH" pos="N">Lääʹrkaž</t>
      </tg>
@@ -2342,7 +2382,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Puäʹrrevjäuʹrr</t>
      </tg>
@@ -2354,7 +2394,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Leijäuʹrr</t>
      </tg>
@@ -2366,7 +2406,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Lemmenjokk</t>
      </tg>
@@ -2378,7 +2418,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Leâukaž</t>
      </tg>
@@ -2390,7 +2430,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_" pos="N">Täʹsnntueʹll</t>
      </tg>
@@ -2402,7 +2442,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Nâânpieʹlljäuʹrr</t>
      </tg>
@@ -2414,7 +2454,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Lukkri</t>
      </tg>
@@ -2426,7 +2466,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Eʹmmel</t>
      </tg>
@@ -2438,7 +2478,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Luolajäuʹrr</t>
      </tg>
@@ -2450,8 +2490,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>joki</re>
        <t Contlex="PROP_TOP_PESS" pos="N">Lått</t>
      </tg>
    </mg>
@@ -2462,7 +2503,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Låttjokk</t>
      </tg>
@@ -2474,7 +2515,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Luujäuʹrrsijdd</t>
      </tg>
@@ -2486,7 +2527,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Âʹldd-Nuõrti</t>
      </tg>
@@ -2498,7 +2539,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JEAQRMM" pos="N">Maaseäʹlǧǧ</t>
      </tg>
@@ -2510,7 +2551,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Maaʒʒsâžjäuʹrr</t>
      </tg>
@@ -2522,7 +2563,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Maaddvuõnn</t>
      </tg>
@@ -2534,7 +2575,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Maiddeǩ-kuõškk</t>
      </tg>
@@ -2546,7 +2587,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Mäkkri</t>
      </tg>
@@ -2558,7 +2599,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Maadd-Lääʹddjânnam</t>
      </tg>
@@ -2570,7 +2611,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Mäʹrjj</t>
      </tg>
@@ -2582,7 +2623,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Maʹrnnjäuʹrr</t>
      </tg>
@@ -2594,9 +2635,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>hellittelynimi</re>
        <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Määrjaž</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Mäʹrjj</t>
      </tg>
    </mg>
@@ -2607,7 +2653,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_PLAAN" pos="N">Maark</t>
      </tg>
@@ -2619,7 +2665,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_" pos="N">Maʹrtten</t>
      </tg>
@@ -2631,7 +2677,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Määšš-suâl</t>
      </tg>
@@ -2643,7 +2689,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_DIQLL" pos="N">Maʹtt</t>
      </tg>
@@ -2655,10 +2701,18 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Maaʹtfi</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_DIQLL" pos="N">Maʹtt</t>
+     </tg>
+   </mg>
+   <mg relID="2">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_PESS" pos="N">Mäšš</t>
      </tg>
    </mg>
@@ -2669,7 +2723,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Mäkkri</t>
      </tg>
@@ -2681,7 +2735,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Meiʹssjäuʹrr</t>
      </tg>
@@ -2693,7 +2747,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Menesjäuʹrr</t>
      </tg>
@@ -2705,7 +2759,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAJOS" pos="N">Meʹnekõs</t>
      </tg>
@@ -2717,7 +2771,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Čuhččjäuʹrr</t>
      </tg>
@@ -2729,9 +2783,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Miikkât</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_PESS" pos="N">Mekk</t>
      </tg>
    </mg>
@@ -2742,9 +2800,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_" pos="N">Mooʹssai</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Mooʹssi</t>
      </tg>
    </mg>
@@ -2755,7 +2817,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Mueʹtǩǩvuõnn</t>
      </tg>
@@ -2767,7 +2829,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Sââʹrrvääʹrr</t>
      </tg>
@@ -2779,7 +2841,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Mååʹđđjääuʹrjõrŋŋ</t>
      </tg>
@@ -2791,7 +2853,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Mååʹđđjäuʹrr</t>
      </tg>
@@ -2803,7 +2865,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PESS" pos="N">Mååʹđđmädd</t>
      </tg>
@@ -2815,7 +2877,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Myössäjäuʹrr</t>
      </tg>
@@ -2827,8 +2889,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>sadussa</re>
        <t Contlex="PROP_SEM/MAL_PRSPRC-VCC-I" pos="N">Pieʹccnjiʹʒʒi</t>
      </tg>
    </mg>
@@ -2839,7 +2902,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_PRSPRC-VWCCC-AI" pos="N">Čuäkk Čuäkkai</t>
      </tg>
@@ -2851,7 +2914,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Näŋŋvuõnn</t>
      </tg>
@@ -2863,7 +2926,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Njannâmjäuʹrr</t>
      </tg>
@@ -2875,8 +2938,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>pikku-Nasti</re>
        <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Nääskaž</t>
      </tg>
    </mg>
@@ -2887,7 +2951,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TAQHTT" pos="N">Njäʹhčč</t>
      </tg>
@@ -2899,7 +2963,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Njäʹhččjäuʹrr</t>
      </tg>
@@ -2911,7 +2975,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Nijddkuõškk</t>
      </tg>
@@ -2923,7 +2987,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Nijddnjargg</t>
      </tg>
@@ -2935,7 +2999,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Njeäʹllemjäuʹrr</t>
      </tg>
@@ -2947,7 +3011,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Njarggjäuʹrr</t>
      </tg>
@@ -2959,7 +3023,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Njõlljokk</t>
      </tg>
@@ -2971,7 +3035,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Njõlljäuʹrr</t>
      </tg>
@@ -2983,7 +3047,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG-PL" pos="N">Njõllpõõrt</t>
      </tg>
@@ -2995,7 +3059,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Njââʹvvsijdd</t>
      </tg>
@@ -3007,7 +3071,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PAARR" pos="N">Taarr</t>
      </tg>
@@ -3019,7 +3083,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Nuorgam</t>
      </tg>
@@ -3031,7 +3095,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Njuõʹttjokk</t>
      </tg>
@@ -3043,7 +3107,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Njuõʹttjäuʹrr</t>
      </tg>
@@ -3055,7 +3119,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_HOQPPI-PL" pos="N">Jieʹrni</t>
      </tg>
@@ -3067,7 +3131,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Neäʹlǧǧjäuʹrr</t>
      </tg>
@@ -3079,7 +3143,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Neäʹsǩǩemjäuʹrr</t>
      </tg>
@@ -3091,7 +3155,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Njauddâmsijdd</t>
      </tg>
@@ -3103,7 +3167,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Ååjjaž</t>
      </tg>
@@ -3115,9 +3179,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>demin.</re>
        <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Åållaž</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_LOAQDD" pos="N">Åʹll</t>
      </tg>
    </mg>
@@ -3128,8 +3197,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>miehennimi</re>
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Oʹnddri</t>
      </tg>
    </mg>
@@ -3140,7 +3210,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuåmârjäuʹrr</t>
      </tg>
@@ -3152,7 +3222,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Opukasjäuʹrr</t>
      </tg>
@@ -3164,7 +3234,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_" pos="N">Oʹraško Viõusâs</t>
      </tg>
@@ -3176,7 +3246,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Åʹrddvääʹrr</t>
      </tg>
@@ -3188,7 +3258,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Outakuõškk</t>
      </tg>
@@ -3200,7 +3270,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Paččvuõnn</t>
      </tg>
@@ -3212,7 +3282,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Paččjasijdd</t>
      </tg>
@@ -3224,7 +3294,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Paččjokk</t>
      </tg>
@@ -3236,7 +3306,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Paaʹvvel</t>
      </tg>
@@ -3248,7 +3318,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Pakanajokk</t>
      </tg>
@@ -3260,7 +3330,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Pakšvuõnn</t>
      </tg>
@@ -3272,7 +3342,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_" pos="N">Paalǥâskooʹddi õhttõs</t>
      </tg>
@@ -3284,7 +3354,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Palggsuâl</t>
      </tg>
@@ -3296,7 +3366,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Paalǥâs-suâl</t>
      </tg>
@@ -3308,7 +3378,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Puâllamvääʹrr</t>
      </tg>
@@ -3320,7 +3390,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_TOOBDYLM" pos="N">Päärasǩ</t>
      </tg>
@@ -3332,7 +3402,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Baʹrǩǩen</t>
      </tg>
@@ -3344,7 +3414,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAJOS" pos="N">Päärtõk</t>
      </tg>
@@ -3356,7 +3426,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Pauddjäuʹrr</t>
      </tg>
@@ -3368,7 +3438,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PUOAVV" pos="N">Puåššmiârr</t>
      </tg>
@@ -3380,7 +3450,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Puåšš-Tââʹvv</t>
      </tg>
@@ -3392,7 +3462,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Peäccam</t>
      </tg>
@@ -3404,7 +3474,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Peäccamsijdd</t>
      </tg>
@@ -3416,7 +3486,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TUODDYR" pos="N">Peäccamtuõddâr</t>
      </tg>
@@ -3428,7 +3498,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Peäccamvuõnn</t>
      </tg>
@@ -3440,7 +3510,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Peâttar</t>
      </tg>
@@ -3452,7 +3522,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUEQLL" pos="N">Kåʹddsueʹrr</t>
      </tg>
@@ -3464,7 +3534,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUEQLL" pos="N">Puõckkvueʹmm</t>
      </tg>
@@ -3476,7 +3546,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Pieʹccjokk</t>
      </tg>
@@ -3488,7 +3558,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Pieʹccjäuʹrr</t>
      </tg>
@@ -3500,7 +3570,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Pieʹccvääʹrr</t>
      </tg>
@@ -3512,7 +3582,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Eʹllnaž</t>
      </tg>
@@ -3524,7 +3594,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Uʹcc-Peäccam</t>
      </tg>
@@ -3536,7 +3606,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Piiltâǩjäuʹrr</t>
      </tg>
@@ -3548,7 +3618,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Kuʹǩesjäuʹrr</t>
      </tg>
@@ -3560,7 +3630,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Vuâđđluhtt</t>
      </tg>
@@ -3572,7 +3642,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Vuâđđmiârr</t>
      </tg>
@@ -3584,7 +3654,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_CHUOSHKK" pos="N">Ââʹlmčuõldd</t>
      </tg>
@@ -3596,7 +3666,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PAPP" pos="N">Tâʹvv-Amerikk</t>
      </tg>
@@ -3608,7 +3678,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Tâʹvvjânnam</t>
      </tg>
@@ -3620,7 +3690,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Tâʹvvnääʹpp</t>
      </tg>
@@ -3632,7 +3702,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Tâʹvv-Lääʹddjânnam</t>
      </tg>
@@ -3644,7 +3714,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Tâʹvvjânnam</t>
      </tg>
@@ -3656,7 +3726,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Ââlǥažjäuʹrr</t>
      </tg>
@@ -3668,7 +3738,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUEQSSS" pos="N">Pueʹnn</t>
      </tg>
@@ -3680,7 +3750,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Pueʹnnjokk</t>
      </tg>
@@ -3692,7 +3762,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Porijäuʹrr</t>
      </tg>
@@ -3704,9 +3774,15 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>erisnimi mustalle porolle</re>
        <t Contlex="PROP_MEERSAZH" pos="N">Čaaʹppkaž</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>erisnimi vaaleahkolle porolle</re>
        <t Contlex="PROP_SAJOS" pos="N">Čuõivõk</t>
      </tg>
    </mg>
@@ -3717,7 +3793,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ATOM" pos="N">Portugal</t>
      </tg>
@@ -3729,7 +3805,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Potkklasijdd</t>
      </tg>
@@ -3741,7 +3817,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KOALVAK" pos="N">Polmak</t>
      </tg>
@@ -3753,7 +3829,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Polmakjäuʹrr</t>
      </tg>
@@ -3765,9 +3841,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Peelljaivuõnn</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Pommaivuõnn</t>
      </tg>
    </mg>
@@ -3778,7 +3858,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Peelljavuõnn</t>
      </tg>
@@ -3790,7 +3870,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Poorjâsnjargg</t>
      </tg>
@@ -3802,7 +3882,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MEERSAZH" pos="N">Porjjtaž</t>
      </tg>
@@ -3814,7 +3894,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TUODDYR" pos="N">Pââʹsstuõddâr</t>
      </tg>
@@ -3826,7 +3906,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_LUUBBYL" pos="N">Tuõlbbluubbâl</t>
      </tg>
@@ -3838,7 +3918,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Tuõlbbsââv</t>
      </tg>
@@ -3850,7 +3930,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PAIQKHKH" pos="N">Vueiʹvvkäällpäiʹǩǩ</t>
      </tg>
@@ -3862,7 +3942,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Raajj-Jooʹsep</t>
      </tg>
@@ -3874,7 +3954,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Raajjkuõškk</t>
      </tg>
@@ -3886,7 +3966,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_VUEAIQVV" pos="N">Raajjvueiʹvv</t>
      </tg>
@@ -3898,7 +3978,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Franskkjânnam</t>
      </tg>
@@ -3910,7 +3990,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Ruʹvddjäuʹrr</t>
      </tg>
@@ -3922,7 +4002,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Ruʹvddvääʹrr</t>
      </tg>
@@ -3934,7 +4014,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_UHSS" pos="N">Ruʹvddvääʹrrluhtt</t>
      </tg>
@@ -3946,7 +4026,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Ruʹvddvuõnn</t>
      </tg>
@@ -3958,7 +4038,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Räuddjäuʹrr</t>
      </tg>
@@ -3970,7 +4050,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Räuddčiõʹlj</t>
      </tg>
@@ -3982,7 +4062,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Reissvuõnn</t>
      </tg>
@@ -3994,8 +4074,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>jäniksen nimi sadussa</re>
        <t Contlex="PROP_" pos="N">Risttnjäʹlmm</t>
      </tg>
    </mg>
@@ -4006,7 +4087,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JEAQRMM" pos="N">Risttčuäʹlmm</t>
      </tg>
@@ -4018,7 +4099,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TRUUBA" pos="N">Romania</t>
      </tg>
@@ -4030,7 +4111,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PAPP" pos="N">Ruʹvddkurr</t>
      </tg>
@@ -4042,7 +4123,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Ruäʹvnjargg</t>
      </tg>
@@ -4054,7 +4135,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Rueʹvvčiõʹlj</t>
      </tg>
@@ -4066,7 +4147,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_UHSS" pos="N">Kueʹššluhtt</t>
      </tg>
@@ -4078,7 +4159,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Rueʹvvjäuʹrr</t>
      </tg>
@@ -4090,7 +4171,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TUYJJ" pos="N">Rueʹvv-vuäjj</t>
      </tg>
@@ -4102,7 +4183,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">tâppõs-Lääʹddjânnam</t>
      </tg>
@@ -4114,7 +4195,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Rekkjäuʹrr</t>
      </tg>
@@ -4126,7 +4207,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Saallâm</t>
      </tg>
@@ -4138,7 +4219,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Suâljäuʹrr</t>
      </tg>
@@ -4150,7 +4231,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Suâlkuõškk</t>
      </tg>
@@ -4162,7 +4243,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/PLC_CHIOQLJ" pos="N">Suâlčiõʹlj</t>
      </tg>
@@ -4174,7 +4255,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TRUUBA" pos="N">Sahara</t>
      </tg>
@@ -4186,7 +4267,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_SAQPPLI" pos="N">Säkkri</t>
      </tg>
@@ -4198,9 +4279,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Tuiskkjânnam</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Saksslajânnam</t>
      </tg>
    </mg>
@@ -4211,7 +4296,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JEAQRMM" pos="N">Čuäʹlmm</t>
      </tg>
@@ -4223,7 +4308,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Čuäʹlmmjäuʹrr</t>
      </tg>
@@ -4235,7 +4320,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Sammutjäuʹrr</t>
      </tg>
@@ -4247,8 +4332,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>miehennimi</re>
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Sämssan</t>
      </tg>
    </mg>
@@ -4259,7 +4345,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Čueʹttpieʹccnjargg</t>
      </tg>
@@ -4271,7 +4357,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Säuʹnnredd</t>
      </tg>
@@ -4283,7 +4369,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_CHUOSHKK" pos="N">Suõvvkuõškk</t>
      </tg>
@@ -4295,7 +4381,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Seäʹlǧǧjäuʹrr</t>
      </tg>
@@ -4307,7 +4393,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_SAQPPLI" pos="N">Oʹhssni</t>
      </tg>
@@ -4319,7 +4405,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Siʹrǧǧi</t>
      </tg>
@@ -4331,7 +4417,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Šapššjäuʹrr</t>
      </tg>
@@ -4343,7 +4429,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Silisjokk</t>
      </tg>
@@ -4355,7 +4441,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Silisvääʹrr</t>
      </tg>
@@ -4367,7 +4453,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Semman</t>
      </tg>
@@ -4379,7 +4465,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_SINIDA" pos="N">Sinida</t>
      </tg>
@@ -4391,7 +4477,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TRUUBA" pos="N">Siʹbirja</t>
      </tg>
@@ -4403,7 +4489,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TRUUBA" pos="N">Skandinavia</t>
      </tg>
@@ -4415,7 +4501,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Saallâm</t>
      </tg>
@@ -4427,7 +4513,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Suäʹđjel</t>
      </tg>
@@ -4439,7 +4525,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_LOAQDD" pos="N">Såʹff</t>
      </tg>
@@ -4451,7 +4537,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Solmusjäuʹrr</t>
      </tg>
@@ -4463,8 +4549,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>talvisota</re>
        <t Contlex="PROP_AELDD" pos="N">täʹlvv-väinn</t>
      </tg>
    </mg>
@@ -4475,7 +4562,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Väinnjokk</t>
      </tg>
@@ -4487,7 +4574,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_" pos="N">Teäppneʹd</t>
      </tg>
@@ -4499,7 +4586,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Sundijäuʹrr</t>
      </tg>
@@ -4511,7 +4598,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Čueʹlsjäuʹrr</t>
      </tg>
@@ -4523,7 +4610,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Čueʹlsvuõnn</t>
      </tg>
@@ -4535,7 +4622,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_UHSS" pos="N">Lääʹddluhtt</t>
      </tg>
@@ -4547,9 +4634,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_ALGG" pos="N">Lääʹddjânnam Baŋkk</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_ALGG" pos="N">Lääʹdd Baŋkk</t>
      </tg>
    </mg>
@@ -4560,7 +4651,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_LOAQDD" pos="N">Läʹdd</t>
      </tg>
@@ -4572,9 +4663,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Suõʹnnʼjelsijdd</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KANEL" pos="N">Suõʹnnʼjel</t>
      </tg>
    </mg>
@@ -4585,7 +4680,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Sveiʹccjânnam</t>
      </tg>
@@ -4597,7 +4692,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_LUUBBYL" pos="N">Čiŋŋlõsluubbâl</t>
      </tg>
@@ -4609,7 +4704,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Čiŋŋlõs-Šapššjäuʹrr</t>
      </tg>
@@ -4621,7 +4716,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Čõhččjokk</t>
      </tg>
@@ -4633,7 +4728,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PESS" pos="N">Čõhččmädd</t>
      </tg>
@@ -4645,8 +4740,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>saduissa</re>
        <t Contlex="PROP_SEM/FEM_AACCIKH" pos="N">Aacciǩ</t>
      </tg>
    </mg>
@@ -4657,7 +4753,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SUYL" pos="N">Taalmisuâl</t>
      </tg>
@@ -4669,8 +4765,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>eräs Suonikylän vanhoista talvikylistä</re>
        <t Contlex="PROP_TOP_SIJDD" pos="N">Potkklasijdd</t>
      </tg>
    </mg>
@@ -4681,7 +4778,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_AELDD" pos="N">täʹlvv-väinn</t>
      </tg>
@@ -4693,7 +4790,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Taaʹnnel</t>
      </tg>
@@ -4705,7 +4802,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_AANAR" pos="N">Täđjjan</t>
      </tg>
@@ -4717,7 +4814,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Danskk</t>
      </tg>
@@ -4729,7 +4826,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KAQLBB" pos="N">Täʹrjj</t>
      </tg>
@@ -4741,7 +4838,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Teänjokk</t>
      </tg>
@@ -4753,7 +4850,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Teäppankueʹttjäuʹrr</t>
      </tg>
@@ -4765,7 +4862,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_KAADHNEKH" pos="N">Čuâǥǥasvaaldšem</t>
      </tg>
@@ -4777,7 +4874,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_HOQPPI" pos="N">Timofi</t>
      </tg>
@@ -4789,7 +4886,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Treeffansijdd</t>
      </tg>
@@ -4801,7 +4898,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Čarmmjäuʹrr</t>
      </tg>
@@ -4813,7 +4910,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_TUODDYR" pos="N">Čarmmtuõddâr</t>
      </tg>
@@ -4825,7 +4922,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Čiuttajokk</t>
      </tg>
@@ -4837,7 +4934,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Čokkisjäuʹrr</t>
      </tg>
@@ -4849,7 +4946,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Čurnnjäuʹrr</t>
      </tg>
@@ -4861,8 +4958,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>poika</re>
        <t Contlex="PROP_SEM/MAL_PIISSUZH" pos="N">Kunnpeeipuž</t>
      </tg>
    </mg>
@@ -4873,7 +4971,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_PIISSUZH" pos="N">Kunnpeeipuž</t>
      </tg>
@@ -4885,7 +4983,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_" pos="N">Fooma</t>
      </tg>
@@ -4897,7 +4995,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KAQLBB" pos="N">Tâʹrjj</t>
      </tg>
@@ -4909,7 +5007,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Turkkjânnam</t>
      </tg>
@@ -4921,7 +5019,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Piõggjäuʹrr</t>
      </tg>
@@ -4933,7 +5031,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Tuållâm</t>
      </tg>
@@ -4945,7 +5043,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Tuållâmjokk</t>
      </tg>
@@ -4957,7 +5055,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SIJDD" pos="N">Tuållâmsijdd</t>
      </tg>
@@ -4969,7 +5067,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PUOAVV" pos="N">Kueʹlǩesmiârr</t>
      </tg>
@@ -4981,7 +5079,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Polčč-Peeddar</t>
      </tg>
@@ -4993,7 +5091,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vääʹlesjäuʹrr</t>
      </tg>
@@ -5005,8 +5103,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>naisennimi</re>
        <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Uʹlljnaž</t>
      </tg>
    </mg>
@@ -5017,7 +5116,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_MEERSAZH" pos="N">Uʹlljnaž</t>
      </tg>
@@ -5029,7 +5128,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ATOM" pos="N">Unkar</t>
      </tg>
@@ -5041,7 +5140,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Uccjokk</t>
      </tg>
@@ -5053,7 +5152,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Urrjokk</t>
      </tg>
@@ -5065,7 +5164,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Urrjäuʹrr</t>
      </tg>
@@ -5077,7 +5176,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Urrvuõnn</t>
      </tg>
@@ -5089,7 +5188,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_ALGG" pos="N">Ođđ-Seelantt</t>
      </tg>
@@ -5101,7 +5200,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUSS" pos="N">Uuddjokk</t>
      </tg>
@@ -5113,7 +5212,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vaʹsseljäuʹrr</t>
      </tg>
@@ -5125,7 +5224,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Vaʹsselvääʹrr</t>
      </tg>
@@ -5137,7 +5236,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vainosjäuʹrr</t>
      </tg>
@@ -5149,7 +5248,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Âiʹddvuõnn</t>
      </tg>
@@ -5161,7 +5260,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vääʹlesjäuʹrr</t>
      </tg>
@@ -5173,7 +5272,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_KANEL" pos="N">Spaʹsitel</t>
      </tg>
@@ -5185,7 +5284,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KUYLAZH" pos="N">Spasiteʹlpääutaž</t>
      </tg>
@@ -5197,7 +5296,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Vaʹrjjelvuõnn</t>
      </tg>
@@ -5209,7 +5308,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Vaʹrjjel</t>
      </tg>
@@ -5221,7 +5320,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_AANAR" pos="N">Vaaʹssel</t>
      </tg>
@@ -5233,9 +5332,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_DIQLL" pos="N">Vaʹss</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <re>naisennimi</re>
        <t Contlex="PROP_SEM/FEM_" pos="N">Vaaʹssez</t>
      </tg>
    </mg>
@@ -5246,7 +5350,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_MUORR" pos="N">Veäʹšǩǩviõrr</t>
      </tg>
@@ -5258,9 +5362,14 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>naisennimi (deminutiivi)</re>
        <t Contlex="PROP_SEM/FEM_" pos="N">Vaaʹssez</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_DIQLL" pos="N">Vaʹss</t>
      </tg>
    </mg>
@@ -5271,7 +5380,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/FEM_KUYLAZH" pos="N">Vieʹrmmääkkaž</t>
      </tg>
@@ -5283,7 +5392,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PUOAVV" pos="N">Viõʹlǧǧesmiârr</t>
      </tg>
@@ -5295,7 +5404,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_SAAQMM" pos="N">Ollvääʹrr</t>
      </tg>
@@ -5307,7 +5416,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JEAQRMM" pos="N">Veʹrddčuäʹlmm</t>
      </tg>
@@ -5319,7 +5428,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_SEM/MAL_KUYLAZH" pos="N">Lääddaž</t>
      </tg>
@@ -5331,7 +5440,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vââǥǥtemjäuʹrr</t>
      </tg>
@@ -5343,7 +5452,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vueʹrnsjäuʹrr</t>
      </tg>
@@ -5355,7 +5464,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuõnnjäuʹrr</t>
      </tg>
@@ -5367,7 +5476,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Vuõddâsjäuʹrr</t>
      </tg>
@@ -5379,7 +5488,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_LUUBBYL" pos="N">Vuõddâsluubbâl</t>
      </tg>
@@ -5391,7 +5500,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AELDD-PL" pos="N">Väärǥ</t>
      </tg>
@@ -5403,7 +5512,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Vueʹrjem</t>
      </tg>
@@ -5415,7 +5524,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Vuõccu</t>
      </tg>
@@ -5427,7 +5536,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_PUOAVV" pos="N">Kõskkmiârr</t>
      </tg>
@@ -5439,8 +5548,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
+       <re>paliskunta</re>
        <t Contlex="PROP_TOP_AANAR" pos="N">Väʹččer</t>
      </tg>
    </mg>
@@ -5451,7 +5561,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_KAQLBB" pos="N">Väʹvll</t>
      </tg>
@@ -5463,7 +5573,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_" pos="N">Pâʹjj-Ǩeeuʹŋes</t>
      </tg>
@@ -5475,9 +5585,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Pâʹjj-Sääʹmjânnam</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
        <t Contlex="PROP_TOP_BUKVA" pos="N">Pâʹjj-Lappi</t>
      </tg>
    </mg>
@@ -5488,7 +5602,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_AANAR" pos="N">Pâʹjj-Tuållâm</t>
      </tg>
@@ -5500,7 +5614,7 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
+   <mg relID="0">
      <tg xml:lang="sms">
        <t Contlex="PROP_TOP_JAUQRR" pos="N">Äälisjäuʹrr</t>
      </tg>
