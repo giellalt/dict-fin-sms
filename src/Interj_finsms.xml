@@ -1,356 +1,655 @@
-<?xml version="1.0" encoding="UTF-8"?> <r id="finsms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en"> This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always give proper attribution using the attribution text below. For the full license text, see the link above. </lic> <ref> Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>. </ref>
-     <sourcenote> THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
-     </sourcenote> </lics>
-<e>
-   <lg>
-     <l pos="Interj">aamen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">amen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">hah</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="">hahh</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">hau</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <re>koiran äänestä</re>
-       <t Contlex="" pos="">vuuv</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">hoi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">ai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">hui</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <re>salaman päivittelyhuudahdus</re>
-       <t Contlex="" pos="Interj">sveât</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">huiskis</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="">ripčč</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">hyi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="">phui</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">jaaha</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">jaa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">joo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">joo</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">jospa</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <re>negat. toivomus</re>
-       <t Contlex="N_KAQLBB" pos="N">vâʹrmm</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">kas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">vuânak</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>kas tässä</re>
-       <t Contlex="" pos="Adv">täʹltte</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">katsos</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">vuânak</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">kiitos</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="N_AANAR" pos="N">späʹsseb</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>luojan kiitos (huudahdus kun onnestaa)</re>
-       <t Contlex="" pos="Interj">sloovboh</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">lonks</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <re>esim. kiinni lonksahtavan oven äänestä</re>
-       <t Contlex="" pos="">duŋk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">napsis</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="N">čuåkk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">no</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="">nâ</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>no niin</re>
-       <t Contlex="" pos="Interj">vot</t>
-     </tg>
-   </mg>
-   <mg relID="2">
-     <tg xml:lang="sms">
-       <re>no sitten</re>
-       <t Contlex="" pos="Interj">näʹde</t>
-     </tg>
-   </mg>
-   <mg relID="3">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">nu</t>
-     </tg>
-   </mg>
-   <mg relID="4">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">no</t>
-     </tg>
-   </mg>
-   <mg relID="5">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">ne</t>
-     </tg>
-   </mg>
-   <mg relID="6">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Pcle">a</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">oi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">oi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">pum</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="">duŋ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">räiskis</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="">špååuk -špeäik</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">sur</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <re>suriseva tai kihisevää ääntä kuvaava sana</re>
-       <t Contlex="" pos="">čižž</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">terve</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">tiõrv</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">titityy</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <re>tiaisen ääntä jäljittelevä sana</re>
-       <t Contlex="" pos="">piʹʒʒepiipiipii</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">voi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="ADV_" pos="Adv">vuõi</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">vui</t>
-     </tg>
-   </mg>
-   <mg relID="2">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">voi</t>
-     </tg>
-   </mg>
-   <mg relID="3">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Interj">oi</t>
-     </tg>
-   </mg>
-   <mg relID="4">
-     <tg xml:lang="sms">
-       <t Contlex="ADV_" pos="Adv">vuimmu</t>
-     </tg>
-   </mg>
-   <mg relID="5">
-     <tg xml:lang="sms">
-       <re>voi surkeus!</re>
-       <t Contlex="" pos="Interj">beâddaa</t>
-     </tg>
-   </mg>
-</e>
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="finsms"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
+   xml:lang="fin">
+    <lics xml:space="preserve">
+        <lic xml:lang="en">
+            This code is made available under a Creative Commons Attribution license
+            <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+            You are free to copy, distribute and adapt the work, as long as you always give
+            proper attribution using the attribution text below.
+            For the full license text, see the link above.
+        </lic>
+        <ref>
+            Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities.
+            Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.
+        </ref>
+        <sourcenote>
+            THIS TEXT IS THE ORIGINAL SOURCE CODE.
+            This is NOT a fully styled and published dictionary.
+            As such it can and will contain unfinished entries, unpublished entries,
+            entries with objectionable translations, etc. If you find any errors
+            or want to add more words, download the file, edit it, and send it back to
+            <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote>
+    </lics>
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">aamen</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">amen</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">hah</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="">hahh</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">hau</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>koiran äänestä</re>
+                    <t Contlex=""
+                       pos="">vuuv</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">hoi</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">ai</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">hui</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>salaman päivittelyhuudahdus</re>
+                    <t Contlex=""
+                       pos="Interj">sveât</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">huiskis</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="">ripčč</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">hyi</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="">phui</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">jaaha</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">jaa</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">joo</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">joo</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">jospa</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>negat. toivomus</re>
+                    <t Contlex="N_KAQLBB"
+                       pos="N">vâʹrmm</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">kas</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">vuânak</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                        
+                    <re>kas tässä</re>
+                    <t Contlex=""
+                       pos="Adv">täʹltte</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">katsos</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">vuânak</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">kiitos</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex="N_AANAR"
+                       pos="N">späʹsseb</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                        
+                    <re>luojan kiitos (huudahdus kun onnestaa)</re>
+                    <t Contlex=""
+                       pos="Interj">sloovboh</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">kilin kalin</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex="ADV_"
+                       pos="Adv">škall škall</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="">škall</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">kilkan kalkan</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex="ADV_"
+                       pos="Adv">škaʹls škaʹls</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex="ADV_"
+                       pos="Adv">kåʹlč kåʹlč</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">lonks</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>esim. kiinni lonksahtavan oven äänestä</re>
+                    <t Contlex=""
+                       pos="">duŋk</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">napsis</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="N">čuåkk</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">no</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>no niin</re>
+                    <t Contlex=""
+                       pos="Interj">vot</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                        
+                    <re>no sitten</re>
+                    <t Contlex=""
+                       pos="Interj">näʹde</t>
+                </tg>
+            </mg>
+        
+            <mg relID="2">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="">nâ</t>
+                </tg>
+            </mg>
+        
+            <mg relID="3">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">nu</t>
+                </tg>
+            </mg>
+        
+            <mg relID="4">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">no</t>
+                </tg>
+            </mg>
+        
+            <mg relID="5">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">ne</t>
+                </tg>
+            </mg>
+        
+            <mg relID="6">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="CC">a</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">oi</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">oi</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">pum</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="">duŋ</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">räiskis</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">špååuk-špeäik</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">seh</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>koiralle</re>
+                    <t Contlex=""
+                       pos="Interj">ce</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">sur</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>surisevaa tai kihisevää ääntä kuvaava sana</re>
+                    <t Contlex=""
+                       pos="">čižž</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">tir</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>tirisemistä kuvaileva sana</re>
+                    <t Contlex=""
+                       pos="Interj">cirr cirr</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">titityy</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>tiaisen ääntä jäljittelevä sana</re>
+                    <t Contlex=""
+                       pos="">piʹʒʒepiipiipii</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Interj">voi</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex="ADV_"
+                       pos="Adv">vuõi</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex="ADV_"
+                       pos="Adv">vuimmu</t>
+                </tg>
+            </mg>
+        
+            <mg relID="2">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">oi</t>
+                </tg>
+            </mg>
+        
+            <mg relID="3">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">vui</t>
+                </tg>
+            </mg>
+        
+            <mg relID="4">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Interj">voi</t>
+                </tg>
+            </mg>
+        
+            <mg relID="5">
+                <tg xml:lang="sms"> 
+                        
+                    <re>voi surkeus!</re>
+                    <t Contlex=""
+                       pos="Interj">beâddaa!</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
 </r>

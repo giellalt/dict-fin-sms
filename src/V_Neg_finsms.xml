@@ -24,13 +24,17 @@
 </e>
 <e>
    <lg>
-     <l pos="">ei </l>
+     <l pos="">ei</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="V_" pos="V">jeät</t>
+       <t Contlex="V_" pos="V">jeäʹt</t>
+       <xg>
+	 <x>ei mennä</x>
+	 <xt xml:lang="sms">jeäʹt mõnnu</xt>
+       </xg>
      </tg>
    </mg>
 </e>
@@ -55,12 +59,12 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V-NEG_" pos="V">iʹlla</t>
-       <t Contlex="V_" pos="V">iʹllak</t>
-       <t Contlex="V_" pos="V">iʹllakku</t>
        <t Contlex="V_" pos="V">iʹlle</t>
        <t Contlex="V_" pos="V">iʹlleäk</t>
        <t Contlex="V_" pos="V">iʹlleäkku</t>
        <t Contlex="V_" pos="V">iʹllä</t>
+       <t Contlex="V_" pos="V">iʹllak</t>
+       <t Contlex="V_" pos="V">iʹllakku</t>
      </tg>
    </mg>
 </e>
@@ -73,8 +77,19 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V-NEG_" pos="V">iʹlleʹjje</t>
-       <t Contlex="V_" pos="V">iʹlleʹjje</t>
        <t Contlex="V_" pos="V">iʹlleʹčče</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">eivät olisi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="V-NEG_" pos="V">jieʹleʹjje</t>
      </tg>
    </mg>
 </e>
@@ -87,7 +102,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V-NEG_" pos="V">iʹlleämma</t>
-       <t Contlex="V_" pos="V">iʹlleämma</t>
        <t Contlex="V_" pos="V">iʹlleämmaž</t>
        <t Contlex="V_" pos="V">iʹllääm</t>
      </tg>
@@ -95,13 +109,63 @@
 </e>
 <e>
    <lg>
-     <l pos="">eivät</l>
+     <l pos="V">eikä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg relID="0">
+     <tg xml:lang="sms">
+      <t Contlex="V-NEG_"
+         pos="V">ij-ǥa</t>
+     </tg>
+   </mg>
+   <mg relID="1">
+     <tg xml:lang="sms">
+       <t Contlex=""
+          pos="Pcle">ni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+        <lg>
+            <l pos="V">eikö</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex="V-NEG_"
+                       pos="V">ij-a</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+<e>
+   <lg>
+     <l pos="V">eivät ole</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="V_" pos="V">jiâ</t>
+        <t Contlex="V" pos="">jeäʹlä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">eivät olleet</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="sms">
+       <t Contlex="V-NEG_" pos="V">jeäʹleämma</t>
+       <t Contlex="V_" pos="V">jeäʹläm</t>
+       <t Contlex="V_" pos="V">jeäʹlääm</t>
      </tg>
    </mg>
 </e>
@@ -113,8 +177,9 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="V_" pos="V">jeä</t>
        <t Contlex="V-NEG_" pos="V">jiâ</t>
+       <t Contlex="V_" pos="V">jeä</t>
+       <t Contlex="V-NEG_" pos="V">jie</t>
      </tg>
    </mg>
 </e>
@@ -127,6 +192,7 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V_" pos="V">jeä-ǥa</t>
+       <t Contlex="V-NEG_" pos="V">jie-ǥa</t>
        <t Contlex="V-NEG_" pos="V">jiâ-ǥa</t>
      </tg>
    </mg>
@@ -151,6 +217,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
+       <t Contlex="V-NEG_" pos="V">jiõm</t>
        <t Contlex="V-NEG_" pos="V">jim</t>
      </tg>
    </mg>
@@ -164,17 +231,6 @@
    <mg>
      <tg xml:lang="sms">
        <t Contlex="V_" pos="V">jiõk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">et</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="sms">
        <t Contlex="V-NEG_" pos="V">jik</t>
      </tg>
    </mg>
@@ -200,7 +256,9 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="V-NEG_" pos="V">jieʹlled</t>
+     <t Contlex="V_"
+        pos="V">jeäʹled</t>
+     <t Contlex="V-NEG_" pos="V">jieʹlled</t>
      </tg>
    </mg>
 </e>
@@ -236,7 +294,7 @@
    </lg>
    <mg>
      <tg xml:lang="sms">
-       <t Contlex="V_" pos="V">jeällaz</t>
+       <t Contlex="V-NEG_" pos="V">jeällaz</t>
      </tg>
    </mg>
 </e>

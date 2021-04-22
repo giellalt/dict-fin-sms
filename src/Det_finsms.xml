@@ -1,314 +1,509 @@
-<?xml version="1.0" encoding="UTF-8"?> <r id="finsms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en"> This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always give proper attribution using the attribution text below. For the full license text, see the link above. </lic> <ref> Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>. </ref>
-     <sourcenote> THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
-     </sourcenote> </lics>
-<e>
-   <lg>
-     <l pos="Det">joka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <re>jokainen</re>
-       <t Contlex="DET_ATTR" pos="Det">juõʹǩǩ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">kahdeksas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Det">kääucad</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>kahdeksas osa</re>
-       <t Contlex="N_SAJOS" pos="N">kääucõs</t>
-     </tg>
-   </mg>
-   <mg relID="2">
-     <tg xml:lang="sms">
-       <re>kahdeksantena</re>
-       <t Contlex="ADV_" pos="Adv">kääuceen</t>
-     </tg>
-   </mg>
-   <mg relID="3">
-     <tg xml:lang="sms">
-       <re>kahdeksan kertaa</re>
-       <t Contlex="ADV_" pos="Adv">käʹhccešt</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">kahdestoista</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">kuâtmlååǥǥad</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">koko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Adv">puk</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>koko päivän</re>
-       <t Contlex="ADV_" pos="Adv">ǩeeʹjjmieʹldd peeiʹv</t>
-     </tg>
-   </mg>
-   <mg relID="2">
-     <tg xml:lang="sms">
-       <re>koko ikä</re>
-       <t Contlex="N_PAAQJJ" pos="N">ââʹǩǩpââʹjj</t>
-     </tg>
-   </mg>
-   <mg relID="3">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Det">ceelai</t>
-     </tg>
-   </mg>
-   <mg relID="4">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Pr">ǩeeʹjjmieʹldd</t>
-     </tg>
-   </mg>
-   <mg relID="5">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Det">ceâlai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">kolmas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Det">kuälmad</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>kolmas osa</re>
-       <t Contlex="N_SAJOS" pos="N">kuälmõs</t>
-     </tg>
-   </mg>
-   <mg relID="2">
-     <tg xml:lang="sms">
-       <re>kolmannen kerran</re>
-       <t Contlex="ADV_" pos="Adv">kuälmeešt</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">kuudes</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="" pos="Det">kuuđad</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>kuudes osa</re>
-       <t Contlex="N_SAJOS" pos="N">kuuđõs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">kymmenes</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">lååǥǥad</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">neljäs</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">neelljad</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>neljäs osa</re>
-       <t Contlex="N_SAJOS" pos="N">neelljõs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">neljästoista</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">nenjnmlååǥǥad</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">neljnâmblååǥǥad</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">sadas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">čuâđad</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>sadas osa</re>
-       <t Contlex="N_SAJOS" pos="N">čuâđõs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">seitsemäs</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">čiiččad</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>seitsemäs osa</re>
-       <t Contlex="N_SAJOS" pos="N">čiiččõs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">tuo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <re>tuo tuolla</re>
-       <t Contlex="" pos="Pron">tut</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>tuota noin</re>
-       <t Contlex="ADV_" pos="Adv">mon âʹte</t>
-     </tg>
-   </mg>
-   <mg relID="2">
-     <tg xml:lang="sms">
-       <re>tuota kautta, tuosta</re>
-       <t Contlex="ADV_" pos="Adv">tuuiǥ</t>
-     </tg>
-   </mg>
-   <mg relID="3">
-     <tg xml:lang="sms">
-       <re>tuossa</re>
-       <t Contlex="" pos="">tuʹst</t>
-     </tg>
-   </mg>
-   <mg relID="4">
-     <tg xml:lang="sms">
-       <re>tuolle puolen</re>
-       <t Contlex="ADV_" pos="Adv">tunbeälla</t>
-     </tg>
-   </mg>
-   <mg relID="5">
-     <tg xml:lang="sms">
-       <re>tuota noin</re>
-       <t Contlex="" pos="Interj">ponimaš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">viides</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">viiđad</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>viides osa</re>
-       <t Contlex="N_SAJOS" pos="N">viiđõs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">viidestoista</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">vittmlååǥǥad</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">yhdeksäs</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg relID="0">
-     <tg xml:lang="sms">
-       <t Contlex="DET_NEELLJAD" pos="Det">ååucad</t>
-     </tg>
-   </mg>
-   <mg relID="1">
-     <tg xml:lang="sms">
-       <re>yhdeksäs osa</re>
-       <t Contlex="N_SAJOS" pos="N">ååucõs</t>
-     </tg>
-   </mg>
-</e>
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="finsms"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
+   xml:lang="fin">
+    <lics xml:space="preserve">
+        <lic xml:lang="en">
+            This code is made available under a Creative Commons Attribution license
+            <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+            You are free to copy, distribute and adapt the work, as long as you always give
+            proper attribution using the attribution text below.
+            For the full license text, see the link above.
+        </lic>
+        <ref>
+            Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities.
+            Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.
+        </ref>
+        <sourcenote>
+            THIS TEXT IS THE ORIGINAL SOURCE CODE.
+            This is NOT a fully styled and published dictionary.
+            As such it can and will contain unfinished entries, unpublished entries,
+            entries with objectionable translations, etc. If you find any errors
+            or want to add more words, download the file, edit it, and send it back to
+            <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote>
+    </lics>
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">joka</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>jokainen</re>
+                    <t Contlex="DET_ATTR"
+                       pos="Det">juõʹǩǩ</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">kahdeksas</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>kahdeksas osa</re>
+                    <t Contlex="N_SAJOS"
+                       pos="N">kääucõs</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                        
+                    <re>kahdeksantena</re>
+                    <t Contlex="ADV_"
+                       pos="Adv">kääuceen</t>
+                </tg>
+            </mg>
+        
+            <mg relID="2">
+                <tg xml:lang="sms"> 
+                        
+                    <re>kahdeksan kertaa</re>
+                    <t Contlex="ADV_"
+                       pos="Adv">käʹhccešt</t>
+                </tg>
+            </mg>
+        
+            <mg relID="3">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Det">kääucad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">kahdestoista</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">kuâtmlååǥǥad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">koko</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Adv">puk</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                        
+                    <re>koko ikä</re>
+                    <t Contlex="N_PAAQJJ"
+                       pos="N">ââʹǩǩpââʹjj</t>
+                </tg>
+            </mg>
+        
+            <mg relID="2">
+                <tg xml:lang="sms"> 
+                        
+                    <re>koko päivän</re>
+                    <t Contlex="ADV_"
+                       pos="Adv">ǩeeʹjjmieʹldd peeiʹv</t>
+                </tg>
+            </mg>
+        
+            <mg relID="3">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Pr">ǩeeʹjjmieʹldd</t>
+                </tg>
+            </mg>
+        
+            <mg relID="4">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Det">ceelai</t>
+                </tg>
+            </mg>
+        
+            <mg relID="5">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Det">ceâlai</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">kolmas</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>kolmas osa</re>
+                    <t Contlex="N_SAJOS"
+                       pos="N">kuälmõs</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Det">kuälmad</t>
+                </tg>
+            </mg>
+        
+            <mg relID="2">
+                <tg xml:lang="sms"> 
+                        
+                    <re>kolmannen kerran</re>
+                    <t Contlex="ADV_"
+                       pos="Adv">kuälmeešt</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">kuudes</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>kuudes osa</re>
+                    <t Contlex="N_SAJOS"
+                       pos="N">kuuđõs</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex=""
+                       pos="Det">kuuđad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">kymmenes</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">lååǥǥad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">neljäs</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>neljäs osa</re>
+                    <t Contlex="N_SAJOS"
+                       pos="N">neelljõs</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">neelljad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">neljästoista</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">nenjnmlååǥǥad</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">neljnâmblååǥǥad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">sadas</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>sadas osa</re>
+                    <t Contlex="N_SAJOS"
+                       pos="N">čuâđõs</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">čuâđad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">seitsemäs</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>seitsemäs osa</re>
+                    <t Contlex="N_SAJOS"
+                       pos="N">čiiččõs</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">čiiččad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">tuo</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>tuo tuolla</re>
+                    <t Contlex=""
+                       pos="Pron">tut</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                        
+                    <re>tuossa</re>
+                    <t Contlex=""
+                       pos="">tuʹst</t>
+                </tg>
+            </mg>
+        
+            <mg relID="2">
+                <tg xml:lang="sms"> 
+                        
+                    <re>tuota noin</re>
+                    <t Contlex="ADV_"
+                       pos="Adv">mon âʹte</t>
+                </tg>
+            </mg>
+        
+            <mg relID="3">
+                <tg xml:lang="sms"> 
+                        
+                    <re>tuota kautta, tuosta; tuossa kohdassa</re>
+                    <t Contlex="ADV_"
+                       pos="Adv">tuuiǥ</t>
+                </tg>
+            </mg>
+        
+            <mg relID="4">
+                <tg xml:lang="sms"> 
+                        
+                    <re>tuolle puolen</re>
+                    <t Contlex="ADV_"
+                       pos="Adv">tunbeälla</t>
+                </tg>
+            </mg>
+        
+            <mg relID="5">
+                <tg xml:lang="sms"> 
+                        
+                    <re>tuota noin</re>
+                    <t Contlex=""
+                       pos="Interj">ponimaš</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">viides</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>viides osa</re>
+                    <t Contlex="N_SAJOS"
+                       pos="N">viiđõs</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">viiđad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">viidestoista</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">vittmlååǥǥad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
+        
+    <e>
+        <lg>
+            <l pos="Det">yhdeksäs</l>
+            <stg>
+                <st/>
+            </stg>
+        </lg>
+        
+            <mg relID="0">
+                <tg xml:lang="sms"> 
+                        
+                    <re>yhdeksäs osa</re>
+                    <t Contlex="N_SAJOS"
+                       pos="N">ååucõs</t>
+                </tg>
+            </mg>
+        
+            <mg relID="1">
+                <tg xml:lang="sms"> 
+                    <t Contlex="DET_NEELLJAD"
+                       pos="Det">ååucad</t>
+                </tg>
+            </mg>
+        
+    </e>
+
+    
 </r>
