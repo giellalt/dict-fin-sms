@@ -80247,7 +80247,7 @@
         
     <e>
         <lg>
-            <l pos="V">tavata</l>
+            <l pos="V" hid="Hom1">tavata</l>
             <stg>
                 <st/>
             </stg>
@@ -80341,7 +80341,7 @@
         
     <e>
         <lg>
-            <l pos="V">tavata</l>
+            <l pos="V" hid="Hom2">tavata</l>
             <stg>
                 <st/>
             </stg>
@@ -80349,6 +80349,7 @@
         
             <mg relID="0">
                 <tg xml:lang="sms"> 
+                    <re>lukea tai luetella kirjain kirjaimelta</re>
                     <t Contlex="V_SHORRNED"
                        pos="V">tävvted</t>
                 </tg>
@@ -80356,6 +80357,7 @@
         
             <mg relID="1">
                 <tg xml:lang="sms"> 
+                    <re>lukea tai luetella kirjain kirjaimelta</re>
                     <t Contlex="V_VOQLLJED"
                        pos="V">taʹvvjed</t>
                 </tg>
