@@ -1,6 +1,6 @@
 remote_theme: giellalt/jekyll-theme-giellalt@main
 title: Dictionary for Finnish ⇒ Skolt Sámi
-description: An electronic dictionary from Finnish to  Skolt Sámi
+description: An electronic dictionary from Finnish to Skolt Sámi
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
