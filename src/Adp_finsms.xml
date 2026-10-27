@@ -40,7 +40,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">vuâlbeäʹlnn</t>
@@ -59,7 +59,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">vuâlbeäʹlnn</t>
@@ -78,7 +78,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">vuâlbeäʹl</t>
@@ -97,7 +97,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">vuâlbeäʹl</t>
@@ -116,7 +116,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">sââʹjest</t>
@@ -135,7 +135,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>jostakin</re>
@@ -144,7 +144,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>johonkin</re>
@@ -153,7 +153,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>siihen asti</re>
@@ -162,7 +162,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                         
                     <re>siitä asti</re>
@@ -171,7 +171,7 @@
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                         
                     <re>siihen asti (ajallisesti)</re>
@@ -192,14 +192,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">vuäivva</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">veäkka</t>
@@ -218,7 +218,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>suoraan edessä</re>
@@ -227,7 +227,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">ooudâst</t>
@@ -246,35 +246,35 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">ooudbeäʹlnn</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">ooudbeäʹl</t>
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">ouddâl</t>
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">ooudbeäʹl</t>
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                         
                     <re>ennen vanhaan</re>
@@ -283,7 +283,7 @@
                 </tg>
             </mg>
         
-            <mg relID="5">
+            <mg relId="5">
                 <tg xml:lang="sms"> 
                         
                     <re>ennen kuin</re>
@@ -304,14 +304,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">ooudbeälla</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">ooudbeälla</t>
@@ -330,14 +330,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">kuvddân</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>mennä halki</re>
@@ -346,7 +346,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>mennä halki</re>
@@ -367,7 +367,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="">huõlǩâni</t>
@@ -386,7 +386,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">huõđđu</t>
@@ -405,7 +405,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>jotakin</re>
@@ -414,7 +414,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>ilman mitään</re>
@@ -423,7 +423,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>ilman mitään</re>
@@ -432,7 +432,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                         
                     <re>jotakin</re>
@@ -441,7 +441,7 @@
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                         
                     <re>jotakin</re>
@@ -462,14 +462,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Pr">mâŋŋa</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>jälkeensä</re>
@@ -478,14 +478,14 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">mââibeäʹlnn</t>
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">mââibeälla</t>
@@ -504,14 +504,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">pääiʹǩ</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>tätä kautta</re>
@@ -520,7 +520,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>sitä kautta</re>
@@ -529,7 +529,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                         
                     <re>tätä kautta</re>
@@ -538,7 +538,7 @@
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                         
                     <re>sitä kautta</re>
@@ -547,7 +547,7 @@
                 </tg>
             </mg>
         
-            <mg relID="5">
+            <mg relId="5">
                 <tg xml:lang="sms"> 
                         
                     <re>mitä kautta</re>
@@ -556,7 +556,7 @@
                 </tg>
             </mg>
         
-            <mg relID="6">
+            <mg relId="6">
                 <tg xml:lang="sms"> 
                         
                     <re>tuota kautta</re>
@@ -577,7 +577,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">kõʹsǩǩe</t>
@@ -596,14 +596,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">årra</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>lähelle</re>
@@ -612,7 +612,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>lähelle</re>
@@ -633,14 +633,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">åʹrren</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>luonani</re>
@@ -649,7 +649,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>luonasi</re>
@@ -658,7 +658,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                         
                     <re>(heidän) luonansa</re>
@@ -667,7 +667,7 @@
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                         
                     <re>lähellä</re>
@@ -676,7 +676,7 @@
                 </tg>
             </mg>
         
-            <mg relID="5">
+            <mg relId="5">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">åʹrnn</t>
@@ -695,14 +695,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">vueʹrnn</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>läheltä</re>
@@ -711,7 +711,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>luotani</re>
@@ -720,7 +720,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                         
                     <re>(heidän) luotaan</re>
@@ -741,21 +741,21 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="">luzz</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="">luuzz</t>
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="">ââlda</t>
@@ -774,14 +774,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">luʹnn</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="">ââlda</t>
@@ -800,14 +800,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="">ââlda</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">luʹnn</t>
@@ -826,7 +826,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">čõõđ</t>
@@ -845,7 +845,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>tähän mennessä</re>
@@ -854,7 +854,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>tähän mennessä</re>
@@ -863,7 +863,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>tähän mennessä</re>
@@ -872,7 +872,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                         
                     <re>johonkin mennessä</re>
@@ -893,7 +893,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>maata myöten, maata pitkin</re>
@@ -902,7 +902,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>pitkin</re>
@@ -911,14 +911,14 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">mieʹtt</t>
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                         
                     <re>pitkin</re>
@@ -939,7 +939,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>= nojalla</re>
@@ -960,7 +960,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>lisäksi</re>
@@ -969,7 +969,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>lisäksi</re>
@@ -978,7 +978,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>vierellä</re>
@@ -999,14 +999,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">rääi</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>yrittää päästä ohi</re>
@@ -1015,7 +1015,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>mennä ohi</re>
@@ -1024,7 +1024,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">kuâŋŋad</t>
@@ -1043,7 +1043,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">rääi</t>
@@ -1062,14 +1062,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="">grååm ǥu</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>(ilman)</re>
@@ -1078,7 +1078,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">jeäʹrab</t>
@@ -1097,14 +1097,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">mieʹldd</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>tuoda perässään</re>
@@ -1113,7 +1113,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>alkaa tulla perässä</re>
@@ -1122,14 +1122,14 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">mââibeäʹlnn</t>
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">mâʹŋŋlest</t>
@@ -1148,21 +1148,21 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_MIEQLDD"
                        pos="Adv">mieʹldd</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">kuâŋŋa</t>
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>loppuun asti</re>
@@ -1171,7 +1171,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                         
                     <re>loppuun asti</re>
@@ -1180,7 +1180,7 @@
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                         
                     <re>pitkin päivää</re>
@@ -1189,7 +1189,7 @@
                 </tg>
             </mg>
         
-            <mg relID="5">
+            <mg relId="5">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">kuâŋŋ</t>
@@ -1208,7 +1208,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">tââvbeälla</t>
@@ -1227,14 +1227,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">tââvbeäʹlnn</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">tââvbeäʹl</t>
@@ -1253,7 +1253,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">tââvbeäʹl</t>
@@ -1272,7 +1272,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">beäʹlnn</t>
@@ -1291,7 +1291,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">beälla</t>
@@ -1310,7 +1310,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">beäʹlnn</t>
@@ -1329,7 +1329,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>päälleni</re>
@@ -1338,7 +1338,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>(hänen) päälleen</re>
@@ -1347,7 +1347,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>päällemme</re>
@@ -1356,7 +1356,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                         
                     <re>päällesi</re>
@@ -1365,7 +1365,7 @@
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                         
                     <re>päällenne</re>
@@ -1374,7 +1374,7 @@
                 </tg>
             </mg>
         
-            <mg relID="5">
+            <mg relId="5">
                 <tg xml:lang="sms"> 
                         
                     <re>(heidän) päälleen</re>
@@ -1383,7 +1383,7 @@
                 </tg>
             </mg>
         
-            <mg relID="6">
+            <mg relId="6">
                 <tg xml:lang="sms"> 
                         
                     <re>myös: lisäksi</re>
@@ -1404,7 +1404,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">kuâŋŋsest</t>
@@ -1423,7 +1423,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">paaldâst</t>
@@ -1442,7 +1442,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>jostakin</re>
@@ -1451,7 +1451,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>johonkin</re>
@@ -1472,7 +1472,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>seassa, seasta</re>
@@ -1481,7 +1481,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">seʹst</t>
@@ -1500,7 +1500,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">seʹst</t>
@@ -1519,7 +1519,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">seäkka</t>
@@ -1538,7 +1538,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">sâjja</t>
@@ -1557,7 +1557,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">sââʹjest</t>
@@ -1576,7 +1576,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">sââʹjest</t>
@@ -1595,7 +1595,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">seʹst</t>
@@ -1614,7 +1614,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">seʹst</t>
@@ -1633,7 +1633,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">siiʹsǩbeäʹlnn</t>
@@ -1652,7 +1652,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">siiʹsǩbeälla</t>
@@ -1671,7 +1671,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">siiʹsǩbeäʹlnn</t>
@@ -1690,7 +1690,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">kuâŋŋad</t>
@@ -1709,7 +1709,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">tuäʹresbeäʹl</t>
@@ -1728,7 +1728,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">tuäʹresbeäʹl</t>
@@ -1747,7 +1747,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>taakseen</re>
@@ -1756,7 +1756,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>perään, perälle</re>
@@ -1765,7 +1765,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>takapuolelle</re>
@@ -1786,14 +1786,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">vueʹrnn</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">åʹrnn</t>
@@ -1812,7 +1812,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>jonkin takana, toisella puolella</re>
@@ -1821,7 +1821,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>perässä, perällä</re>
@@ -1830,7 +1830,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>perässä, perällä</re>
@@ -1851,7 +1851,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>peräpuolella</re>
@@ -1860,7 +1860,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>jonkin toisella puolella</re>
@@ -1881,7 +1881,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>peräpuolelle</re>
@@ -1890,14 +1890,14 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">tuâǥǥbeälla</t>
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>jonkin toiselle puolelle</re>
@@ -1918,7 +1918,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>peräpuolella</re>
@@ -1927,7 +1927,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>jonkin toisella puolella</re>
@@ -1948,7 +1948,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>jonkin toista puolta</re>
@@ -1957,7 +1957,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>peräpuolta</re>
@@ -1978,7 +1978,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>jonkin toista puolta</re>
@@ -1987,7 +1987,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>peräpuolta</re>
@@ -2008,7 +2008,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>(omalla) tavallaan</re>
@@ -2017,7 +2017,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>tavallaan</re>
@@ -2026,7 +2026,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>sillä tavalla</re>
@@ -2035,21 +2035,21 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="">nälla</t>
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">nalla</t>
                 </tg>
             </mg>
         
-            <mg relID="5">
+            <mg relId="5">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">vuâkka</t>
@@ -2068,7 +2068,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>sillä tavoin</re>
@@ -2077,7 +2077,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>sillä tavoin</re>
@@ -2086,7 +2086,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">nalla</t>
@@ -2105,7 +2105,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">väjja</t>
@@ -2124,14 +2124,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">peällsest</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">kuâŋŋsest</t>
@@ -2150,7 +2150,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>toisiaan</re>
@@ -2159,7 +2159,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">puõtt</t>
@@ -2178,7 +2178,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADV_"
                        pos="Adv">vuâstta</t>
@@ -2197,7 +2197,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">paʹldde</t>
@@ -2216,7 +2216,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">paʹldde</t>
@@ -2235,7 +2235,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>vierestä (ohi)</re>
@@ -2244,7 +2244,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">paaldâst</t>
@@ -2263,14 +2263,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">paaldâst</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>vierestä (ohi)</re>
@@ -2291,7 +2291,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">pâʹjjel</t>
@@ -2310,7 +2310,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>ylleni</re>
@@ -2319,7 +2319,7 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>(hänen) ylleen</re>
@@ -2328,7 +2328,7 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>yllesi</re>
@@ -2337,14 +2337,14 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">ool</t>
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                         
                     <re>yllenne</re>
@@ -2353,7 +2353,7 @@
                 </tg>
             </mg>
         
-            <mg relID="5">
+            <mg relId="5">
                 <tg xml:lang="sms"> 
                         
                     <re>yllemme</re>
@@ -2362,7 +2362,7 @@
                 </tg>
             </mg>
         
-            <mg relID="6">
+            <mg relId="6">
                 <tg xml:lang="sms"> 
                         
                     <re>(heidän) ylleen</re>
@@ -2371,7 +2371,7 @@
                 </tg>
             </mg>
         
-            <mg relID="7">
+            <mg relId="7">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">õõl</t>
@@ -2390,7 +2390,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">pââibeäʹlnn</t>
@@ -2409,7 +2409,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">pââibeälla</t>
@@ -2428,7 +2428,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Po">pââibeäʹlnn</t>
@@ -2447,7 +2447,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                         
                     <re>ympäri vuoden</re>
@@ -2456,14 +2456,14 @@
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">pirr</t>
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">piirâs</t>
@@ -2482,7 +2482,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adp">piirâs</t>
@@ -2501,7 +2501,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">peällsa</t>
@@ -2520,7 +2520,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="ADP_"
                        pos="Po">peällsa</t>

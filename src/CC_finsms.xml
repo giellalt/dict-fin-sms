@@ -40,14 +40,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="V-NEG_"
                        pos="V">ij-ǥa</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Pcle">ni</t>
@@ -66,7 +66,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">leʹbe</t>
@@ -85,7 +85,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">da</t>
@@ -104,21 +104,21 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">ja</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">da</t>
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                         
                     <re>ja niin edelleen</re>
@@ -127,7 +127,7 @@
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">di</t>
@@ -146,14 +146,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="CS_"
                        pos="CS">aǥu</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                         
                     <re>joshan</re>
@@ -162,28 +162,28 @@
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">ku mâka</t>
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">ku</t>
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">jõs</t>
                 </tg>
             </mg>
         
-            <mg relID="5">
+            <mg relId="5">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">jos</t>
@@ -202,35 +202,35 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="Adv">seša</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">leša</t>
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">seâša</t>
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">leâša</t>
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">a</t>
@@ -249,7 +249,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">leâša</t>
@@ -268,14 +268,14 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">di</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">da</t>
@@ -294,7 +294,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">leʹbe</t>
@@ -313,42 +313,42 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">leâša</t>
                 </tg>
             </mg>
         
-            <mg relID="1">
+            <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">peʹce</t>
                 </tg>
             </mg>
         
-            <mg relID="2">
+            <mg relId="2">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
                        pos="CC">a</t>
                 </tg>
             </mg>
         
-            <mg relID="3">
+            <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">nâǥa</t>
                 </tg>
             </mg>
         
-            <mg relID="4">
+            <mg relId="4">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">seâša</t>
                 </tg>
             </mg>
         
-            <mg relID="5">
+            <mg relId="5">
                 <tg xml:lang="sms"> 
                         
                     <re>vain</re>
@@ -369,7 +369,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="CC_"
                        pos="CC">avi</t>

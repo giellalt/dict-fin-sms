@@ -117,13 +117,13 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg relID="0">
+   <mg relId="0">
      <tg xml:lang="sms">
       <t Contlex="V-NEG_"
          pos="V">ij-ǥa</t>
      </tg>
    </mg>
-   <mg relID="1">
+   <mg relId="1">
      <tg xml:lang="sms">
        <t Contlex=""
           pos="Pcle">ni</t>
@@ -138,7 +138,7 @@
             </stg>
         </lg>
         
-            <mg relID="0">
+            <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex="V-NEG_"
                        pos="V">ij-a</t>
