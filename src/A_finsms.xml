@@ -7358,7 +7358,7 @@
                         
                     <re>huominen päivä</re>
                     <t Contlex=""
-                       pos="">jââđjaž peiʹvv</t>
+                       t_type="Phrase">jââđjaž peiʹvv</t>
                 </tg>
             </mg>
         
@@ -7943,7 +7943,7 @@
                         
                     <re>käytti hyväksi</re>
                     <t Contlex=""
-                       pos="">õõʹni äuʹǩǩen</t>
+                       t_type="Phrase">õõʹni äuʹǩǩen</t>
                 </tg>
             </mg>
         
@@ -20222,7 +20222,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">päärnai nalla</t>
+                       t_type="Phrase">päärnai nalla</t>
                 </tg>
             </mg>
         
@@ -35989,7 +35989,7 @@
                         
                     <re>raskaana naisesta</re>
                     <t Contlex=""
-                       pos="">päärnai vuâstta</t>
+                       t_type="Phrase">päärnai vuâstta</t>
                 </tg>
             </mg>
         
@@ -39665,7 +39665,7 @@
                         
                     <re>sellainen ja sellainen</re>
                     <t Contlex=""
-                       pos="">dimåkam dimåkam</t>
+                       t_type="Phrase">dimåkam dimåkam</t>
                 </tg>
             </mg>
         

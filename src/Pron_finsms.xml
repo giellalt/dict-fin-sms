@@ -662,7 +662,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">ni ǩii</t>
+                       t_type="Phrase">ni ǩii</t>
                 </tg>
             </mg>
         
@@ -735,7 +735,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">ni kuäbbaž</t>
+                       t_type="Phrase">ni kuäbbaž</t>
                 </tg>
             </mg>
         
@@ -1429,7 +1429,7 @@
                         
                     <re>sen jälkeen</re>
                     <t Contlex=""
-                       pos="">mâŋŋa dõʹst</t>
+                       t_type="Phrase">mâŋŋa dõʹst</t>
                 </tg>
             </mg>
         

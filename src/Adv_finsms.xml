@@ -2722,7 +2722,7 @@
                         
                     <re>tällä haavaa</re>
                     <t Contlex=""
-                       pos="">tään vuâra</t>
+                       t_type="Phrase">tään vuâra</t>
                 </tg>
             </mg>
         
@@ -3393,7 +3393,7 @@
                         
                     <re>meni hukkaan</re>
                     <t Contlex=""
-                       pos="">mõõni tuʹššen</t>
+                       t_type="Phrase">mõõni tuʹššen</t>
                 </tg>
             </mg>
         
@@ -6715,7 +6715,7 @@
                         
                     <re>Mistä olet kotoisin?</re>
                     <t Contlex=""
-                       pos="">Koon åʹrnn leäk?</t>
+                       t_type="Phrase">Koon åʹrnn leäk?</t>
                 </tg>
             </mg>
         
@@ -8386,7 +8386,7 @@
                         
                     <re>minun läsnäollessani</re>
                     <t Contlex=""
-                       pos="">muu poodd</t>
+                       t_type="Phrase">muu poodd</t>
                 </tg>
             </mg>
         
@@ -8523,7 +8523,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">miõllâd mieʹldd leeʹd</t>
+                       t_type="Phrase">miõllâd mieʹldd leeʹd</t>
                 </tg>
             </mg>
         
@@ -8840,7 +8840,7 @@
                         
                     <re>minne lie mennyt</re>
                     <t Contlex=""
-                       pos="">koon dõõzz še mõõni</t>
+                       t_type="Phrase">koon dõõzz še mõõni</t>
                 </tg>
             </mg>
         
@@ -13072,7 +13072,7 @@
                         
                     <re>naisesta</re>
                     <t Contlex=""
-                       pos="">päärnai vuâstta</t>
+                       t_type="Phrase">päärnai vuâstta</t>
                 </tg>
             </mg>
         
@@ -14012,7 +14012,7 @@
                         
                     <re>paitsi silloin kun</re>
                     <t Contlex=""
-                       pos="">grååʹm gu</t>
+                       t_type="Phrase">grååʹm gu</t>
                 </tg>
             </mg>
         
@@ -15880,7 +15880,7 @@
             <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">tuei vueʹlnn</t>
+                       t_type="Phrase">tuei vueʹlnn</t>
                 </tg>
             </mg>
         
@@ -18672,7 +18672,7 @@
                         
                     <re>viikon verran</re>
                     <t Contlex=""
-                       pos="">nieʹttel veeʹrd</t>
+                       t_type="Phrase">nieʹttel veeʹrd</t>
                 </tg>
             </mg>
         
@@ -19115,7 +19115,7 @@
                         
                     <re>jonakin vuonna</re>
                     <t Contlex=""
-                       pos="">mõn-ne eeʹjj</t>
+                       t_type="Phrase">mõn-ne eeʹjj</t>
                 </tg>
             </mg>
         

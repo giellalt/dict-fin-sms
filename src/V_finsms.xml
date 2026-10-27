@@ -1806,7 +1806,7 @@
                         
                     <re>anna (~ antaa) olla</re>
                     <t Contlex=""
-                       pos="">äʹnn-i åårr</t>
+                       t_type="Phrase">äʹnn-i åårr</t>
                 </tg>
             </mg>
         
@@ -32259,7 +32259,7 @@
             <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">kõõlmted jiijjâs</t>
+                       t_type="Phrase">kõõlmted jiijjâs</t>
                 </tg>
             </mg>
         
@@ -33450,7 +33450,7 @@
             <mg relId="3">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">ǩiõđ uʹvdded</t>
+                       t_type="Phrase">ǩiõđ uʹvdded</t>
                 </tg>
             </mg>
         
@@ -38003,7 +38003,7 @@
                         
                     <re>mieltä</re>
                     <t Contlex=""
-                       pos="">likstâʹtted miõl</t>
+                       t_type="Phrase">likstâʹtted miõl</t>
                 </tg>
             </mg>
         
@@ -41765,7 +41765,7 @@
                         
                     <re>tästä lähtien</re>
                     <t Contlex=""
-                       pos="">täʹst õõudâs</t>
+                       t_type="Phrase">täʹst õõudâs</t>
                 </tg>
             </mg>
         
@@ -50396,7 +50396,7 @@
                         
                     <re>minun nähteni</re>
                     <t Contlex=""
-                       pos="">muu poodd</t>
+                       t_type="Phrase">muu poodd</t>
                 </tg>
             </mg>
         
@@ -54131,7 +54131,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">piâld siõrrâd</t>
+                       t_type="Phrase">piâld siõrrâd</t>
                 </tg>
             </mg>
         
@@ -56298,7 +56298,7 @@
                         
                     <re>se perustuu johonkin</re>
                     <t Contlex=""
-                       pos="">tõz lij vuâđđan mii-ne</t>
+                       t_type="Phrase">tõz lij vuâđđan mii-ne</t>
                 </tg>
             </mg>
         

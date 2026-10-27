@@ -689,7 +689,7 @@
                         
                     <re>yhdelle, joka jää</re>
                     <t Contlex=""
-                       pos="">kuõđđu tiõrvân</t>
+                       t_type="Phrase">kuõđđu tiõrvân</t>
                 </tg>
             </mg>
         
@@ -915,7 +915,7 @@
                         
                     <re>yhdelle</re>
                     <t Contlex=""
-                       pos="">puäʹđ tiõrvân</t>
+                       t_type="Phrase">puäʹđ tiõrvân</t>
                 </tg>
             </mg>
         

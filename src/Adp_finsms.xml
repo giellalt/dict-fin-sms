@@ -1065,7 +1065,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">grååm ǥu</t>
+                       t_type="Phrase">grååm ǥu</t>
                 </tg>
             </mg>
         

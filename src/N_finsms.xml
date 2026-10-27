@@ -19905,7 +19905,7 @@
                         
                     <re>sillä ehdolla</re>
                     <t Contlex=""
-                       pos="">tõn määiʹnest</t>
+                       t_type="Phrase">tõn määiʹnest</t>
                 </tg>
             </mg>
         
@@ -42247,7 +42247,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">ǩeâllsamma päiʹǩǩ</t>
+                       t_type="Phrase">ǩeâllsamma päiʹǩǩ</t>
                 </tg>
             </mg>
         
@@ -48777,7 +48777,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">jââđjaž peiʹvv</t>
+                       t_type="Phrase">jââđjaž peiʹvv</t>
                 </tg>
             </mg>
         
@@ -175293,7 +175293,7 @@
                         
                     <re>olla mieliksi</re>
                     <t Contlex=""
-                       pos="">miõllâd mieʹldd leeʹd</t>
+                       t_type="Phrase">miõllâd mieʹldd leeʹd</t>
                 </tg>
             </mg>
         
@@ -210559,7 +210559,7 @@
                         
                     <re>lyödä palloa</re>
                     <t Contlex=""
-                       pos="">piâld siõrrâd</t>
+                       t_type="Phrase">piâld siõrrâd</t>
                 </tg>
             </mg>
         
@@ -239647,7 +239647,7 @@
                         
                     <re>puolilta päivin</re>
                     <t Contlex=""
-                       pos="">kõskkpeeiʹv ääiʹj</t>
+                       t_type="Phrase">kõskkpeeiʹv ääiʹj</t>
                 </tg>
             </mg>
         
@@ -239994,7 +239994,7 @@
                         
                     <re>puolilta päivin</re>
                     <t Contlex=""
-                       pos="">kõskkpeeiʹv ääiʹj</t>
+                       t_type="Phrase">kõskkpeeiʹv ääiʹj</t>
                 </tg>
             </mg>
         
@@ -349367,7 +349367,7 @@
             <mg relId="1">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">čuuʹđ äʹttem</t>
+                       t_type="Phrase">čuuʹđ äʹttem</t>
                 </tg>
             </mg>
         
@@ -366500,7 +366500,7 @@
                         
                     <re>viikon verran</re>
                     <t Contlex=""
-                       pos="">nieʹttel veeʹrd</t>
+                       t_type="Phrase">nieʹttel veeʹrd</t>
                 </tg>
             </mg>
         
@@ -367352,7 +367352,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">kuʹrččes čaʹlmm</t>
+                       t_type="Phrase">kuʹrččes čaʹlmm</t>
                 </tg>
             </mg>
         
@@ -368146,7 +368146,7 @@
                         
                     <re>mikä on vikana?</re>
                     <t Contlex=""
-                       pos="">mii lij väddan?</t>
+                       t_type="Phrase">mii lij väddan?</t>
                 </tg>
             </mg>
         
@@ -368155,7 +368155,7 @@
                         
                     <re>mikä on vikana?</re>
                     <t Contlex=""
-                       pos="">mii lij vââʹǩǩen?</t>
+                       t_type="Phrase">mii lij vââʹǩǩen?</t>
                 </tg>
             </mg>
         
@@ -370887,7 +370887,7 @@
                         
                     <re>hän tunsi virtsaamisen tarvetta</re>
                     <t Contlex=""
-                       pos="">suu kooǯǯti</t>
+                       t_type="Phrase">suu kooǯǯti</t>
                 </tg>
             </mg>
         
@@ -375356,7 +375356,7 @@
                         
                     <re>vähältä piti, ettei</re>
                     <t Contlex=""
-                       pos="">simmnast ij</t>
+                       t_type="Phrase">simmnast ij</t>
                 </tg>
             </mg>
         
@@ -383352,7 +383352,7 @@
             <mg relId="0">
                 <tg xml:lang="sms"> 
                     <t Contlex=""
-                       pos="">luõvâs pärnn</t>
+                       t_type="Phrase">luõvâs pärnn</t>
                 </tg>
             </mg>
         
